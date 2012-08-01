@@ -1,7 +1,7 @@
 <?php
 
 $alpha = range('a', 'z');
-$file = fopen('domains.txt', 'a');
+$file = fopen('domains.txt', 'w');
 $final = array();
 foreach($alpha as $a) {
   foreach($alpha as $b) {
