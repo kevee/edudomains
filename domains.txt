@@ -5562,6 +5562,7 @@ sof.edu
 sofia.edu
 soka.edu
 sol.edu
+solacc.edu
 solano.edu
 solex.edu
 solvay.edu
