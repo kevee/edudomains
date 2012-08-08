@@ -92,11 +92,13 @@ adrian.edu
 adrianbeauty.edu
 adrians.edu
 adschool.edu
+adu.edu
 adultedventura.edu
 advanced.edu
 advancedcollege.edu
 advancedcomputinginstitute.edu
 advancedtraining.edu
+adventistuniversity.edu
 aec.edu
 aegean.edu
 aerobics.edu
@@ -861,6 +863,7 @@ bryanlghcollege.edu
 bryant.edu
 bryantstratton.edu
 bryanuniversity.edu
+bryanuonline.edu
 bryman.edu
 brymancollege.edu
 brymaninstitute.edu
@@ -870,6 +873,7 @@ brynmawr.edu
 bsa.edu
 bsc.edu
 bscc.edu
+bse.edu
 bshp.edu
 bsmcon.edu
 bsom.edu
@@ -1684,7 +1688,6 @@ deerfield.edu
 defiance.edu
 degree.edu
 degrees.edu
-dekalbtech.edu
 delhi.edu
 dellarte.edu
 delmar.edu
@@ -4353,7 +4356,6 @@ northweststate.edu
 northwestu.edu
 northwood.edu
 norwalk.edu
-norwalkcc.edu
 norwich.edu
 nosd.edu
 nossi.edu
@@ -5148,6 +5150,7 @@ saaot.edu
 saba.edu
 sabanci.edu
 sabanciuniv.edu
+sabercollege.edu
 sac.edu
 sachem.edu
 saci-florence.edu
@@ -5619,6 +5622,7 @@ southwesternacademy.edu
 southwesternadventist.edu
 southwesterncc.edu
 southwestgatech.edu
+southwestuniversity.edu
 sowela.edu
 spa.edu
 space.edu
