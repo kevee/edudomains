@@ -517,6 +517,7 @@ aveda.edu
 avedaflorida.edu
 avedafloridainstitute.edu
 avedainstitutessouth.edu
+avedasouth.edu
 avemaria.edu
 avemarialaw.edu
 averett.edu
