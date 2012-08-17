@@ -1717,6 +1717,7 @@ devry.edu
 dewv.edu
 dhs.edu
 dia.edu
+diamondbeauty.edu
 dibc.edu
 dickinson.edu
 dickinsonstate.edu
@@ -2802,6 +2803,7 @@ igw.edu
 ihe.edu
 ihmctan.edu
 ihp.edu
+ii.edu
 iias.edu
 iic.edu
 iicm.edu
@@ -4128,7 +4130,6 @@ natradeschools.edu
 natuniv.edu
 naturalmotion.edu
 nau.edu
-naugatuckvalley.edu
 nauonline.edu
 navajotech.edu
 navarra.edu
@@ -4738,7 +4739,6 @@ personaltraininginstitute.edu
 peru.edu
 pes.edu
 pfeiffer.edu
-pfrseminary.edu
 pgc.edu
 pgcc.edu
 pgi.edu
@@ -5218,6 +5218,7 @@ sandiegoculinary.edu
 sanford-brown.edu
 sanfordbrown.edu
 sanfranciscoart.edu
+sanignaciocollege.edu
 sanjac.edu
 sanjuan.edu
 sanjuanbautista.edu
@@ -5945,7 +5946,6 @@ tcicollege.edu
 tcl.edu
 tcm-university.edu
 tcm.edu
-tcmch.edu
 tcmi.edu
 tcnj.edu
 tcsedsystem.edu
@@ -6140,6 +6140,7 @@ tsec.edu
 tsinghua.edu
 tsm.edu
 tsmu.edu
+tsot.edu
 tst.edu
 tstc.edu
 tstcharlingen.edu
