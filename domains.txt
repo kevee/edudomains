@@ -2873,6 +2873,7 @@ insession.edu
 inste.edu
 instituteoftechnology.edu
 instituto-seneca.edu
+int.edu
 intania.edu
 integrity.edu
 intellitec.edu
