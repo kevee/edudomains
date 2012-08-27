@@ -1394,7 +1394,6 @@ collegesoflaw.edu
 collin.edu
 collins-cc.edu
 collinscollege.edu
-colmizpa.edu
 colorado.edu
 coloradocollege.edu
 coloradomesa.edu
@@ -1451,6 +1450,7 @@ connecticutcollege.edu
 connorsstate.edu
 conservative.edu
 constanta.edu
+contracosta.edu
 cpa.edu
 cpc.edu
 cpcc.edu
@@ -5777,6 +5777,7 @@ stonybrookmedicine.edu
 storm.edu
 stots.edu
 stpauls.edu
+stpaulsschoolofnursing.edu
 strasberg.edu
 stratford.edu
 strathmore.edu
@@ -5784,7 +5785,6 @@ strayer.edu
 strayeruniversity.edu
 strita.edu
 stritch.edu
-strose.edu
 su.edu
 suagm.edu
 subr.edu
