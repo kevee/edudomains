@@ -2116,6 +2116,7 @@ findlay.edu
 fingerlakes.edu
 finlandia.edu
 firn.edu
+first.edu
 firstinstitute.edu
 firstschool.edu
 fis.edu
@@ -2425,6 +2426,7 @@ griggs.edu
 grin.edu
 grinnell.edu
 grossmont.edu
+gru.edu
 gsbc.edu
 gsc.edu
 gscollege.edu
@@ -2904,6 +2906,7 @@ invivo.edu
 iom.edu
 iona.edu
 ionacollege.edu
+iot.edu
 iotm.edu
 iou.edu
 iowacentral.edu
@@ -3125,7 +3128,6 @@ kcg.edu
 kchair.edu
 kciti.edu
 kckcc.edu
-kcma.edu
 kctcs.edu
 kcu.edu
 kcumb.edu
@@ -6208,6 +6210,7 @@ twu.edu
 txchiro.edu
 txstate.edu
 txwes.edu
+txwesleyan.edu
 tyndale-europe.edu
 tyndale.edu
 ua.edu
