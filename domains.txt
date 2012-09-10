@@ -677,7 +677,6 @@ bethel.edu
 bethelcollege.edu
 bethelks.edu
 bethelu.edu
-bethelyeshiva.edu
 bethlehem.edu
 bethlehembiblecollege.edu
 bethrivkah.edu
@@ -1226,7 +1225,6 @@ chonnam.edu
 chop.edu
 chowan.edu
 chp.edu
-christ-college.edu
 christ.edu
 christcollege.edu
 christendom.edu
@@ -2989,6 +2987,7 @@ iuhs.edu
 iuk.edu
 ium.edu
 iun.edu
+iuonline.edu
 iup.edu
 iups.edu
 iupuc.edu
@@ -4211,7 +4210,6 @@ neci.edu
 necmusic.edu
 neco.edu
 necsi.edu
-negst.edu
 neit.edu
 neiu.edu
 nel.edu
@@ -5694,6 +5692,7 @@ stac.edu
 stageone.edu
 stamford.edu
 stanbridge.edu
+standardcollege.edu
 standrews.edu
 stanford.edu
 stanfordlaw.edu
@@ -5787,7 +5786,6 @@ strathmore.edu
 strayer.edu
 strayeruniversity.edu
 strita.edu
-stritch.edu
 su.edu
 suagm.edu
 subr.edu
@@ -6718,7 +6716,6 @@ uwex.edu
 uwf.edu
 uwgb.edu
 uwi.edu
-uwivet.edu
 uwla.edu
 uwlax.edu
 uwm.edu
@@ -6822,6 +6819,7 @@ vmcad.edu
 vmi.edu
 vms.edu
 vmslaw.edu
+vogue.edu
 volny.edu
 volstate.edu
 voorhees.edu
@@ -6934,6 +6932,7 @@ websteruniv.edu
 wednet.edu
 weillcornell.edu
 weimar.edu
+welch.edu
 weldingschool.edu
 wellesley.edu
 wells.edu
@@ -7073,7 +7072,6 @@ woninstitute.edu
 woodbury-college.edu
 woodbury.edu
 woodburyuniversity.edu
-woodstock.edu
 woodtobecoburn.edu
 woodward.edu
 wooster.edu
@@ -7082,6 +7080,7 @@ wordoflife.edu
 world.edu
 worldcollege.edu
 worldevangelismbiblecollege.edu
+worldmedicineinstitute.edu
 worldu.edu
 worldwide.edu
 worldwideuniversity.edu
