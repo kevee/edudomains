@@ -2494,6 +2494,7 @@ harding.edu
 harford.edu
 hargrave.edu
 harid.edu
+harmonsbeautyschool.edu
 haroldwashingtoncollege.edu
 harpercollege.edu
 harrington.edu
@@ -2922,6 +2923,7 @@ iqs.edu
 irenes.edu
 iris.edu
 irsc.edu
+irvine.edu
 irvineuniversity.edu
 is.edu
 isb.edu
