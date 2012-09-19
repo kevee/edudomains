@@ -615,6 +615,7 @@ bealcollege.edu
 beaufortccc.edu
 beaumont.edu
 beauty.edu
+beautyacademy.edu
 beautycareer.edu
 beautycareers.edu
 beautyschools.edu
@@ -3283,6 +3284,7 @@ lamedelegation.edu
 lamission.edu
 lamsoncollege.edu
 lamusicacademy.edu
+lancasterctc.edu
 lancastergeneralcollege.edu
 lancasterseminary.edu
 lander.edu
@@ -4779,7 +4781,6 @@ piercelaw.edu
 pierpont.edu
 pihma.edu
 piht.edu
-pillsbury.edu
 pima.edu
 pims.edu
 pinecrest.edu
@@ -6310,6 +6311,7 @@ ucop.edu
 ucpress.edu
 ucr.edu
 ucriverside.edu
+ucs.edu
 ucsandiego.edu
 ucsanfrancisco.edu
 ucsantabarbara.edu
