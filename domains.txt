@@ -175,7 +175,6 @@ aiufl.edu
 aiuniv.edu
 aiuonline.edu
 ajcunet.edu
-aju.edu
 ajula.edu
 akbible.edu
 aku.edu
@@ -860,6 +859,7 @@ bryan.edu
 bryancollege.edu
 bryancollegeonline.edu
 bryancolleges.edu
+bryanhealthcollege.edu
 bryanlghcollege.edu
 bryant.edu
 bryantstratton.edu
@@ -2826,6 +2826,7 @@ iliff.edu
 ilisagvik.edu
 illinois.edu
 illinoisbaptistcollege.edu
+illinoiscareerpath.edu
 illinoisstate.edu
 illinoistech.edu
 ilslaw.edu
@@ -2875,7 +2876,6 @@ inste.edu
 instituteoftechnology.edu
 instituto-seneca.edu
 int.edu
-intania.edu
 integrity.edu
 intellitec.edu
 intelliteccollege.edu
@@ -6398,6 +6398,7 @@ umassmed.edu
 umassp.edu
 umb.edu
 umbc.edu
+umbi.edu
 umc.edu
 umcaz.edu
 umces.edu
@@ -6406,7 +6407,6 @@ umd.edu
 umdearborn.edu
 umdnj.edu
 umes.edu
-umf-outreach.edu
 umfk.edu
 umflint.edu
 umh.edu
@@ -6791,6 +6791,7 @@ vgcc.edu
 vgi.edu
 vhcc.edu
 vic.edu
+vici.edu
 vicibeautyschool.edu
 victoriacollege.edu
 victory.edu
