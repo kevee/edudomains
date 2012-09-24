@@ -1786,6 +1786,7 @@ dslcc.edu
 dspt.edu
 dsu.edu
 dtcc.edu
+dti.edu
 dts.edu
 du.edu
 ducret.edu
