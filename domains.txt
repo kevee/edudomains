@@ -5703,6 +5703,7 @@ stanfordu.edu
 stanly.edu
 starkstate.edu
 startingpoints.edu
+statecareercollege.edu
 statecareerschool.edu
 statecollegeofbeauty.edu
 staugustine.edu
@@ -5788,7 +5789,6 @@ stratford.edu
 strathmore.edu
 strayer.edu
 strayeruniversity.edu
-strita.edu
 su.edu
 suagm.edu
 subr.edu
