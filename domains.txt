@@ -1441,7 +1441,6 @@ concordecareers.edu
 concordia-ny.edu
 concordia.edu
 concordiacollege.edu
-concordiaselma.edu
 concordlawschool.edu
 conestoga.edu
 conncoll.edu
@@ -1450,6 +1449,7 @@ connorsstate.edu
 conservative.edu
 constanta.edu
 contracosta.edu
+contractor.edu
 cpa.edu
 cpc.edu
 cpcc.edu
@@ -6191,7 +6191,6 @@ tucsoncollege.edu
 tucsondesigncollege.edu
 tufts.edu
 tui.edu
-tuiu.edu
 tuiuniversity.edu
 tul.edu
 tulane.edu
