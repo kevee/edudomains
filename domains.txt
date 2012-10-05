@@ -3470,6 +3470,7 @@ lsi.edu
 lsmsa.edu
 lspr.edu
 lsps.edu
+lssc.edu
 lssu.edu
 lst.edu
 lstc.edu
@@ -4502,6 +4503,7 @@ okwu.edu
 okwustudents.edu
 olc.edu
 olddominionuniversity.edu
+oldtownbarbercollege.edu
 oldwestbury.edu
 olemiss.edu
 olhcc.edu
@@ -5631,6 +5633,7 @@ spuvvn.edu
 src.edu
 srcc.edu
 srel.edu
+srmc.edu
 srmscet.edu
 srttu.edu
 sru.edu
@@ -6286,6 +6289,7 @@ udel.edu
 udem.edu
 udf.edu
 udg.edu
+udi.edu
 udla.edu
 udlap.edu
 udmercy.edu
