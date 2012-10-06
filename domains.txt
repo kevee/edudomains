@@ -5737,6 +5737,7 @@ stnersess.edu
 stockton.edu
 stolaf.edu
 stone.edu
+stonechild.edu
 stonehill.edu
 stonybrook.edu
 stonybrookmedicine.edu
@@ -5749,7 +5750,6 @@ stratford.edu
 strathmore.edu
 strayer.edu
 strayeruniversity.edu
-strita.edu
 su.edu
 suagm.edu
 subr.edu
@@ -6584,6 +6584,7 @@ usm.edu
 usma.edu
 usmcu.edu
 usmd.edu
+usmf.edu
 usml.edu
 usmma.edu
 usna.edu
