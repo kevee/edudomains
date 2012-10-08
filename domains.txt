@@ -187,6 +187,7 @@ alaskacc.edu
 alaskapacific.edu
 alasu.edu
 alb.edu
+alba.edu
 albany.edu
 albanylaw.edu
 albanytech.edu
@@ -773,6 +774,7 @@ bp.edu
 bpc.edu
 bpcc.edu
 bpi.edu
+bpkihs.edu
 bradfordpittsburgh.edu
 bradfordschoolcolumbus.edu
 bradley.edu
@@ -7019,6 +7021,7 @@ wmich.edu
 wmitchell.edu
 wmpenn.edu
 wmrs.edu
+wms.edu
 wmu.edu
 wnc.edu
 wncc.edu
