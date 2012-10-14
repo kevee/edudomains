@@ -1333,6 +1333,7 @@ cnicollege.edu
 cnm.edu
 cnr.edu
 cnri.edu
+cnsu.edu
 cnu.edu
 cnuas.edu
 co-op.edu
@@ -2545,7 +2546,6 @@ hebrew.edu
 hebrewcollege.edu
 hebron.edu
 hec.edu
-hecb.edu
 heed.edu
 heidelberg.edu
 heights.edu
@@ -3806,6 +3806,7 @@ midsouthcc.edu
 midstate.edu
 midway.edu
 midwest.edu
+midwestbarbercollege.edu
 midwestern.edu
 midwestinstitute.edu
 midwesttech.edu
