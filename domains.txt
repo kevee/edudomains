@@ -6603,6 +6603,7 @@ usps.edu
 usra.edu
 ussa.edu
 ust.edu
+ustb.edu
 ustc.edu
 usu.edu
 usuhs.edu
