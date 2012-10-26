@@ -1719,6 +1719,7 @@ disam.edu
 disd.edu
 distance-learning.edu
 distlearn.edu
+diversacademy.edu
 diversinstitute.edu
 dixie.edu
 dlielc.edu
@@ -2367,6 +2368,7 @@ goodwin.edu
 gordon.edu
 gordonc.edu
 gordonconwell.edu
+gordonstate.edu
 goshen.edu
 gotoltc.edu
 goucher.edu
@@ -3359,6 +3361,7 @@ letourneau.edu
 letran.edu
 letu.edu
 lewis.edu
+lewiscollege.edu
 lewisu.edu
 lexingtoncollege.edu
 lextheo.edu
@@ -4059,6 +4062,7 @@ mybrcc.edu
 mycci.edu
 mycenae.edu
 mycomputercareer.edu
+myconcorde.edu
 myfiaa.edu
 mylincoln.edu
 mymiu.edu
@@ -4884,6 +4888,7 @@ ptsa.edu
 ptsem.edu
 ptseminary.edu
 ptstulsa.edu
+ptt.edu
 pua.edu
 puc.edu
 pucpr.edu
