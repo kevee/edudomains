@@ -564,6 +564,7 @@ barstow.edu
 barton.edu
 bartonccc.edu
 baruch.edu
+basf.edu
 bassett.edu
 bastyr.edu
 bastyruniversity.edu
@@ -1191,6 +1192,7 @@ chemeketa.edu
 cherylfell.edu
 chesapeake.edu
 chestercollege.edu
+cheveux.edu
 cheyney.edu
 chgosem.edu
 chiangmai.edu
@@ -4555,6 +4557,7 @@ ortn.edu
 oru.edu
 os.edu
 osba.edu
+osbc.edu
 osc.edu
 osrhe.edu
 ossm.edu
