@@ -3196,6 +3196,7 @@ ksds.edu
 ksh.edu
 ksi.edu
 kspu.edu
+ksrcas.edu
 ksu.edu
 ktc.edu
 kti.edu
