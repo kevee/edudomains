@@ -186,6 +186,7 @@ alaskacareercollege.edu
 alaskacc.edu
 alaskapacific.edu
 alasu.edu
+alazhar-gaza.edu
 alb.edu
 alba.edu
 albany.edu
@@ -5389,6 +5390,7 @@ sgc.edu
 sgsc.edu
 sgsl.edu
 sgu.edu
+shaarhatorah.edu
 shadyside.edu
 shafston.edu
 sharif.edu
