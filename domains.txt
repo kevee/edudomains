@@ -289,6 +289,7 @@ anaheim.edu
 anamarc.edu
 anc.edu
 ancilla.edu
+ancollege.edu
 anderson.edu
 andersonuniversity.edu
 andover.edu
@@ -1504,7 +1505,6 @@ cspp.edu
 css.edu
 cst.edu
 cstcm.edu
-cstm.edu
 csu.edu
 csub.edu
 csubak.edu
@@ -2214,7 +2214,6 @@ fscj.edu
 fst.edu
 fsu.edu
 ftc.edu
-ftcc.edu
 ftccollege.edu
 fti.edu
 ftu.edu
@@ -2873,7 +2872,6 @@ intercoast.edu
 intercol.edu
 interface.edu
 interfajardo.edu
-interiordesign.edu
 interlink.edu
 intermetro.edu
 international.edu
@@ -5872,6 +5870,7 @@ sxrtvu.edu
 sxu.edu
 sydney.edu
 symboljobtraining.edu
+symboltraining.edu
 syr.edu
 syracuse.edu
 ta.edu
@@ -6264,7 +6263,6 @@ uchospitals.edu
 uci.edu
 ucirvine.edu
 ucjc.edu
-uckac.edu
 ucl.edu
 ucla.edu
 uclaextension.edu
