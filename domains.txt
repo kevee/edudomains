@@ -525,6 +525,7 @@ avinashilingam.edu
 avtec.edu
 awbs.edu
 awc.edu
+awi.edu
 ayers.edu
 ayurveda.edu
 ayurvedic.edu
@@ -1088,6 +1089,7 @@ cdkc.edu
 cdl.edu
 cdrewu.edu
 cds.edu
+cdse.edu
 cdsp.edu
 cdu.edu
 ceaprc.edu
@@ -4354,6 +4356,7 @@ npcollege.edu
 npi.edu
 nps.edu
 npti.edu
+nptiohio.edu
 npu.edu
 nr.edu
 nrait.edu
