@@ -916,6 +916,7 @@ cacc.edu
 caculinary.edu
 caddokiowa.edu
 cafe.edu
+cahe.edu
 cahsu.edu
 cairn.edu
 caj.edu
@@ -1007,7 +1008,6 @@ carnegie-institute.edu
 carnegiemellon.edu
 carnegiescience.edu
 carolina.edu
-carolinagrad.edu
 cba.edu
 cbc.edu
 cbcag.edu
@@ -1348,6 +1348,7 @@ coahomacc.edu
 coastal.edu
 coastalbend.edu
 coastalcarolina.edu
+coastcareer.edu
 coastline.edu
 coastlinebeauty.edu
 coba.edu
@@ -1441,7 +1442,6 @@ conservative.edu
 constanta.edu
 contracosta.edu
 contractor.edu
-conval.edu
 cpa.edu
 cpc.edu
 cpcc.edu
@@ -1568,6 +1568,7 @@ cula.edu
 culinary.edu
 culinaryacademy.edu
 culinaryarts.edu
+culinarycenter.edu
 culinaryinstitute.edu
 culver.edu
 cumberland.edu
