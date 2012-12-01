@@ -321,6 +321,7 @@ antiochsb.edu
 antiochschool.edu
 antiochsea.edu
 antiochseattle.edu
+antonacademy.edu
 antonelli.edu
 antonellicollege.edu
 ants.edu
@@ -986,13 +987,11 @@ capstonecollege.edu
 car.edu
 cardenal-newman.edu
 career-college.edu
-careeracademy.edu
 careeracademyny.edu
 careercalifornia.edu
 careercenters.edu
 careercollege.edu
 careercolleges.edu
-careercollegesd.edu
 careerinstitute.edu
 careerpointcollege.edu
 careers.edu
@@ -1008,6 +1007,8 @@ carnegie-institute.edu
 carnegiemellon.edu
 carnegiescience.edu
 carolina.edu
+carolinagrad.edu
+carolinascollege.edu
 cba.edu
 cbc.edu
 cbcag.edu
@@ -2024,6 +2025,7 @@ evergreenbeauty.edu
 evit.edu
 evms.edu
 ewc.edu
+ewcollege.edu
 ewit.edu
 ewu.edu
 ewubd.edu
@@ -3134,7 +3136,6 @@ kennedy-kingcollege.edu
 kennesaw.edu
 kennethshuler.edu
 kenrick.edu
-kensingtoncollege.edu
 kent-school.edu
 kent.edu
 kentlaw.edu
@@ -3307,7 +3308,6 @@ laverne.edu
 law.edu
 lawrence.edu
 lawsonstate.edu
-lawtoncareer.edu
 lbc.edu
 lbcc.edu
 lbhc.edu
@@ -5081,7 +5081,6 @@ rosemead.edu
 rosemeadcollege.edu
 rosemont.edu
 rosseducation.edu
-rosslyntraining.edu
 rossmed.edu
 rossonline.edu
 rossu.edu
@@ -5748,6 +5747,7 @@ stmarysem.edu
 stmarytx.edu
 stmatthews.edu
 stmichael.edu
+stmichaelcollege.edu
 stmichaels.edu
 stmichaelspreschool.edu
 stmikes.edu
@@ -5767,7 +5767,6 @@ strasberg.edu
 stratford.edu
 strathmore.edu
 strayer.edu
-strayeruniversity.edu
 su.edu
 suagm.edu
 subr.edu
@@ -6184,6 +6183,7 @@ twc.edu
 twcnet.edu
 twsu.edu
 twu.edu
+txbarber.edu
 txchiro.edu
 txstate.edu
 txwes.edu
