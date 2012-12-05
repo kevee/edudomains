@@ -978,6 +978,7 @@ capital.edu
 capitalcc.edu
 capitol-college.edu
 capitol-online.edu
+capitolcollege.edu
 capri.edu
 capribeautyschool.edu
 capricollege.edu
@@ -1008,7 +1009,6 @@ carnegiemellon.edu
 carnegiescience.edu
 carolina.edu
 carolinagrad.edu
-carolinascollege.edu
 cba.edu
 cbc.edu
 cbcag.edu
@@ -2243,7 +2243,6 @@ fvtc.edu
 fwbbc.edu
 fwl.edu
 fwmep.edu
-gaaviationtech.edu
 gac.edu
 gactc.edu
 gadjahmada.edu
@@ -3308,6 +3307,7 @@ laverne.edu
 law.edu
 lawrence.edu
 lawsonstate.edu
+lawtoncareer.edu
 lbc.edu
 lbcc.edu
 lbhc.edu
@@ -3560,6 +3560,7 @@ mainemedia.edu
 malcolmxcollege.edu
 malone.edu
 mamak.edu
+manateetech.edu
 manchester.edu
 manchestercc.edu
 manchestercommunitycollege.edu
@@ -3627,7 +3628,6 @@ masters.edu
 matc.edu
 matcmadison.edu
 matech.edu
-math.edu
 mba.edu
 mbbc.edu
 mbc.edu
@@ -4322,6 +4322,7 @@ northlakecollege.edu
 northland.edu
 northlandcollege.edu
 northpark.edu
+northpoint.edu
 northseattle.edu
 northshore.edu
 northshorecollege.edu
@@ -4979,6 +4980,7 @@ regis.edu
 regiscollege.edu
 rei.edu
 reinhardt.edu
+relay.edu
 remingtonadmin.edu
 remingtoncollege.edu
 remingtoncollegeonline.edu
@@ -6096,6 +6098,7 @@ trinitychristianschool.edu
 trinitycollege.edu
 trinitycollegeqc.edu
 trinitydc.edu
+trinitylawschool.edu
 trinitypr.edu
 trinitysem.edu
 trinitywestern.edu
