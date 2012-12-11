@@ -172,6 +172,7 @@ aiufl.edu
 aiuniv.edu
 aiuonline.edu
 ajcunet.edu
+aju.edu
 ajula.edu
 akbible.edu
 aku.edu
@@ -876,7 +877,6 @@ bsmcon.edu
 bsom.edu
 bsstlearn.edu
 bsu.edu
-btc.edu
 bths.edu
 bti.edu
 bts.edu
@@ -2422,6 +2422,7 @@ gsbc.edu
 gsc.edu
 gscollege.edu
 gsmc.edu
+gsot.edu
 gspp.edu
 gsu.edu
 gsw.edu
@@ -3051,8 +3052,6 @@ jmc.edu
 jmls.edu
 jmu.edu
 jmvu.edu
-jn.edu
-jnmc.edu
 johncabot.edu
 johnjay.edu
 johnmarshall.edu
@@ -3777,6 +3776,7 @@ mfc.edu
 mfhs.edu
 mfldclin.edu
 mfwi.edu
+mga.edu
 mgc.edu
 mgccc.edu
 mghihp.edu
@@ -5686,6 +5686,7 @@ startingpoints.edu
 statecareercollege.edu
 statecareerschool.edu
 statecollegeofbeauty.edu
+statementstheacademy.edu
 staugustine.edu
 staugustinecollege.edu
 stbernards.edu
@@ -5768,7 +5769,6 @@ stpaulsschoolofnursing.edu
 strasberg.edu
 stratford.edu
 strathmore.edu
-strayer.edu
 su.edu
 suagm.edu
 subr.edu
@@ -5955,6 +5955,7 @@ telecampus.edu
 telematik.edu
 telos.edu
 telshe.edu
+telsheyeshiva.edu
 temple.edu
 templebaptistseminary.edu
 templejc.edu
