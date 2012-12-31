@@ -563,6 +563,7 @@ barclaycollege.edu
 bard.edu
 barnard.edu
 barnesjewishcollege.edu
+barpalma.edu
 barrett.edu
 barry.edu
 barstow.edu
@@ -832,6 +833,7 @@ brookdalecc.edu
 brookhavencollege.edu
 brookings.edu
 brooklaw.edu
+brookline.edu
 brooklinecollege.edu
 brooklyn.edu
 brooklynculinaryinstitute.edu
@@ -4643,7 +4645,6 @@ parisamericanacademy.edu
 parisjc.edu
 park.edu
 parker.edu
-parkercc.edu
 parkland.edu
 parks.edu
 parkwest.edu
@@ -5392,7 +5393,6 @@ sfvlaw.edu
 sfwbc.edu
 sgc.edu
 sgsc.edu
-sgsl.edu
 sgu.edu
 shaarhatorah.edu
 shadyside.edu
@@ -5752,6 +5752,7 @@ stmarytx.edu
 stmatthews.edu
 stmichael.edu
 stmichaelcollege.edu
+stmichaelcollegeva.edu
 stmichaels.edu
 stmichaelspreschool.edu
 stmikes.edu
@@ -5769,7 +5770,6 @@ stpauls.edu
 stpaulsschoolofnursing.edu
 strasberg.edu
 stratford.edu
-strathmore.edu
 su.edu
 suagm.edu
 subr.edu
@@ -6027,6 +6027,7 @@ tiffinacademy.edu
 tilburguniversity.edu
 timi.edu
 tis.edu
+tisoh.edu
 tiss.edu
 tiu.edu
 tiua.edu
