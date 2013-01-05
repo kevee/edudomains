@@ -2289,6 +2289,7 @@ gcic.edu
 gcinter.edu
 gcs.edu
 gcsu.edu
+gctcok.edu
 gctech.edu
 gcts.edu
 gcu.edu
@@ -5100,6 +5101,7 @@ rpts.edu
 rrc.edu
 rrcc.edu
 rrtc.edu
+rsa.edu
 rsc.edu
 rsccd.edu
 rsd.edu
