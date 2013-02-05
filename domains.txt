@@ -200,6 +200,7 @@ albizu.edu
 albright.edu
 alc.edu
 alcorn.edu
+alexanderpaul.edu
 alextech.edu
 alfaisal.edu
 alfonsiana.edu
@@ -330,6 +331,7 @@ anu.edu
 aoma.edu
 aotearoa.edu
 aou.edu
+aparicio-levy.edu
 apc.edu
 apeejay.edu
 apexsot.edu
@@ -2296,6 +2298,7 @@ gcu.edu
 gcuniv.edu
 gda.edu
 gdn.edu
+gdsinstitute.edu
 geisinger.edu
 gemini.edu
 genealogy.edu
@@ -2507,7 +2510,6 @@ hartsem.edu
 hartwick.edu
 harvard.edu
 harvest.edu
-harwich.edu
 has.edu
 haskell.edu
 hastings.edu
@@ -2648,7 +2650,6 @@ honam.edu
 hondros.edu
 hongik.edu
 honolulu-university.edu
-honorsbeautycollege.edu
 honorscollege.edu
 hood.edu
 hoodseminary.edu
@@ -2758,6 +2759,7 @@ ici.edu
 icimss.edu
 icls.edu
 ico.edu
+icoc.edu
 icp.edu
 icpla.edu
 icprjc.edu
@@ -2769,6 +2771,7 @@ icsi.edu
 icslearn.edu
 icsw.edu
 ict-ils.edu
+ict.edu
 ictc.edu
 ictctech.edu
 icu.edu
@@ -3566,7 +3569,6 @@ mamak.edu
 manateetech.edu
 manchester.edu
 manchestercc.edu
-manchestercommunitycollege.edu
 mancol.edu
 mancosre6.edu
 mandl.edu
@@ -3606,7 +3608,6 @@ martin.edu
 martincc.edu
 martinmethodist.edu
 martinsburgcollege.edu
-martinsburginstitute.edu
 martinscollege.edu
 martinscollegeofcosmetology.edu
 martinsschool.edu
@@ -3631,6 +3632,8 @@ masters.edu
 matc.edu
 matcmadison.edu
 matech.edu
+math.edu
+mau.edu
 mba.edu
 mbbc.edu
 mbc.edu
@@ -3746,7 +3749,6 @@ meredithmanor.edu
 meridian-institute.edu
 meridian.edu
 meridiancc.edu
-meridianinstitute.edu
 meridianschool.edu
 meridiantech.edu
 meridianuniversity.edu
@@ -4299,6 +4301,7 @@ nnu.edu
 noao.edu
 nobles.edu
 nobts.edu
+noc.edu
 nocccd.edu
 noctrl.edu
 nodak.edu
@@ -4539,6 +4542,7 @@ omcc.edu
 omega.edu
 omegainstitute.edu
 omegastudiosschool.edu
+omi.edu
 omicron.edu
 omnis.edu
 omnitech.edu
@@ -4687,8 +4691,8 @@ pcihealth.edu
 pcim.edu
 pcitraining.edu
 pcj.edu
+pcn.edu
 pcom.edu
-pcpro.edu
 pcprofessor.edu
 pct.edu
 pctc.edu
@@ -4986,6 +4990,7 @@ relay.edu
 remingtonadmin.edu
 remingtoncollege.edu
 remingtoncollegeonline.edu
+renaissancecollege.edu
 rensselaer.edu
 researchcollege.edu
 researchinstituteformathematics.edu
@@ -4997,6 +5002,7 @@ revans-university.edu
 reynolds.edu
 rgec.edu
 rghnet.edu
+rgvcareers.edu
 rh.edu
 rhec.edu
 rhodec.edu
@@ -5013,6 +5019,7 @@ richlandcollege.edu
 richmond-college.edu
 richmond.edu
 richmondcc.edu
+richmondlondon.edu
 richmont.edu
 rider.edu
 ridge.edu
@@ -5204,6 +5211,7 @@ sandiegocollege.edu
 sandiegoculinary.edu
 sanford-brown.edu
 sanfordbrown.edu
+sanfordcollege.edu
 sanfranciscoart.edu
 sanignaciocollege.edu
 sanjac.edu
@@ -5233,7 +5241,6 @@ savannahtech.edu
 sawyer.edu
 sawyercollege.edu
 saxion.edu
-saybrook.edu
 sbac.edu
 sbbcollege.edu
 sbc.edu
@@ -5243,6 +5250,7 @@ sbci.edu
 sbctc.edu
 sbgi.edu
 sbmelville.edu
+sbmri.edu
 sbs.edu
 sbts.edu
 sbu.edu
@@ -5480,7 +5488,6 @@ siuh.edu
 siumed.edu
 sjasc.edu
 sjbtc.edu
-sjc.edu
 sjca.edu
 sjcc.edu
 sjcd.edu
@@ -6316,7 +6323,6 @@ udem.edu
 udf.edu
 udg.edu
 udi.edu
-udla.edu
 udlap.edu
 udmercy.edu
 udo.edu
