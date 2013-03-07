@@ -36,6 +36,7 @@ ac.edu
 aca.edu
 acacia.edu
 academia.edu
+academiaschool.edu
 academy.edu
 academyart.edu
 academycollege.edu
@@ -316,6 +317,7 @@ anselm.edu
 anthem.edu
 anthemcollege.edu
 antheminstitute.edu
+antillespr.edu
 antioch-college.edu
 antioch.edu
 antiochla.edu
@@ -388,6 +390,7 @@ artic.edu
 artinstitute.edu
 artinstitutes.edu
 artinstructionschools.edu
+as.edu
 asa.edu
 asaom.edu
 asbury.edu
@@ -514,6 +517,7 @@ avancebeautycollege.edu
 avc.edu
 avcs.edu
 aveda.edu
+avedafi.edu
 avedaflorida.edu
 avedainstitutessouth.edu
 avedasouth.edu
@@ -608,6 +612,7 @@ bcl.edu
 bcm.edu
 bcs.edu
 bcsbc.edu
+bcva.edu
 bcw.edu
 beacon.edu
 beaconcollege.edu
@@ -901,7 +906,9 @@ bumc.edu
 burlington.edu
 burlingtoncollege.edu
 bush.edu
+businessinformatics.edu
 busm.edu
+butc.edu
 butler.edu
 butlerbusiness.edu
 butlercc.edu
@@ -1201,6 +1208,7 @@ chelseaschool.edu
 chemeketa.edu
 cherylfell.edu
 chesapeake.edu
+chestercareercollege.edu
 chestercollege.edu
 cheveux.edu
 cheyney.edu
@@ -1224,6 +1232,7 @@ chonnam.edu
 chop.edu
 chowan.edu
 chp.edu
+chrisbeautycollege.edu
 christ.edu
 christcollege.edu
 christendom.edu
@@ -1868,6 +1877,7 @@ edisonohio.edu
 edmc.edu
 edpcollege.edu
 edpschool.edu
+edpuniversity.edu
 eds.edu
 edu.edu
 education.edu
@@ -1898,6 +1908,7 @@ elc.edu
 elcamino.edu
 elcentrocollege.edu
 elearning.edu
+electricaltrainingcenter.edu
 electroniclearning.edu
 elgin.edu
 elim.edu
@@ -2116,7 +2127,6 @@ finlandia.edu
 firn.edu
 first.edu
 firstinstitute.edu
-firstschool.edu
 fis.edu
 fisher.edu
 fishermore.edu
@@ -2318,6 +2328,7 @@ georgiasouthern.edu
 germanna.edu
 getty.edu
 gettysburg.edu
+gfcmsu.edu
 ggbts.edu
 ggc.edu
 ggu.edu
@@ -2363,6 +2374,7 @@ gmh.edu
 gmi.edu
 gmu.edu
 gnbvt.edu
+gnomon.edu
 gntc.edu
 gobbc.edu
 gocolumbia.edu
@@ -3879,7 +3891,6 @@ mizzou.edu
 mjc.edu
 mji.edu
 mjsbeautyacademy.edu
-mkecc.edu
 mlatc.edu
 mlaw.edu
 mlb.edu
@@ -4046,6 +4057,7 @@ mud.edu
 mueller.edu
 muhlenberg.edu
 muhs.edu
+muih.edu
 multnomah.edu
 mum.edu
 munet.edu
@@ -4076,6 +4088,7 @@ mycenae.edu
 mycomputercareer.edu
 myconcorde.edu
 myfiaa.edu
+myita.edu
 mylincoln.edu
 mymiu.edu
 myneltc.edu
@@ -4508,7 +4521,6 @@ ohiostate.edu
 ohiotech.edu
 ohiou.edu
 ohlone.edu
-oholeitorah.edu
 ohr.edu
 ohrhameir.edu
 ohsu.edu
@@ -4617,6 +4629,7 @@ pacificlife.edu
 pacificoaks.edu
 pacificu.edu
 packer.edu
+pacollege.edu
 pacrim.edu
 pad.edu
 paducahtech.edu
@@ -5615,7 +5628,6 @@ southsuburbancollege.edu
 southtexascollege.edu
 southuniversity.edu
 southwest.edu
-southwestcareercollege.edu
 southwestern.edu
 southwesternacademy.edu
 southwesternadventist.edu
@@ -5984,7 +5996,6 @@ texascollege.edu
 texascountytech.edu
 texastcm.edu
 texastech.edu
-texaswesleyan.edu
 texshare.edu
 tfa.edu
 tfc.edu
@@ -6026,6 +6037,7 @@ thompson.edu
 thor.edu
 threerivers.edu
 ths.edu
+thsu.edu
 thunderbird.edu
 tiasnimbas.edu
 ticas.edu
@@ -6634,6 +6646,7 @@ ust.edu
 ustb.edu
 ustc.edu
 usu.edu
+usueastern.edu
 usuhs.edu
 usuniversity.edu
 usw.edu
@@ -7120,6 +7133,7 @@ wvncc.edu
 wvnet.edu
 wvsom.edu
 wvstateu.edu
+wvsu.edu
 wvu.edu
 wvup.edu
 wvutech.edu
