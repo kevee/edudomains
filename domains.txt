@@ -289,6 +289,7 @@ amrita.edu
 amsamoa.edu
 amsu.edu
 amt.edu
+an.edu
 anaheim.edu
 anamarc.edu
 anc.edu
@@ -459,6 +460,7 @@ atlanticuniversity.edu
 atlantis.edu
 atlm.edu
 atom.edu
+atp.edu
 atria.edu
 ats.edu
 atsinstitute.edu
@@ -863,7 +865,6 @@ brsc.edu
 brunswickcc.edu
 bryan.edu
 bryancollege.edu
-bryancollegeonline.edu
 bryancolleges.edu
 bryanhealthcollege.edu
 bryanlghcollege.edu
@@ -2671,6 +2672,7 @@ hopeonline.edu
 hopkins.edu
 hopkinscme.edu
 horizon.edu
+horizonuniversity.edu
 horology.edu
 hoseo.edu
 hostos.edu
@@ -2932,6 +2934,7 @@ iqs.edu
 irenes.edu
 iris.edu
 irsc.edu
+irus.edu
 irvine.edu
 irvineuniversity.edu
 is.edu
@@ -3008,7 +3011,6 @@ iutepi.edu
 iutoic-dhaka.edu
 ivc.edu
 ivcc.edu
-iversonschool.edu
 ivs.edu
 ivytech.edu
 iwc.edu
@@ -3086,6 +3088,7 @@ johnstoncc.edu
 johnzinkinstitute.edu
 jones.edu
 jonesinternational.edu
+josephscollege.edu
 jrenee.edu
 jru.edu
 jsc.edu
@@ -3587,6 +3590,7 @@ mancosre6.edu
 mandl.edu
 manhattan.edu
 manhattaninstitute.edu
+manhattanschool.edu
 manhattantech.edu
 manhattanville.edu
 manipal.edu
@@ -3629,6 +3633,7 @@ marygrove.edu
 maryland.edu
 marylhurst.edu
 marymount.edu
+marymountcalifornia.edu
 marymountpv.edu
 maryville.edu
 maryvillecollege.edu
@@ -3645,8 +3650,6 @@ masters.edu
 matc.edu
 matcmadison.edu
 matech.edu
-math.edu
-mau.edu
 mba.edu
 mbbc.edu
 mbc.edu
@@ -3703,7 +3706,6 @@ mcn.edu
 mcnallysmith.edu
 mcneese.edu
 mcny.edu
-mcon.edu
 mcpherson.edu
 mcphs.edu
 mcphu.edu
@@ -5679,6 +5681,7 @@ srmc.edu
 srmscet.edu
 srttu.edu
 sru.edu
+ss.edu
 ssbc.edu
 ssc.edu
 sscc.edu
@@ -5687,7 +5690,6 @@ sscok.edu
 sscr.edu
 sse.edu
 sseriga.edu
-ssga.edu
 ssh.edu
 ssist.edu
 ssu.edu
@@ -6747,7 +6749,6 @@ valenciacollege.edu
 vallauri.edu
 valley.edu
 valleycollege.edu
-valleymedicalcollege.edu
 valparaiso.edu
 valpo.edu
 valverde.edu
@@ -7139,6 +7140,7 @@ wvup.edu
 wvutech.edu
 wvwc.edu
 wwcc.edu
+wwtech.edu
 wwu.edu
 wy.edu
 wycliffe.edu
