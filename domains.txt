@@ -773,6 +773,7 @@ bmcc.edu
 bmg.edu
 bmtc.edu
 bobartsinstitute.edu
+bocabeautyacademy.edu
 bodwell.edu
 boheckercollege.edu
 boisebible.edu
@@ -2752,7 +2753,6 @@ ibc.edu
 ibc3.edu
 ibcfortwayne.edu
 ibcindianapolis.edu
-ibconline.edu
 ibcs.edu
 ibmc.edu
 ibrahimieh.edu
@@ -3046,6 +3046,7 @@ jcsu.edu
 jcu.edu
 jdc.edu
 jdcc.edu
+jeanmadeline.edu
 jec.edu
 jed.edu
 jeffco.edu
