@@ -813,6 +813,7 @@ brcn.edu
 breining.edu
 bremen.edu
 brenau.edu
+brensten.edu
 brescia.edu
 brevard.edu
 brevardcc.edu
@@ -4840,7 +4841,6 @@ polk.edu
 poly.edu
 polylanguages.edu
 polytechnique.edu
-pom.edu
 pomona.edu
 pontotoctech.edu
 popac.edu
@@ -6535,6 +6535,7 @@ untsystem.edu
 unu.edu
 unva.edu
 unw.edu
+unwsp.edu
 uoa.edu
 uoc.edu
 uofa.edu
