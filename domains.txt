@@ -3149,7 +3149,6 @@ keene.edu
 keenebeautyacademy.edu
 keetercenter.edu
 keio.edu
-keisercareer.edu
 keiseruniversity.edu
 keller.edu
 kellogg.edu
@@ -7091,7 +7090,6 @@ wordoflife.edu
 world.edu
 worldcollege.edu
 worldevangelismbiblecollege.edu
-worldmedicineinstitute.edu
 worldu.edu
 worldwide.edu
 worldwideuniversity.edu
