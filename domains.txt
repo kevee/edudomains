@@ -3738,6 +3738,7 @@ medical.edu
 medicina.edu
 medixschool.edu
 medixschooltowson.edu
+medquestcollege.edu
 medtech.edu
 medtechcollege.edu
 meduohio.edu
@@ -4146,6 +4147,7 @@ nayanova.edu
 naz.edu
 nazarene.edu
 nazareth.edu
+nba.edu
 nbc.edu
 nbi.edu
 nbs.edu
@@ -4885,6 +4887,7 @@ prohands.edu
 prometeu.edu
 proskills.edu
 providence.edu
+providencecc.edu
 provo.edu
 provocollege.edu
 prowayhairschool.edu
