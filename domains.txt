@@ -69,6 +69,7 @@ acp.edu
 acpe.edu
 acphs.edu
 acr.edu
+acs.edu
 act.edu
 actcm.edu
 actx.edu
@@ -1170,6 +1171,7 @@ cfi.edu
 cga.edu
 cgc.edu
 cgi.edu
+cgms.edu
 cgs.edu
 cgsc.edu
 cgsot.edu
@@ -2978,7 +2980,6 @@ ithaca.edu
 iticollege.edu
 itm.edu
 itmindia.edu
-itp.edu
 itpasia.edu
 its-sby.edu
 its.edu
@@ -4384,6 +4385,7 @@ npi.edu
 nps.edu
 npti.edu
 nptiohio.edu
+nptivirginia.edu
 npu.edu
 nr.edu
 nrait.edu
