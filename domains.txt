@@ -400,6 +400,7 @@ asburyseminary.edu
 asc.edu
 ascbs.edu
 ascc.edu
+ashdowncollege.edu
 asher.edu
 ashford.edu
 ashland.edu
@@ -1132,6 +1133,7 @@ centenary.edu
 centenarycollege.edu
 center.edu
 centerformassage.edu
+centracon.edu
 central.edu
 centralaz.edu
 centralcareer.edu
@@ -1584,6 +1586,7 @@ cuhk.edu
 cui.edu
 cuim.edu
 cuis.edu
+cuk.edu
 cula.edu
 culinary.edu
 culinaryacademy.edu
@@ -1930,6 +1933,7 @@ embry-riddle.edu
 embryriddle.edu
 emcc.edu
 emedharbor.edu
+emergingtech.edu
 emerson.edu
 emersoninstitute.edu
 emich.edu
@@ -2197,6 +2201,7 @@ fortisonline.edu
 fortlewis.edu
 fortmyerstech.edu
 fortscott.edu
+fosters.edu
 foundations.edu
 fountainheadcollege.edu
 fourhcouncil.edu
@@ -4788,6 +4793,7 @@ piercelaw.edu
 pierpont.edu
 pihma.edu
 piht.edu
+pillar.edu
 pima.edu
 pims.edu
 pinecrest.edu
@@ -5715,7 +5721,6 @@ stanly.edu
 starkstate.edu
 startingpoints.edu
 statecareercollege.edu
-statecareerschool.edu
 statecollegeofbeauty.edu
 statementstheacademy.edu
 staugustine.edu
@@ -5800,6 +5805,7 @@ stpauls.edu
 stpaulsschoolofnursing.edu
 strasberg.edu
 stratford.edu
+strathmore.edu
 su.edu
 suagm.edu
 subr.edu
