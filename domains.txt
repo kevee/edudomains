@@ -1320,7 +1320,6 @@ clemson.edu
 cleveland.edu
 clevelandcc.edu
 clevelandchiropractic.edu
-clevelandcommunitycollege.edu
 clevelandstate.edu
 clevelandstatecc.edu
 clic.edu
@@ -1423,7 +1422,6 @@ columbiabasin.edu
 columbiabc.edu
 columbiaco.edu
 columbiacollege.edu
-columbiacollegesc.edu
 columbiasc.edu
 columbiaseminary.edu
 columbiasouthern.edu
@@ -1464,6 +1462,7 @@ conservative.edu
 constanta.edu
 contracosta.edu
 contractor.edu
+conval.edu
 cpa.edu
 cpc.edu
 cpcc.edu
@@ -2318,7 +2317,6 @@ gcts.edu
 gcu.edu
 gcuniv.edu
 gda.edu
-gdn.edu
 gdsinstitute.edu
 geisinger.edu
 gemini.edu
@@ -3133,6 +3131,8 @@ karishma.edu
 karunya.edu
 kaskaskia.edu
 kau.edu
+kba.edu
+kbc.edu
 kc.edu
 kcad.edu
 kcai.edu
@@ -7146,7 +7146,6 @@ wvncc.edu
 wvnet.edu
 wvsom.edu
 wvstateu.edu
-wvsu.edu
 wvu.edu
 wvup.edu
 wvutech.edu
