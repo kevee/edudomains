@@ -765,7 +765,6 @@ bluefieldstate.edu
 bluegrass.edu
 blueridge.edu
 blueridgectc.edu
-blueskymassage.edu
 bluewater.edu
 bluewatercollege.edu
 bluffton.edu
@@ -1010,6 +1009,7 @@ careercalifornia.edu
 careercenters.edu
 careercollege.edu
 careercolleges.edu
+careerdevelopmentinstitute.edu
 careerinstitute.edu
 careerpointcollege.edu
 careers.edu
@@ -1025,7 +1025,6 @@ carnegie-institute.edu
 carnegiemellon.edu
 carnegiescience.edu
 carolina.edu
-carolinagrad.edu
 cba.edu
 cbc.edu
 cbcag.edu
@@ -1053,6 +1052,7 @@ ccbc.edu
 ccbcmd.edu
 ccbcu.edu
 ccbeu.edu
+ccbs.edu
 ccc.edu
 cccb.edu
 cccc.edu
@@ -3091,7 +3091,6 @@ johnson.edu
 johnsonandwales.edu
 johnsonu.edu
 johnstoncc.edu
-johnzinkinstitute.edu
 jones.edu
 jonesinternational.edu
 josephscollege.edu
@@ -3610,6 +3609,7 @@ maranatha.edu
 mariacollege.edu
 mariacy.edu
 marian.edu
+marianas.edu
 mariancollege.edu
 mariancourt.edu
 marianopolis.edu
@@ -3656,7 +3656,6 @@ massmentor.edu
 masters.edu
 matc.edu
 matcmadison.edu
-matech.edu
 mba.edu
 mbbc.edu
 mbc.edu
@@ -5614,7 +5613,6 @@ southeast.edu
 southeastculinary.edu
 southeastern.edu
 southeasternbaptist.edu
-southeasternbeautyschools.edu
 southeasterncareercollege.edu
 southeasterncareerinstitute.edu
 southeasterninstitute.edu
