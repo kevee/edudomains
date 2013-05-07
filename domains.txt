@@ -348,6 +348,7 @@ apmi.edu
 apollo.edu
 apollocollege.edu
 apollogrp.edu
+apollos.edu
 apollosuniversity.edu
 apostolic.edu
 appa.edu
@@ -3091,6 +3092,7 @@ johnson.edu
 johnsonandwales.edu
 johnsonu.edu
 johnstoncc.edu
+johnzinkinstitute.edu
 jones.edu
 jonesinternational.edu
 josephscollege.edu
