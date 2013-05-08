@@ -592,6 +592,7 @@ bath.edu
 bauder.edu
 baxterinstitute.edu
 bayantech.edu
+bayareacollege.edu
 baycollege.edu
 baylor.edu
 baylorhealth.edu
@@ -1971,6 +1972,7 @@ eosc.edu
 eou.edu
 epa.edu
 epcc.edu
+epei.edu
 epfl.edu
 epic.edu
 epm.edu
@@ -2912,6 +2914,7 @@ international.edu
 internationalcosmetology.edu
 internationaluniversity.edu
 internet2.edu
+internexus.edu
 interponce.edu
 intersg.edu
 interstudi.edu
@@ -5657,7 +5660,6 @@ spalding.edu
 spartan.edu
 spatech.edu
 spb.edu
-spc.edu
 spcc.edu
 spce.edu
 spcollege.edu
