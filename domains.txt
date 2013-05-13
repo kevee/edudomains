@@ -114,6 +114,7 @@ africau.edu
 agape.edu
 agatheringplace.edu
 agbu.edu
+agnes.edu
 agnesscott.edu
 ags.edu
 agse.edu
@@ -1842,6 +1843,7 @@ eastcentral.edu
 eastern.edu
 easterncollege.edu
 easternct.edu
+easternflorida.edu
 easternwv.edu
 eastfieldcollege.edu
 eastman.edu
@@ -3873,6 +3875,7 @@ millsaps.edu
 millsapscollege.edu
 milton.edu
 mimh.edu
+mimusa.edu
 mindless.edu
 mineralarea.edu
 mines.edu
@@ -4862,6 +4865,7 @@ porterchester.edu
 portergaud.edu
 portervillecollege.edu
 portfoliocenter.edu
+portlandenglish.edu
 post.edu
 postech.edu
 potomac.edu
