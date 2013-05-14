@@ -476,6 +476,7 @@ au.edu
 aua.edu
 aub.edu
 aubg.edu
+aubih.edu
 aubs.edu
 auburn.edu
 auburnschl.edu
@@ -1850,6 +1851,7 @@ eastman.edu
 eastms.edu
 eastwest.edu
 eastwick.edu
+eastwickcollege.edu
 ebaf.edu
 ebcministry.edu
 ebs.edu
@@ -3314,6 +3316,7 @@ lanecollege.edu
 laney.edu
 lang.edu
 langston.edu
+languagesystems.edu
 laniertech.edu
 laort.edu
 lapietra.edu
