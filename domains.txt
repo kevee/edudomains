@@ -1557,6 +1557,7 @@ csusm.edu
 csustan.edu
 csusystem.edu
 ct.edu
+cta.edu
 ctae.edu
 ctc.edu
 ctcd.edu
@@ -2095,8 +2096,6 @@ faulkner.edu
 faulknerstate.edu
 fauser.edu
 faytechcc.edu
-fbcc.edu
-fbiacademy.edu
 fc.edu
 fcasd.edu
 fcc.edu
