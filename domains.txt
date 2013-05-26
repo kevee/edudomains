@@ -1080,6 +1080,7 @@ ccis.edu
 ccitraining.edu
 cclemoyne.edu
 ccls.edu
+cclsmiami.edu
 ccm.edu
 ccms.edu
 ccmt.edu
@@ -3180,6 +3181,7 @@ kepler.edu
 keralauniversity.edu
 kernel.edu
 kestrel.edu
+ketchum.edu
 kettering.edu
 keuka.edu
 keycollege.edu
@@ -4490,7 +4492,6 @@ nyieb.edu
 nyip.edu
 nyit.edu
 nyls.edu
-nymahe.edu
 nymc.edu
 nysid.edu
 nyts.edu
@@ -6790,6 +6791,7 @@ vatterott.edu
 vatterottonline.edu
 vaughn.edu
 vbc.edu
+vbts.edu
 vc.edu
 vcc.edu
 vcccd.edu
