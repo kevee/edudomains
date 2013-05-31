@@ -434,6 +434,7 @@ atafl.edu
 atc.edu
 atcla.edu
 atech.edu
+atechcollege.edu
 atenascollege.edu
 ateneo.edu
 atenet.edu
@@ -3397,7 +3398,6 @@ leland.edu
 lemoyne-owen.edu
 lemoyne.edu
 lenoircc.edu
-lerntherapie.edu
 les.edu
 lesley.edu
 lesroches.edu
