@@ -62,7 +62,6 @@ aces.edu
 acg.edu
 ach.edu
 achs.edu
-aci.edu
 acm.edu
 acot.edu
 acp.edu
@@ -567,7 +566,6 @@ bakeru.edu
 balbharati.edu
 bancroftsmt.edu
 bankstreet.edu
-baptist.edu
 baptistcollege.edu
 baptistseminary.edu
 bapujidental.edu
@@ -1754,6 +1752,7 @@ disam.edu
 disd.edu
 distance-learning.edu
 distlearn.edu
+dit.edu
 diversacademy.edu
 diversinstitute.edu
 dixie.edu
@@ -2581,7 +2580,6 @@ healingmountain.edu
 healingoasis.edu
 healthandstyle.edu
 healthworks.edu
-healthyhairacademy.edu
 heartland.edu
 heartlandbaptist.edu
 hebisd.edu
@@ -3050,7 +3048,6 @@ jazz.edu
 jbims.edu
 jbu.edu
 jc.edu
-jcas.edu
 jccc.edu
 jccmi.edu
 jchs.edu
@@ -3156,6 +3153,7 @@ kckcc.edu
 kctcs.edu
 kcu.edu
 kcumb.edu
+kdcollege.edu
 kdstudio.edu
 kdu.edu
 kean.edu
@@ -3836,6 +3834,7 @@ mica.edu
 michiganbarberschool.edu
 michlala.edu
 michlalah.edu
+micro.edu
 mid-america.edu
 midamerica.edu
 midcontinent.edu
@@ -4954,6 +4953,7 @@ pupr.edu
 purchase.edu
 purdue.edu
 purduecal.edu
+pureaesthetics.edu
 pvamu.edu
 pvbi.edu
 pvcc.edu
@@ -5277,9 +5277,9 @@ saurashtrauniversity.edu
 sautech.edu
 savannahstate.edu
 savannahtech.edu
-sawyer.edu
 sawyercollege.edu
 saxion.edu
+saybrook.edu
 sbac.edu
 sbbcollege.edu
 sbc.edu
