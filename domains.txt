@@ -527,6 +527,7 @@ aveda.edu
 avedafi.edu
 avedaflorida.edu
 avedainstitutessouth.edu
+avedanm.edu
 avedasouth.edu
 avemaria.edu
 avemarialaw.edu
@@ -1081,6 +1082,7 @@ cclemoyne.edu
 ccls.edu
 cclsmiami.edu
 ccm.edu
+ccmcc.edu
 ccms.edu
 ccmt.edu
 ccnm.edu
@@ -2516,6 +2518,7 @@ hancocku.edu
 handong.edu
 hanover.edu
 hansung.edu
+hanuniversity.edu
 harborcareercollege.edu
 harc.edu
 harcum.edu
@@ -2763,6 +2766,7 @@ iba-du.edu
 ibanca.edu
 ibc.edu
 ibc3.edu
+ibcelpaso.edu
 ibcfortwayne.edu
 ibcindianapolis.edu
 ibcs.edu
@@ -3064,6 +3068,7 @@ jeffco.edu
 jefferson.edu
 jeffersonlaw.edu
 jeffersonstate.edu
+jerseycollege.edu
 jessup.edu
 jetpower.edu
 jets.edu
@@ -3822,6 +3827,7 @@ mguniversity.edu
 mhc.edu
 mhcc.edu
 mhpcc.edu
+mhu.edu
 mi.edu
 miad.edu
 miami.edu
@@ -3915,7 +3921,6 @@ mlatc.edu
 mlaw.edu
 mlb.edu
 mlc-wels.edu
-mlc.edu
 mm.edu
 mma.edu
 mmc.edu
@@ -4001,6 +4006,7 @@ mountolive.edu
 mountolivecollege.edu
 mountsaintvincent.edu
 mountunion.edu
+mountwashington.edu
 moval.edu
 mpc.edu
 mpcc.edu
@@ -4112,7 +4118,6 @@ myfiaa.edu
 myita.edu
 mylincoln.edu
 mymiu.edu
-myneltc.edu
 myotherapy.edu
 myotherapycollege.edu
 myptc.edu
@@ -4662,7 +4667,6 @@ paine.edu
 pakaims.edu
 palau.edu
 palermo.edu
-palladium.edu
 palmbeachstate.edu
 palmer.edu
 palmerseminary.edu
@@ -4710,7 +4714,6 @@ pbc.edu
 pbcny.edu
 pbcts.edu
 pbrc.edu
-pbu.edu
 pc.edu
 pcad.edu
 pcage.edu
@@ -6251,7 +6254,6 @@ uacch.edu
 uaccm.edu
 uaex.edu
 uaf.edu
-uafortsmith.edu
 uafs.edu
 uag.edu
 uah.edu
