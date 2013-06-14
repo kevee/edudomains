@@ -2187,7 +2187,6 @@ fmu.edu
 fmulibraries.edu
 fmuniv.edu
 fmuonline.edu
-fnc.edu
 fnu.edu
 fnun.edu
 focushope.edu
@@ -2239,7 +2238,6 @@ freenet.edu
 freiberg.edu
 fremont.edu
 french-american.edu
-frenchculinary.edu
 fresno.edu
 fresnocitycollege.edu
 fresnostate.edu
@@ -3308,7 +3306,6 @@ lamarpa.edu
 lamedelegation.edu
 lamission.edu
 lamsoncollege.edu
-lamusicacademy.edu
 lancasterctc.edu
 lancastergeneralcollege.edu
 lancasterseminary.edu
@@ -4116,6 +4113,7 @@ mycomputercareer.edu
 myconcorde.edu
 myfiaa.edu
 myita.edu
+mylbc.edu
 mylincoln.edu
 mymiu.edu
 myotherapy.edu
@@ -5973,6 +5971,7 @@ tc-japan.edu
 tc.edu
 tc3.edu
 tca.edu
+tcatdickson.edu
 tcc.edu
 tccd.edu
 tce.edu
@@ -6955,6 +6954,7 @@ wcui.edu
 wcupa.edu
 wdt.edu
 webb-institute.edu
+webb.edu
 webber.edu
 webc.edu
 webcourse.edu
