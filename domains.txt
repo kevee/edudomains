@@ -992,6 +992,7 @@ canyons.edu
 capchrist.edu
 cape.edu
 capecod.edu
+capecoraltech.edu
 capella.edu
 capellauniversity.edu
 capital.edu
@@ -1028,7 +1029,6 @@ carlow.edu
 carnegie-institute.edu
 carnegiemellon.edu
 carnegiescience.edu
-carolina.edu
 cba.edu
 cbc.edu
 cbcag.edu
@@ -5951,6 +5951,7 @@ tamu-commerce.edu
 tamu.edu
 tamuc.edu
 tamucc.edu
+tamuct.edu
 tamug.edu
 tamuk.edu
 tamus.edu
@@ -5974,6 +5975,8 @@ tc3.edu
 tca.edu
 tcatcrump.edu
 tcatdickson.edu
+tcathartsville.edu
+tcatoneida.edu
 tcc.edu
 tccd.edu
 tce.edu
