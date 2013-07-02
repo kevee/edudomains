@@ -918,7 +918,6 @@ businessinformatics.edu
 busm.edu
 butc.edu
 butler.edu
-butlerbusiness.edu
 butlercc.edu
 butlertech.edu
 butte.edu
@@ -998,7 +997,6 @@ capellauniversity.edu
 capital.edu
 capitalcc.edu
 capitol-college.edu
-capitol-online.edu
 capitolcollege.edu
 capri.edu
 capribeautyschool.edu
@@ -1029,6 +1027,7 @@ carlow.edu
 carnegie-institute.edu
 carnegiemellon.edu
 carnegiescience.edu
+carolina.edu
 cba.edu
 cbc.edu
 cbcag.edu
@@ -1276,6 +1275,7 @@ cim.edu
 cimt.edu
 cincinnatistate.edu
 cinec.edu
+cintaaveda.edu
 cisco.edu
 cisl-languages.edu
 cisl.edu
@@ -2533,7 +2533,6 @@ harrison.edu
 harrisschool.edu
 hartford.edu
 hartland.edu
-hartley.edu
 hartnell.edu
 hartsem.edu
 hartwick.edu
@@ -4748,6 +4747,7 @@ pembroke.edu
 pencol.edu
 penfield.edu
 penn.edu
+pennco.edu
 penncollege.edu
 penncommercial.edu
 penncotech.edu
@@ -5973,6 +5973,7 @@ tc-japan.edu
 tc.edu
 tc3.edu
 tca.edu
+tcatcovington.edu
 tcatcrump.edu
 tcatdickson.edu
 tcathartsville.edu
