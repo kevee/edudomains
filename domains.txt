@@ -5581,6 +5581,7 @@ smcsc.edu
 smcvt.edu
 smecollege.edu
 smfa.edu
+smiha.edu
 smith.edu
 sms.edu
 smsu.edu
@@ -5980,6 +5981,7 @@ tcatelizabethton.edu
 tcathartsville.edu
 tcathohenwald.edu
 tcatoneida.edu
+tcatshelbyville.edu
 tcc.edu
 tccd.edu
 tce.edu
