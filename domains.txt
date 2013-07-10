@@ -2572,6 +2572,8 @@ hchc.edu
 hchs.edu
 hci.edu
 hcu.edu
+hdmc.edu
+hdu.edu
 heald.edu
 healdhon.edu
 healdonline.edu
@@ -5981,6 +5983,9 @@ tcatelizabethton.edu
 tcathartsville.edu
 tcathohenwald.edu
 tcatjacksboro.edu
+tcatknoxville.edu
+tcatmcminnville.edu
+tcatmurfreesboro.edu
 tcatoneida.edu
 tcatshelbyville.edu
 tcc.edu
