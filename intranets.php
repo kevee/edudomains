@@ -16,3 +16,4 @@ foreach($domains as $domain) {
         }
 }
 fclose($intranets);
+
