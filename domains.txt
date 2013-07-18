@@ -2562,6 +2562,7 @@ hadley.edu
 hagerstownbusinesscol.edu
 hagerstowncc.edu
 hahnemann.edu
+hai.edu
 hairdesigninstitute.edu
 hairdesignschool.edu
 hairdynamics.edu
@@ -5188,6 +5189,7 @@ roberts.edu
 robeson.edu
 roch.edu
 rochester.edu
+rockbridge.edu
 rockefeller.edu
 rockford.edu
 rockfordcareercollege.edu
@@ -6233,6 +6235,7 @@ tokai.edu
 tolani.edu
 toledo.edu
 toniguy-erie.edu
+toniguy.edu
 torah.edu
 toronto.edu
 tougaloo.edu
