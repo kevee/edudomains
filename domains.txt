@@ -116,7 +116,6 @@ agbu.edu
 agnes.edu
 agnesscott.edu
 ags.edu
-agse.edu
 agseminary.edu
 agsm.edu
 agts.edu
@@ -550,6 +549,7 @@ az-midwestern.edu
 azaruniv.edu
 azculinary.edu
 azregents.edu
+azsummitlaw.edu
 azure.edu
 azusaadult.edu
 azwestern.edu
@@ -3215,6 +3215,7 @@ kaskaskia.edu
 kau.edu
 kba.edu
 kbc.edu
+kbocc.edu
 kc.edu
 kcad.edu
 kcai.edu
@@ -3447,7 +3448,6 @@ lctcs.edu
 lcu.edu
 lcus.edu
 ldsbc.edu
-ldsces.edu
 leaders.edu
 learey.edu
 learn.edu
@@ -3889,6 +3889,7 @@ methodistcol.edu
 methodistcollege.edu
 metnet.edu
 metro.edu
+metrobeautyacademy.edu
 metrobusinesscollege.edu
 metropolitan.edu
 metrostate.edu
@@ -5738,7 +5739,6 @@ southmountaincc.edu
 southplainscollege.edu
 southseattle.edu
 southside.edu
-southsuburbancollege.edu
 southtexascollege.edu
 southuniversity.edu
 southwest.edu
@@ -5885,7 +5885,6 @@ stmarysem.edu
 stmarytx.edu
 stmatthews.edu
 stmichael.edu
-stmichaelcollege.edu
 stmichaelcollegeva.edu
 stmichaels.edu
 stmichaelspreschool.edu
@@ -6316,7 +6315,6 @@ ttccrump.edu
 ttcdickson.edu
 ttcelizabethton.edu
 ttcharriman.edu
-ttchartsville.edu
 ttchohenwald.edu
 ttcjacksboro.edu
 ttcjackson.edu
