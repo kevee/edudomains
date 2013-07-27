@@ -51,6 +51,7 @@ acb.edu
 acbrdu.edu
 acbsp.edu
 acc.edu
+access.edu
 accesscareers.edu
 acchs.edu
 acck.edu
@@ -6094,6 +6095,7 @@ tcatmurfreesboro.edu
 tcatnewbern.edu
 tcatoneida.edu
 tcatparis.edu
+tcatripley.edu
 tcatshelbyville.edu
 tcatwhiteville.edu
 tcc.edu
