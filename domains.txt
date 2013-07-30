@@ -3537,8 +3537,6 @@ liu.edu
 liunet.edu
 living-arts-college.edu
 livingstone.edu
-ljcrf.edu
-ljic.edu
 llcc.edu
 llim.edu
 lls.edu
@@ -4459,7 +4457,6 @@ northshore.edu
 northshorecollege.edu
 northshorelij.edu
 northsouth.edu
-northwest.edu
 northwestcareercollege.edu
 northwestcollege.edu
 northwestern.edu
@@ -6095,6 +6092,7 @@ tcatmurfreesboro.edu
 tcatnewbern.edu
 tcatoneida.edu
 tcatparis.edu
+tcatpulaski.edu
 tcatripley.edu
 tcatshelbyville.edu
 tcatwhiteville.edu
@@ -6676,6 +6674,7 @@ unomaha.edu
 unr.edu
 unsw.edu
 unt.edu
+untdallas.edu
 unterstrass.edu
 unthsc.edu
 untsystem.edu
