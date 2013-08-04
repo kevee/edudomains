@@ -18,7 +18,6 @@ aauj.edu
 aauni.edu
 aaureg.edu
 ab.edu
-aba.edu
 abac.edu
 abatoliba.edu
 abbc.edu
@@ -1210,6 +1209,7 @@ cffp.edu
 cfi.edu
 cga.edu
 cgc.edu
+cgcc.edu
 cgi.edu
 cgms.edu
 cgs.edu
@@ -1820,7 +1820,6 @@ dinecollege.edu
 dinfos.edu
 dinus.edu
 diplomacy.edu
-disam.edu
 disd.edu
 distance-learning.edu
 distlearn.edu
@@ -2041,7 +2040,6 @@ england.edu
 englishcenter.edu
 englishlci.edu
 enhancementcourses.edu
-eni.edu
 enmu-roswell.edu
 enmu.edu
 eoccc.edu
@@ -4002,6 +4000,7 @@ mlatc.edu
 mlaw.edu
 mlb.edu
 mlc-wels.edu
+mli.edu
 mm.edu
 mma.edu
 mmc.edu
@@ -4573,6 +4572,7 @@ nycpm.edu
 nyctcm.edu
 nyee.edu
 nyfa.edu
+nyiad.edu
 nyieb.edu
 nyip.edu
 nyit.edu
@@ -6077,6 +6077,7 @@ tc3.edu
 tca.edu
 tcatathens.edu
 tcatcovington.edu
+tcatcrossville.edu
 tcatcrump.edu
 tcatdickson.edu
 tcatelizabethton.edu
