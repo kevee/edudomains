@@ -2232,7 +2232,6 @@ fl.edu
 flagler.edu
 flbog.edu
 flcc.edu
-flet.edu
 fletcher.edu
 flintrivertech.edu
 florida-academy.edu
@@ -4019,7 +4018,6 @@ mnu.edu
 mnwest.edu
 mobap.edu
 moc.edu
-mocn.edu
 modern.edu
 mohave.edu
 molloy.edu
@@ -4430,7 +4428,6 @@ nodak.edu
 nols.edu
 norcocollege.edu
 normandale.edu
-north-ok.edu
 north-westcollege.edu
 northamerican.edu
 northampton.edu
@@ -4794,6 +4791,7 @@ pba.edu
 pbc.edu
 pbcny.edu
 pbcts.edu
+pbisn.edu
 pbrc.edu
 pc.edu
 pcad.edu
@@ -6091,6 +6089,7 @@ tcatlivingston.edu
 tcatmcminnville.edu
 tcatmemphis.edu
 tcatmurfreesboro.edu
+tcatnashville.edu
 tcatnewbern.edu
 tcatoneida.edu
 tcatparis.edu
