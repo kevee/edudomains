@@ -1623,6 +1623,7 @@ csun.edu
 csuniv.edu
 csuohio.edu
 csupomona.edu
+csupueblo.edu
 csus.edu
 csusb.edu
 csusm.edu
@@ -4360,6 +4361,7 @@ newportonline.edu
 newriver.edu
 newschool.edu
 newschoolarch.edu
+newton.edu
 newzealand.edu
 nfcc.edu
 nfo.edu
