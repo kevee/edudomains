@@ -5796,6 +5796,7 @@ ssc.edu
 sscc.edu
 sscms.edu
 sscok.edu
+sscosmetologyschool.edu
 sscr.edu
 sse.edu
 sseriga.edu
@@ -6152,6 +6153,7 @@ texastech.edu
 texshare.edu
 tfa.edu
 tfc.edu
+tghairacademy.edu
 tgif.edu
 tgouwp.edu
 tgsa.edu
