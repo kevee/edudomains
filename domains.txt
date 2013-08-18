@@ -3906,6 +3906,7 @@ mguniversity.edu
 mhc.edu
 mhcc.edu
 mhpcc.edu
+mhrc.edu
 mhu.edu
 mi.edu
 miad.edu
@@ -7122,6 +7123,7 @@ westernstates.edu
 westerntc.edu
 westerntech.edu
 westernu.edu
+westernwyoming.edu
 westernyork.edu
 westga.edu
 westgatech.edu
