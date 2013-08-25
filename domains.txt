@@ -62,6 +62,7 @@ aces.edu
 acg.edu
 ach.edu
 achs.edu
+aci.edu
 acm.edu
 acot.edu
 acp.edu
@@ -173,6 +174,7 @@ aiufl.edu
 aiuniv.edu
 aiuonline.edu
 ajcunet.edu
+ajrca.edu
 aju.edu
 ajula.edu
 akbible.edu
@@ -6038,7 +6040,6 @@ taft.edu
 taftcollege.edu
 taftlawschool.edu
 taftu.edu
-tai.edu
 taikenku.edu
 takming.edu
 talbot.edu
