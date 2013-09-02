@@ -1370,6 +1370,7 @@ cloud.edu
 clovis.edu
 clpccd.edu
 cltc.edu
+cltcc.edu
 clu.edu
 clunet.edu
 cluniv.edu
