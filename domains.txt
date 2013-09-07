@@ -662,6 +662,7 @@ bemidjistate.edu
 ben.edu
 benedict.edu
 benedictine.edu
+benes.edu
 bennett.edu
 bennington.edu
 bentley.edu
@@ -1680,6 +1681,7 @@ cunef.edu
 cunisanjuan.edu
 cuny.edu
 cuonline.edu
+cure.edu
 curry.edu
 cursus.edu
 curtin.edu
@@ -2526,6 +2528,7 @@ gru.edu
 gsbc.edu
 gsc.edu
 gscollege.edu
+gskinbeautyinstitute.edu
 gsmc.edu
 gsot.edu
 gspp.edu
@@ -3907,7 +3910,6 @@ mgu.edu
 mguniversity.edu
 mhc.edu
 mhcc.edu
-mhpcc.edu
 mhrc.edu
 mhu.edu
 mi.edu
@@ -6089,6 +6091,7 @@ tcatjacksboro.edu
 tcatjackson.edu
 tcatknoxville.edu
 tcatlivingston.edu
+tcatmckenzie.edu
 tcatmcminnville.edu
 tcatmemphis.edu
 tcatmorristown.edu
