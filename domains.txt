@@ -2198,7 +2198,6 @@ fetc.edu
 feu.edu
 fgc.edu
 fgcu.edu
-fhchs.edu
 fhcrc.edu
 fhd.edu
 fhda.edu
@@ -2246,7 +2245,6 @@ floridacareercollege.edu
 floridacareerinstitute.edu
 floridachristianuniversity.edu
 floridacollege.edu
-floridahospitalcollege.edu
 floridatech.edu
 floridavediccollege.edu
 flsouthern.edu
@@ -4137,7 +4135,6 @@ msubillings.edu
 msudenver.edu
 msugf.edu
 msun.edu
-msus.edu
 mtaloy.edu
 mtangel.edu
 mtc.edu
@@ -5244,7 +5241,6 @@ rsht.edu
 rsiaz.edu
 rst2.edu
 rstc.edu
-rstm.edu
 rsu.edu
 rsuonline.edu
 rtc.edu
@@ -5617,7 +5613,6 @@ siue.edu
 siuh.edu
 siumed.edu
 sjasc.edu
-sjbtc.edu
 sjca.edu
 sjcc.edu
 sjcd.edu
@@ -5735,7 +5730,6 @@ southflorida.edu
 southgatech.edu
 southhills.edu
 southlakecarroll.edu
-southlouisiana.edu
 southmountaincc.edu
 southplainscollege.edu
 southseattle.edu
