@@ -2377,6 +2377,7 @@ gbcol.edu
 gbi.edu
 gbs.edu
 gc.edu
+gcb.edu
 gcc.edu
 gccaz.edu
 gcccd.edu
@@ -2654,6 +2655,7 @@ healduniversity.edu
 healingmountain.edu
 healingoasis.edu
 healthandstyle.edu
+healthcareprep.edu
 healthworks.edu
 heartland.edu
 heartlandbaptist.edu
@@ -3908,6 +3910,7 @@ mgu.edu
 mguniversity.edu
 mhc.edu
 mhcc.edu
+mhpcc.edu
 mhrc.edu
 mhu.edu
 mi.edu
@@ -5316,6 +5319,7 @@ salinatech.edu
 salisbury.edu
 salk.edu
 salleurl.edu
+salonproacademy.edu
 sals.edu
 salt.edu
 salter.edu
@@ -5364,7 +5368,6 @@ savannahstate.edu
 savannahtech.edu
 sawyercollege.edu
 saxion.edu
-saybrook.edu
 sbac.edu
 sbbcollege.edu
 sbc.edu
@@ -6527,6 +6530,7 @@ uiu.edu
 uiuc.edu
 uiw.edu
 uiwtx.edu
+uj.edu
 ujmv.edu
 ukc.edu
 uksw.edu
