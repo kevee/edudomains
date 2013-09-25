@@ -878,7 +878,6 @@ bryan.edu
 bryancollege.edu
 bryancolleges.edu
 bryanhealthcollege.edu
-bryanlghcollege.edu
 bryant.edu
 bryantstratton.edu
 bryanu.edu
@@ -1966,7 +1965,6 @@ edinboro.edu
 edison.edu
 edisonohio.edu
 edmc.edu
-edpcollege.edu
 edpschool.edu
 edpuniversity.edu
 eds.edu
@@ -3028,7 +3026,6 @@ iris.edu
 irsc.edu
 irus.edu
 irvine.edu
-irvineuniversity.edu
 is.edu
 isb.edu
 isce.edu
@@ -4108,7 +4105,6 @@ msbcollege.edu
 msc.edu
 mscc.edu
 msccollege.edu
-mscd.edu
 mscok.edu
 msd.edu
 msdelta.edu
@@ -4265,7 +4261,6 @@ nc.edu
 ncad.edu
 ncat.edu
 ncbc.edu
-ncbt.edu
 ncc.edu
 nccc.edu
 ncce.edu
@@ -5616,6 +5611,7 @@ siue.edu
 siuh.edu
 siumed.edu
 sjasc.edu
+sjc.edu
 sjca.edu
 sjcc.edu
 sjcd.edu
@@ -6214,6 +6210,7 @@ tjhsst.edu
 tjsl.edu
 tju.edu
 tkc.edu
+tku.edu
 tlc.edu
 tls.edu
 tlsohio.edu
