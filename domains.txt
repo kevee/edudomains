@@ -822,7 +822,6 @@ brcn.edu
 breining.edu
 bremen.edu
 brenau.edu
-brensten.edu
 brescia.edu
 brevard.edu
 brevardcc.edu
@@ -2001,6 +2000,7 @@ electricaltrainingcenter.edu
 electroniclearning.edu
 elgin.edu
 elim.edu
+elitecosmetologyschool.edu
 elizabethgrady.edu
 ellis.edu
 elmhurst.edu
@@ -5798,6 +5798,7 @@ sse.edu
 sseriga.edu
 ssh.edu
 ssist.edu
+ssl.edu
 ssu.edu
 ssw.edu
 st-albans.edu
