@@ -650,6 +650,7 @@ bellincollege.edu
 bellingham-tech.edu
 bellinghambeautyschool.edu
 bellmar.edu
+bellschool.edu
 bellusacademy.edu
 belmont.edu
 belmontabbey.edu
@@ -2002,7 +2003,6 @@ elgin.edu
 elim.edu
 elitecosmetologyschool.edu
 elizabethgrady.edu
-ellis.edu
 elmhurst.edu
 elmira.edu
 elmirabusinessinstitute.edu
@@ -2187,6 +2187,7 @@ fdu.edu
 federico.edu
 fee.edu
 fei.edu
+felbrycollege.edu
 felician.edu
 fergusson.edu
 fernbank.edu
