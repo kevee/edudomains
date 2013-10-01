@@ -876,7 +876,6 @@ brsc.edu
 brunswickcc.edu
 bryan.edu
 bryancollege.edu
-bryancolleges.edu
 bryanhealthcollege.edu
 bryant.edu
 bryantstratton.edu
@@ -2340,7 +2339,6 @@ fvi.edu
 fvs.edu
 fvsu.edu
 fvtc.edu
-fwbbc.edu
 fwl.edu
 fwmep.edu
 gac.edu
@@ -4195,7 +4193,6 @@ mycci.edu
 mycenae.edu
 mycomputercareer.edu
 myconcorde.edu
-myfiaa.edu
 myita.edu
 mylbc.edu
 mylincoln.edu
