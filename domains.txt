@@ -5278,6 +5278,7 @@ salisbury.edu
 salk.edu
 salleurl.edu
 salonproacademy.edu
+salonspainstitute.edu
 sals.edu
 salt.edu
 salter.edu
@@ -5325,7 +5326,6 @@ sautech.edu
 savannahstate.edu
 savannahtech.edu
 sawyercollege.edu
-saxion.edu
 sbac.edu
 sbbcollege.edu
 sbc.edu
