@@ -266,6 +266,7 @@ americancareer.edu
 americancareercollege.edu
 americancollege.edu
 americanconservatory.edu
+americanglobalu.edu
 americanhealth.edu
 americaninstitute.edu
 americaninternational.edu
@@ -486,6 +487,7 @@ augie.edu
 augsburg.edu
 augustana.edu
 augustatech.edu
+auh.edu
 auhs.edu
 auhtc.edu
 aui.edu
@@ -1170,6 +1172,7 @@ centralpenn.edu
 centralseminary.edu
 centralstate.edu
 centraltech.edu
+centraluniversity.edu
 centre.edu
 centura.edu
 centuracollege.edu
@@ -3106,7 +3109,6 @@ jchs.edu
 jcjc.edu
 jcsu.edu
 jcu.edu
-jdc.edu
 jdcc.edu
 jeanmadeline.edu
 jec.edu
