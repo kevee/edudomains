@@ -456,6 +456,7 @@ atlanticu.edu
 atlanticuniv.edu
 atlanticuniversity.edu
 atlantis.edu
+atlantisuniversity.edu
 atlm.edu
 atom.edu
 atp.edu
@@ -902,6 +903,7 @@ buffalostate.edu
 bumc.edu
 burlington.edu
 burlingtoncollege.edu
+burnett.edu
 bush.edu
 businessinformatics.edu
 busm.edu
@@ -2314,6 +2316,7 @@ fullerpsyc.edu
 fullerton.edu
 fullsail.edu
 furman.edu
+fus.edu
 future.edu
 futures.edu
 fvc.edu
@@ -2911,6 +2914,7 @@ illinoiscareerpath.edu
 illinoisstate.edu
 illinoistech.edu
 ilm.edu
+ilsc.edu
 ilslaw.edu
 ilstu.edu
 ilternet.edu
