@@ -3818,6 +3818,7 @@ medical.edu
 medicina.edu
 medixschool.edu
 medixschooltowson.edu
+medlifeinstitute.edu
 medquestcollege.edu
 medtech.edu
 medtechcollege.edu
@@ -4763,6 +4764,7 @@ paulsmiths.edu
 pauniversitiesonline.edu
 payne.edu
 pba.edu
+pbacademy.edu
 pbc.edu
 pbcny.edu
 pbcts.edu
@@ -5423,6 +5425,7 @@ sdccd.edu
 sdce.edu
 sdcity.edu
 sdean.edu
+sdeyei-h.edu
 sdi.edu
 sdiae.edu
 sdmcds.edu
