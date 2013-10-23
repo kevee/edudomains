@@ -154,6 +154,7 @@ aiims.edu
 aiit.edu
 aim.edu
 aimc.edu
+aimm.edu
 aims.edu
 aimschool.edu
 aimsed.edu
@@ -281,6 +282,7 @@ amherst.edu
 ami.edu
 amity.edu
 amiu.edu
+amnc.edu
 amnh.edu
 amnu.edu
 ampi.edu
@@ -4184,6 +4186,7 @@ myotherapycollege.edu
 myptc.edu
 mysmu.edu
 myunion.edu
+na.edu
 naa.edu
 naba.edu
 nac.edu
@@ -6952,6 +6955,7 @@ vmi.edu
 vms.edu
 vmslaw.edu
 vogue.edu
+volny.edu
 volstate.edu
 voorhees.edu
 vs.edu
@@ -7018,7 +7022,6 @@ watkins.edu
 watumull.edu
 wau.edu
 waubonsee.edu
-waycross.edu
 wayne.edu
 waynecc.edu
 waynesburg.edu
