@@ -2434,6 +2434,7 @@ glion.edu
 glit.edu
 global.edu
 globaleducation.edu
+globaleslacademy.edu
 globaluniversity.edu
 globe.edu
 globeuniversity.edu
@@ -2723,7 +2724,6 @@ hodges.edu
 hodson.edu
 hofstra.edu
 hohokus.edu
-hohokushackensack.edu
 hohokusrets.edu
 hol.edu
 hollins.edu
@@ -3570,7 +3570,6 @@ lrsc.edu
 lru.edu
 lsb.edu
 lsc.edu
-lscc.edu
 lsco.edu
 lse.edu
 lsi.edu
@@ -5774,6 +5773,7 @@ sscr.edu
 sse.edu
 sseriga.edu
 ssh.edu
+ssi.edu
 ssist.edu
 ssl.edu
 ssu.edu
