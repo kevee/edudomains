@@ -2451,6 +2451,7 @@ gmu.edu
 gnbvt.edu
 gnomon.edu
 gntc.edu
+goaltraining.edu
 gobbc.edu
 gocolumbia.edu
 gocvcc.edu
@@ -4060,6 +4061,7 @@ morrisville.edu
 morton.edu
 mosis.edu
 motech.edu
+motherindia.edu
 moultrietech.edu
 mount.edu
 mountainstate.edu
@@ -4828,6 +4830,7 @@ personaltraininginstitute.edu
 peru.edu
 pes.edu
 pfeiffer.edu
+pfm.edu
 pgc.edu
 pgcc.edu
 pgi.edu
