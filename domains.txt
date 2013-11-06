@@ -536,7 +536,6 @@ aviationmaintenance.edu
 aviator.edu
 avicareertraining.edu
 avila.edu
-avinashilingam.edu
 avtec.edu
 awbs.edu
 awc.edu
@@ -990,6 +989,7 @@ capellauniversity.edu
 capital.edu
 capitalcc.edu
 capitol-college.edu
+capitol.edu
 capitolcollege.edu
 capri.edu
 capribeautyschool.edu
@@ -4557,6 +4557,7 @@ nyctcm.edu
 nyee.edu
 nyfa.edu
 nyiad.edu
+nyib.edu
 nyieb.edu
 nyip.edu
 nyit.edu
@@ -5700,7 +5701,6 @@ southeastmissourihospitalcollege.edu
 southeastmn.edu
 southeasttech.edu
 southern.edu
-southerncareercollege.edu
 southernchristian.edu
 southernct.edu
 southernillinois.edu
@@ -6380,6 +6380,7 @@ uapb.edu
 uark.edu
 uarts.edu
 uas.edu
+uasb.edu
 uasd.edu
 uasw.edu
 uasys.edu
@@ -6735,6 +6736,7 @@ usafa.edu
 usaim.edu
 usal.edu
 usao.edu
+usap.edu
 usask.edu
 usawc.edu
 usc.edu
