@@ -1930,7 +1930,6 @@ eccc.edu
 ecii.edu
 eckerd.edu
 ecla.edu
-eclips.edu
 ecmc.edu
 ecok.edu
 ecole-chateau-peynier.edu
@@ -4241,7 +4240,6 @@ nbc.edu
 nbi.edu
 nbs.edu
 nbss.edu
-nbti.edu
 nbts.edu
 nc.edu
 ncad.edu
