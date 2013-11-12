@@ -2188,7 +2188,6 @@ feu.edu
 fgc.edu
 fgcu.edu
 fhcrc.edu
-fhd.edu
 fhda.edu
 fhsu.edu
 fhtc.edu
@@ -4821,6 +4820,7 @@ pennfoster.edu
 pennfostercollege.edu
 pennhighlands.edu
 pennwell-net.edu
+penroseacademy.edu
 pensacolastate.edu
 peoplescollegeoflaw.edu
 pepperdine.edu
@@ -5076,6 +5076,7 @@ rcit.edu
 rcpsc.edu
 rcs.edu
 rctc.edu
+redeemer.edu
 redlands.edu
 redlandscc.edu
 redstone.edu
@@ -5164,6 +5165,7 @@ roanestate.edu
 roanoke.edu
 roanokechowan.edu
 robert-morris.edu
+robertfiance.edu
 robertmorris.edu
 roberts.edu
 robeson.edu
@@ -5543,6 +5545,7 @@ shms.edu
 shorebeautyschool.edu
 shoreline.edu
 shorter.edu
+shortercollege.edu
 showaboston.edu
 shst.edu
 shsu.edu
