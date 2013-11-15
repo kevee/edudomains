@@ -99,6 +99,7 @@ advancedtraining.edu
 adventistuniversity.edu
 aec.edu
 aegean.edu
+aeli.edu
 aerobics.edu
 aesa.edu
 aesd.edu
@@ -433,6 +434,7 @@ ata.edu
 atafl.edu
 atc.edu
 atcla.edu
+atcsd.edu
 atech.edu
 atechcollege.edu
 atenascollege.edu
@@ -2675,6 +2677,7 @@ heritageinstitute.edu
 heritageit.edu
 herkimer.edu
 herzing.edu
+herzingonline.edu
 hesser.edu
 hesston.edu
 hevs.edu
@@ -3600,6 +3603,7 @@ ltsg.edu
 ltsp.edu
 ltu.edu
 lubavitch.edu
+lubbockhairacademy.edu
 luc.edu
 luiss.edu
 lumc.edu
