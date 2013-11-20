@@ -1741,6 +1741,7 @@ daytonastate.edu
 dbc.edu
 dbcollege.edu
 dbi.edu
+dbidownriver.edu
 dbq.edu
 dbs.edu
 dbts.edu
@@ -2890,10 +2891,6 @@ iese.edu
 ietlucknow.edu
 iewu.edu
 ifam.edu
-iga.edu
-iglobal.edu
-ignatius.edu
-igw.edu
 ihe.edu
 ihmctan.edu
 ihp.edu
