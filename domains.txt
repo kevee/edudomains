@@ -569,7 +569,6 @@ balbharati.edu
 bancroftsmt.edu
 bankstreet.edu
 baptistcollege.edu
-baptistseminary.edu
 bapujidental.edu
 bar.edu
 baraninstitute.edu
@@ -2309,6 +2308,7 @@ fruitland.edu
 fscj.edu
 fst.edu
 fsu.edu
+fsw.edu
 ftc.edu
 ftccollege.edu
 fti.edu
@@ -2891,6 +2891,10 @@ iese.edu
 ietlucknow.edu
 iewu.edu
 ifam.edu
+iga.edu
+iglobal.edu
+ignatius.edu
+igw.edu
 ihe.edu
 ihmctan.edu
 ihp.edu
@@ -3747,6 +3751,7 @@ mbs.edu
 mbseminary.edu
 mbtipr.edu
 mbts.edu
+mbu.edu
 mc.edu
 mc3.edu
 mca.edu
@@ -6301,7 +6306,6 @@ ttcathens.edu
 ttcc.edu
 ttccovington.edu
 ttccrump.edu
-ttcdickson.edu
 ttcelizabethton.edu
 ttcharriman.edu
 ttchohenwald.edu
@@ -6422,6 +6426,7 @@ ucdavis.edu
 ucdc.edu
 ucdenver.edu
 ucdh.edu
+uceda.edu
 uceou.edu
 ucerc.edu
 ucf.edu
