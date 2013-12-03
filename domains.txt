@@ -416,7 +416,6 @@ asl.edu
 asn.edu
 asnuntuck.edu
 aspen.edu
-aspenlaurel.edu
 aspp.edu
 asri.edu
 assumption.edu
@@ -495,7 +494,6 @@ augustana.edu
 augustatech.edu
 auh.edu
 auhs.edu
-auhtc.edu
 aui.edu
 aul.edu
 aultmancollege.edu
@@ -3091,10 +3089,6 @@ iusb.edu
 iut-dhaka.edu
 iutepi.edu
 iutoic-dhaka.edu
-ivc.edu
-ivcc.edu
-ivs.edu
-ivytech.edu
 iwc.edu
 iwcc.edu
 iwp.edu
@@ -3670,7 +3664,6 @@ mancol.edu
 mancosre6.edu
 mandl.edu
 manhattan.edu
-manhattaninstitute.edu
 manhattanschool.edu
 manhattantech.edu
 manhattanville.edu
@@ -3933,7 +3926,6 @@ midsouthcc.edu
 midstate.edu
 midway.edu
 midwest.edu
-midwestbarbercollege.edu
 midwestern.edu
 midwestinstitute.edu
 midwesttech.edu
@@ -5471,6 +5463,7 @@ sebts.edu
 sec.edu
 secon.edu
 securityuniversity.edu
+sehcollege.edu
 seishun-university.edu
 sejong.edu
 sek.edu
@@ -5806,6 +5799,7 @@ stanford.edu
 stanfordlaw.edu
 stanfordu.edu
 stanly.edu
+starcareer.edu
 starkstate.edu
 startingpoints.edu
 statecareercollege.edu
@@ -6307,7 +6301,6 @@ tsus.edu
 ttcathens.edu
 ttcc.edu
 ttccovington.edu
-ttccrump.edu
 ttcelizabethton.edu
 ttcharriman.edu
 ttchohenwald.edu
