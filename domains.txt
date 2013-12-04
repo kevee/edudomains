@@ -759,6 +759,7 @@ bloomu.edu
 blts.edu
 blue.edu
 bluecc.edu
+bluecliffcollege.edu
 blueclifflafayette.edu
 bluefield.edu
 bluefieldstate.edu
@@ -3089,6 +3090,10 @@ iusb.edu
 iut-dhaka.edu
 iutepi.edu
 iutoic-dhaka.edu
+ivc.edu
+ivcc.edu
+ivs.edu
+ivytech.edu
 iwc.edu
 iwcc.edu
 iwp.edu
@@ -4950,6 +4955,7 @@ prairiestate.edu
 praob.edu
 pratt.edu
 prattcc.edu
+praxis.edu
 prbc.edu
 prbi.edu
 prcc.edu
@@ -7327,7 +7333,6 @@ yust.edu
 yvcc.edu
 zamorano.edu
 zanestate.edu
-zbc.edu
 zg-ort.edu
 zion.edu
 zmi.edu
