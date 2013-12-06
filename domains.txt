@@ -494,6 +494,7 @@ augustana.edu
 augustatech.edu
 auh.edu
 auhs.edu
+auhtc.edu
 aui.edu
 aul.edu
 aultmancollege.edu
@@ -5413,7 +5414,6 @@ scope.edu
 scotlewis.edu
 scotlewisschools.edu
 scottcollegeofcosmetology.edu
-scottlan.edu
 scottsdalecc.edu
 scr.edu
 scranton.edu
@@ -5616,6 +5616,7 @@ sjeccd.edu
 sjfc.edu
 sjrstate.edu
 sjs.edu
+sjson.edu
 sjsu.edu
 sju.edu
 sjvc.edu
@@ -6016,7 +6017,6 @@ sxccal.edu
 sxrtvu.edu
 sxu.edu
 sydney.edu
-symboljobtraining.edu
 symboltraining.edu
 syr.edu
 syracuse.edu
@@ -6145,6 +6145,7 @@ texshare.edu
 tfa.edu
 tfc.edu
 tghairacademy.edu
+tghairacademypa.edu
 tgif.edu
 tgouwp.edu
 tgsa.edu
