@@ -178,7 +178,6 @@ aiuonline.edu
 ajcunet.edu
 ajrca.edu
 aju.edu
-ajula.edu
 akbible.edu
 aku.edu
 alamancecc.edu
@@ -3195,16 +3194,6 @@ jvbrown.edu
 jwcc.edu
 jwu.edu
 jztrendacademy.edu
-kaist.edu
-kanisius.edu
-kansas.edu
-kaplan.edu
-kaplanu.edu
-kaplanuniversity.edu
-karishma.edu
-karunya.edu
-kaskaskia.edu
-kau.edu
 kba.edu
 kbc.edu
 kbocc.edu
@@ -4599,7 +4588,6 @@ oda.edu
 odessa.edu
 odu.edu
 oes.edu
-oftc.edu
 ogeecheetech.edu
 ogi.edu
 ogleschool.edu
