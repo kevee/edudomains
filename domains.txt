@@ -1521,6 +1521,7 @@ cosc.edu
 cosmeticartsinstitute.edu
 cosmetology.edu
 cosmobeautyacademy.edu
+cosmopolitan.edu
 cot.edu
 cotc.edu
 cotf.edu
@@ -7226,6 +7227,7 @@ woli.edu
 woninstitute.edu
 woodbury.edu
 woodburyuniversity.edu
+woodruffmedical.edu
 woodtobecoburn.edu
 woodward.edu
 wooster.edu
