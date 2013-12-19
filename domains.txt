@@ -228,6 +228,7 @@ alliance.edu
 alliant.edu
 allied.edu
 alliedhealthinstitute.edu
+alliedmedicalhealth.edu
 alliedschools.edu
 allison.edu
 allstate.edu
@@ -1255,6 +1256,7 @@ chic.edu
 chicagobooth.edu
 chicuniversity.edu
 chiinstitute.edu
+childmmc.edu
 childrenshospital.edu
 chipola.edu
 chiropractic.edu
@@ -1816,6 +1818,7 @@ dinecollege.edu
 dinfos.edu
 dinus.edu
 diplomacy.edu
+disam.edu
 disd.edu
 distance-learning.edu
 distlearn.edu
