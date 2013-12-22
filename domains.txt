@@ -4861,6 +4861,7 @@ phoenixseminary.edu
 photography.edu
 photoshoptraining.edu
 phs.edu
+phsc.edu
 phssn.edu
 phystech.edu
 pia.edu
@@ -5079,6 +5080,7 @@ rbc.edu
 rc.edu
 rca.edu
 rcad.edu
+rcbh.edu
 rcc.edu
 rccc.edu
 rccd.edu
@@ -6310,8 +6312,6 @@ tsuniv.edu
 tsus.edu
 ttcathens.edu
 ttcc.edu
-ttccovington.edu
-ttcelizabethton.edu
 ttcharriman.edu
 ttchohenwald.edu
 ttcjacksboro.edu
@@ -6576,6 +6576,7 @@ umm.edu
 ummc.edu
 ummed.edu
 umn.edu
+umo.edu
 umobile.edu
 umontana.edu
 umpi.edu
