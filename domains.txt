@@ -761,7 +761,6 @@ blts.edu
 blue.edu
 bluecc.edu
 bluecliffcollege.edu
-blueclifflafayette.edu
 bluefield.edu
 bluefieldstate.edu
 bluegrass.edu
@@ -1905,6 +1904,7 @@ dyc.edu
 dynamis.edu
 dyouville.edu
 dypatil.edu
+ea.edu
 eac.edu
 eacc.edu
 eada.edu
@@ -2284,7 +2284,6 @@ framingham.edu
 francis.edu
 franciscan.edu
 francistuttle.edu
-franklin-college.edu
 franklin.edu
 franklinacademy.edu
 franklincareer.edu
@@ -2521,7 +2520,6 @@ grinnell.edu
 grossmont.edu
 gru.edu
 gsbc.edu
-gsc.edu
 gscollege.edu
 gskinbeautyinstitute.edu
 gsmc.edu
@@ -3226,7 +3224,6 @@ kctcs.edu
 kcu.edu
 kcumb.edu
 kdcollege.edu
-kdstudio.edu
 kdu.edu
 kean.edu
 kee.edu
@@ -4209,6 +4206,7 @@ naicu.edu
 najah.edu
 nap.edu
 napavalley.edu
+napmed.edu
 naprapathicmedicine.edu
 naps.edu
 naropa.edu
@@ -4868,6 +4866,7 @@ pia.edu
 piaschools.edu
 pib.edu
 pic.edu
+piccollege.edu
 picktwc.edu
 pict.edu
 pie.edu
@@ -6044,7 +6043,6 @@ talmudicu.edu
 tambcd.edu
 tamhsc.edu
 tamiu.edu
-tamu-commerce.edu
 tamu.edu
 tamuc.edu
 tamucc.edu
@@ -7078,7 +7076,6 @@ wcu.edu
 wcui.edu
 wcupa.edu
 wdt.edu
-webb-institute.edu
 webb.edu
 webber.edu
 webc.edu
