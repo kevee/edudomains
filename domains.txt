@@ -395,6 +395,7 @@ artic.edu
 artinstitute.edu
 artinstitutes.edu
 artinstructionschools.edu
+artistic.edu
 as.edu
 asa.edu
 asaom.edu
@@ -6312,12 +6313,10 @@ ttcathens.edu
 ttcc.edu
 ttcharriman.edu
 ttchohenwald.edu
-ttcjacksboro.edu
 ttcjackson.edu
 ttcknoxville.edu
 ttclivingston.edu
 ttcmckenzie.edu
-ttcmcminnville.edu
 ttcmemphis.edu
 ttcmorristown.edu
 ttcmurfreesboro.edu
