@@ -1319,9 +1319,6 @@ ciula.edu
 ciw.edu
 ciwemb.edu
 cji.edu
-ck.edu
-ckp.edu
-cks.edu
 cl.edu
 clackamas.edu
 claflin.edu
@@ -1992,6 +1989,7 @@ elac.edu
 elc.edu
 elcamino.edu
 elcentrocollege.edu
+elci.edu
 elearning.edu
 electricaltrainingcenter.edu
 electroniclearning.edu
@@ -2580,6 +2578,7 @@ hamlineuniversity.edu
 hampshire.edu
 hamptonu.edu
 hamrickschool.edu
+hancock.edu
 hancockcollege.edu
 hancocku.edu
 handong.edu
@@ -3528,6 +3527,7 @@ liu.edu
 liunet.edu
 living-arts-college.edu
 livingstone.edu
+ljic.edu
 llcc.edu
 llim.edu
 lls.edu
@@ -3735,6 +3735,7 @@ math.edu
 mattiacollege.edu
 mau.edu
 maufl.edu
+maunaloahelicopters.edu
 mayanot.edu
 mayfieldcollege.edu
 mayim.edu
@@ -4482,22 +4483,6 @@ nr.edu
 nrait.edu
 nrao.edu
 nrc.edu
-nsa.edu
-nsc.edu
-nscc.edu
-nscee.edu
-nscs.edu
-nshs.edu
-nsi.edu
-nslijhs.edu
-nsm.edu
-nso.edu
-nss.edu
-nst.edu
-nsu.edu
-nsuba.edu
-nsula.edu
-nsuok.edu
 ntc.edu
 ntcc.edu
 ntcmn.edu
