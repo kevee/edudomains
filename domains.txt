@@ -1356,6 +1356,7 @@ clevelandstatecc.edu
 clic.edu
 cliffsidepark.edu
 clinton.edu
+clintoncollege.edu
 clintonjuniorcollege.edu
 cloud.edu
 clovis.edu
@@ -2254,6 +2255,7 @@ fmuonline.edu
 fnu.edu
 fnun.edu
 focushope.edu
+focustrainerinstitute.edu
 folger.edu
 fomento.edu
 fontbonne.edu
@@ -2825,6 +2827,7 @@ iaia.edu
 ialf.edu
 iama.edu
 iamp.edu
+iamu.edu
 iar.edu
 ias.edu
 iashs.edu
