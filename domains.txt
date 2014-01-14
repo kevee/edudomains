@@ -691,7 +691,6 @@ bethelks.edu
 bethelu.edu
 bethlehem.edu
 bethlehembiblecollege.edu
-bethrivkah.edu
 beulah.edu
 bexley.edu
 bexleyseabury.edu
@@ -2036,7 +2035,6 @@ emu.edu
 emuonline.edu
 enc.edu
 endicott.edu
-eng4intl.edu
 enginecity.edu
 england.edu
 englishcenter.edu
