@@ -80,6 +80,7 @@ acupuncturecollege.edu
 acupuncturist.edu
 acutabove.edu
 adams.edu
+adamscollege.edu
 adamsmith.edu
 adamsu.edu
 adec.edu
@@ -691,6 +692,7 @@ bethelks.edu
 bethelu.edu
 bethlehem.edu
 bethlehembiblecollege.edu
+bethrivkah.edu
 beulah.edu
 bexley.edu
 bexleyseabury.edu
@@ -2738,6 +2740,7 @@ hohokus.edu
 hohokusrets.edu
 hol.edu
 hollins.edu
+hollywoodcollege.edu
 holmes.edu
 holmescc.edu
 holton-arms.edu
