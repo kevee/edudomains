@@ -4047,6 +4047,7 @@ montcalm.edu
 montclair.edu
 monteclaro.edu
 monterey.edu
+montereybay.edu
 montereylaw.edu
 montessori.edu
 montevallo.edu
@@ -6199,6 +6200,7 @@ threerivers.edu
 ths.edu
 thsu.edu
 thunderbird.edu
+tias.edu
 tiasnimbas.edu
 ticas.edu
 ticifl.edu
