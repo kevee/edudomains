@@ -63,6 +63,7 @@ ach.edu
 achs.edu
 aci.edu
 acm.edu
+acmc.edu
 acot.edu
 acp.edu
 acpe.edu
@@ -951,6 +952,7 @@ california.edu
 californiacareerschool.edu
 californiacolleges.edu
 californiawestern.edu
+calinstitute.edu
 callutheran.edu
 calmu.edu
 calnorthern.edu
@@ -1821,6 +1823,7 @@ dinfos.edu
 dinus.edu
 diplomacy.edu
 disam.edu
+discoverydiving.edu
 disd.edu
 distance-learning.edu
 distlearn.edu
@@ -3125,6 +3128,7 @@ jarvis.edu
 javier.edu
 jazz.edu
 jbims.edu
+jbs.edu
 jbu.edu
 jc.edu
 jccc.edu
@@ -5872,6 +5876,7 @@ stjohns.edu
 stjohnscollege.edu
 stjohnscollegespringfield.edu
 stjohnsem.edu
+stjson.edu
 stkate.edu
 stlawrence.edu
 stlawu.edu
@@ -6342,6 +6347,7 @@ ttcwhiteville.edu
 ttic.edu
 ttu.edu
 ttuhsc.edu
+ttycareercollege.edu
 tu-varna.edu
 tu.edu
 tubc.edu
