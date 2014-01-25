@@ -3352,6 +3352,7 @@ lacc.edu
 laccd.edu
 lacitycollege.edu
 lackawanna.edu
+lacm.edu
 lacoe.edu
 lacollege.edu
 lacs.edu
@@ -3532,6 +3533,7 @@ linux.edu
 lion.edu
 lipscomb.edu
 lit.edu
+litexas.edu
 littlehoop.edu
 littlepriest.edu
 liu.edu
@@ -6325,7 +6327,6 @@ tsu.edu
 tsulaw.edu
 tsuniv.edu
 tsus.edu
-ttcathens.edu
 ttcc.edu
 ttcharriman.edu
 ttchohenwald.edu
