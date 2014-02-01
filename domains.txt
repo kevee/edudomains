@@ -182,6 +182,7 @@ ajrca.edu
 aju.edu
 akbible.edu
 aku.edu
+ala.edu
 alamancecc.edu
 alamedabeautycollege.edu
 alameenpharmacy.edu
@@ -1477,7 +1478,6 @@ compta.edu
 compton.edu
 computek.edu
 computer.edu
-computercareercenter.edu
 computerman.edu
 conception.edu
 concord.edu
@@ -5834,6 +5834,7 @@ startingpoints.edu
 statecareercollege.edu
 statecollegeofbeauty.edu
 statementstheacademy.edu
+statetechmo.edu
 staugustine.edu
 staugustinecollege.edu
 stbernards.edu
