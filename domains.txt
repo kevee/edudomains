@@ -548,6 +548,14 @@ awi.edu
 ayers.edu
 ayurveda.edu
 ayurvedic.edu
+az-midwestern.edu
+azaruniv.edu
+azculinary.edu
+azregents.edu
+azsummitlaw.edu
+azure.edu
+azusaadult.edu
+azwestern.edu
 babeautycollege.edu
 babel.edu
 babson.edu
@@ -914,6 +922,9 @@ bvb.edu
 bvinst.edu
 bvu.edu
 bw.edu
+byu.edu
+byuh.edu
+byui.edu
 ca.edu
 cabarruscollege.edu
 cabrillo.edu
@@ -1311,6 +1322,7 @@ ciu.edu
 ciula.edu
 ciw.edu
 ciwemb.edu
+cjc.edu
 cji.edu
 ck.edu
 ckp.edu
@@ -2606,6 +2618,7 @@ harvest.edu
 has.edu
 haskell.edu
 hastings.edu
+hauniv.edu
 haverford.edu
 hawaii.edu
 hawaiitokai.edu
@@ -5092,6 +5105,7 @@ rcbh.edu
 rcc.edu
 rccc.edu
 rccd.edu
+rcgc.edu
 rcit.edu
 rcpsc.edu
 rcs.edu
@@ -6336,7 +6350,6 @@ ttconeida.edu
 ttcparis.edu
 ttcpulaski.edu
 ttcripley.edu
-ttcshelbyville.edu
 ttcwhiteville.edu
 ttic.edu
 ttu.edu
@@ -6677,6 +6690,7 @@ unl.edu
 unlv.edu
 unm.edu
 unmc.edu
+unnj.edu
 uno.edu
 unoh.edu
 unomaha.edu
@@ -7043,6 +7057,7 @@ washburntech.edu
 washcampus.edu
 washcoll.edu
 washington.edu
+washingtonbarbercollege.edu
 washingtoncollege.edu
 washingtonu.edu
 washint.edu
@@ -7320,7 +7335,6 @@ yccc.edu
 yccd.edu
 ycce.edu
 ycp.edu
-yellowstonebaptist.edu
 yellowstonechristian.edu
 yeshiva.edu
 yhc.edu
