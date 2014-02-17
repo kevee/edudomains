@@ -446,7 +446,6 @@ atenet.edu
 athabasca.edu
 athena.edu
 athenacareers.edu
-athenacollege.edu
 athenaeum.edu
 athens.edu
 athenstech.edu
@@ -1576,7 +1575,6 @@ crossroadscollege.edu
 crowder.edu
 crown.edu
 crts.edu
-cs.edu
 csati.edu
 csb.edu
 csbradiotv.edu
@@ -6348,7 +6346,6 @@ ttcnashville.edu
 ttcnewbern.edu
 ttconeida.edu
 ttcparis.edu
-ttcpulaski.edu
 ttcripley.edu
 ttcwhiteville.edu
 ttic.edu
