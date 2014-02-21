@@ -1575,6 +1575,7 @@ crossroadscollege.edu
 crowder.edu
 crown.edu
 crts.edu
+cs.edu
 csati.edu
 csb.edu
 csbradiotv.edu
@@ -4902,6 +4903,7 @@ piht.edu
 pillar.edu
 pima.edu
 pims.edu
+pine.edu
 pinecrest.edu
 pinetech.edu
 pinewood.edu
@@ -6340,7 +6342,6 @@ ttcknoxville.edu
 ttclivingston.edu
 ttcmckenzie.edu
 ttcmemphis.edu
-ttcmorristown.edu
 ttcmurfreesboro.edu
 ttcnashville.edu
 ttcnewbern.edu
