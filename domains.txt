@@ -31,6 +31,7 @@ abs.edu
 abscosmo.edu
 absw.edu
 abtech.edu
+abtu.edu
 ac.edu
 aca.edu
 acacia.edu
@@ -1406,6 +1407,7 @@ coahomacc.edu
 coastal.edu
 coastalbend.edu
 coastalcarolina.edu
+coastalpines.edu
 coastcareer.edu
 coastline.edu
 coastlinebeauty.edu
