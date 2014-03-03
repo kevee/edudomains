@@ -2190,6 +2190,7 @@ fdu.edu
 federico.edu
 fee.edu
 fei.edu
+feitian.edu
 felbrycollege.edu
 felician.edu
 fergusson.edu
@@ -5331,6 +5332,7 @@ salemcc.edu
 salemstate.edu
 salemu.edu
 salesianos.edu
+salinasbeautycollege.edu
 salinatech.edu
 salisbury.edu
 salk.edu
@@ -5383,7 +5385,6 @@ saurashtrauniversity.edu
 sautech.edu
 savannahstate.edu
 savannahtech.edu
-sawyercollege.edu
 sbac.edu
 sbbcollege.edu
 sbc.edu
@@ -6044,9 +6045,6 @@ swtc.edu
 swtech.edu
 swtjc.edu
 swu.edu
-sxccal.edu
-sxrtvu.edu
-sxu.edu
 sydney.edu
 symboltraining.edu
 syr.edu
@@ -6135,7 +6133,6 @@ tcnj.edu
 tcsedsystem.edu
 tcsg.edu
 tctc.edu
-tctcm.edu
 tcu.edu
 tcuglobal.edu
 td.edu
