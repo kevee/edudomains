@@ -6045,6 +6045,9 @@ swtc.edu
 swtech.edu
 swtjc.edu
 swu.edu
+sxccal.edu
+sxrtvu.edu
+sxu.edu
 sydney.edu
 symboltraining.edu
 syr.edu
