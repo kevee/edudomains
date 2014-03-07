@@ -108,6 +108,7 @@ aesa.edu
 aesd.edu
 aestheticscienceinstitute.edu
 af.edu
+afa.edu
 afaa.edu
 afi.edu
 afit.edu
@@ -1366,7 +1367,6 @@ clintonjuniorcollege.edu
 cloud.edu
 clovis.edu
 clpccd.edu
-cltc.edu
 cltcc.edu
 clu.edu
 clunet.edu
@@ -1495,6 +1495,7 @@ concordiacollege.edu
 concordlawschool.edu
 conestoga.edu
 conncoll.edu
+connectenglish.edu
 connecticutcollege.edu
 connorsstate.edu
 conservative.edu
@@ -1930,6 +1931,7 @@ eastfieldcollege.edu
 eastman.edu
 eastms.edu
 eastwest.edu
+eastwestcollege.edu
 eastwick.edu
 eastwickcollege.edu
 ebaf.edu
@@ -2410,7 +2412,6 @@ geneva.edu
 georgefox.edu
 georgetown.edu
 georgetowncollege.edu
-georgiahealth.edu
 georgiamed.edu
 georgian.edu
 georgiasouthern.edu
@@ -2743,6 +2744,7 @@ hocus-lotus.edu
 hodges.edu
 hodson.edu
 hofstra.edu
+hoft.edu
 hohokus.edu
 hohokusrets.edu
 hol.edu
@@ -3125,7 +3127,6 @@ jameasaifiyah.edu
 jamesreserve.edu
 jamessprunt.edu
 jamestownbusinesscollege.edu
-jamestowncollege.edu
 jamiahamdard.edu
 janusuniversity.edu
 jarvis.edu
@@ -3387,7 +3388,6 @@ lamarpa.edu
 lamedelegation.edu
 lamission.edu
 lancasterctc.edu
-lancastergeneralcollege.edu
 lancasterseminary.edu
 lander.edu
 landingschool.edu
@@ -5257,7 +5257,6 @@ rsa.edu
 rsc.edu
 rsccd.edu
 rsd.edu
-rsht.edu
 rsiaz.edu
 rst2.edu
 rstc.edu
@@ -6288,6 +6287,7 @@ tri-c.edu
 tri-state.edu
 triangle-tech.edu
 tricociuniversity.edu
+tricountyallied.edu
 tricountycc.edu
 tricountytech.edu
 trident.edu
