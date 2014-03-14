@@ -1124,6 +1124,7 @@ ccpm.edu
 ccr.edu
 ccri.edu
 ccs.edu
+ccscosmetologycollege.edu
 ccsd.edu
 ccsf.edu
 ccsj.edu
@@ -2634,7 +2635,6 @@ haywood.edu
 hazelden.edu
 hb.edu
 hbas.edu
-hbc.edu
 hbc1.edu
 hbha.edu
 hbmu.edu
@@ -3502,6 +3502,7 @@ liberty.edu
 libi.edu
 libs.edu
 liceo.edu
+liclisma.edu
 life-east.edu
 life.edu
 lifepacific.edu
@@ -4906,6 +4907,7 @@ piht.edu
 pillar.edu
 pima.edu
 pims.edu
+pinchot.edu
 pine.edu
 pinecrest.edu
 pinetech.edu
@@ -5012,6 +5014,7 @@ providencecc.edu
 provo.edu
 provocollege.edu
 prowayhairschool.edu
+prts.edu
 ps.edu
 psb.edu
 psba.edu
@@ -7165,6 +7168,7 @@ wfu.edu
 wfubmc.edu
 wfusm.edu
 wgtc.edu
+wgu-rhp.edu
 wgu.edu
 wharton.edu
 whatcom.edu
