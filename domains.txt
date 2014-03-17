@@ -6721,6 +6721,7 @@ uog.edu
 uokhsc.edu
 uoknor.edu
 uop.edu
+uopeople.edu
 uophx.edu
 uor.edu
 uoregon.edu
@@ -6861,6 +6862,7 @@ utoledo.edu
 utpa.edu
 utpanam.edu
 utpb.edu
+utrgv.edu
 uts.edu
 utsa.edu
 utsi.edu
