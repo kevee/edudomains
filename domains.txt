@@ -3802,6 +3802,7 @@ mcgeorge.edu
 mcgill.edu
 mcgregor.edu
 mchenry.edu
+mchp.edu
 mchs.edu
 mci.edu
 mcidenver.edu
@@ -4698,6 +4699,7 @@ orientalmedicine.edu
 orleanstech.edu
 orst.edu
 ort.edu
+ortchicagotech.edu
 ortegaygasset.edu
 ortn.edu
 oru.edu
