@@ -1202,7 +1202,6 @@ cescollege.edu
 cesma.edu
 cet.edu
 ceu-budapest.edu
-ceu.edu
 cf.edu
 cfbisd.edu
 cfcc.edu
@@ -2886,7 +2885,6 @@ icseminary.edu
 icsi.edu
 icslearn.edu
 icsw.edu
-ict-ils.edu
 ict.edu
 ictc.edu
 ictctech.edu
@@ -3005,7 +3003,6 @@ interfajardo.edu
 interlink.edu
 intermetro.edu
 international.edu
-internationalcosmetology.edu
 internationaluniversity.edu
 internet2.edu
 internexus.edu
@@ -3370,7 +3367,6 @@ lagrange.edu
 laguardia.edu
 lahc.edu
 lajames.edu
-lajamesinternationalcollege.edu
 lakeareatech.edu
 lakeerie.edu
 lakeforest.edu
@@ -4150,7 +4146,6 @@ msu-b.edu
 msu.edu
 msubillings.edu
 msudenver.edu
-msugf.edu
 msun.edu
 mtaloy.edu
 mtangel.edu
@@ -4552,7 +4547,6 @@ nw.edu
 nwa.edu
 nwacc.edu
 nwbs.edu
-nwc.edu
 nwcc.edu
 nwciowa.edu
 nwcollege.edu
@@ -4763,6 +4757,7 @@ paiercollegeofart.edu
 paine.edu
 palau.edu
 palermo.edu
+palladium.edu
 palmbeachstate.edu
 palmer.edu
 palmerseminary.edu
@@ -5343,7 +5338,6 @@ salisbury.edu
 salk.edu
 salleurl.edu
 salonproacademy.edu
-salonspainstitute.edu
 sals.edu
 salt.edu
 salter.edu
@@ -5390,6 +5384,7 @@ saurashtrauniversity.edu
 sautech.edu
 savannahstate.edu
 savannahtech.edu
+sawyercollege.edu
 sbac.edu
 sbbcollege.edu
 sbc.edu
@@ -5566,7 +5561,6 @@ shawuniversity.edu
 shc.edu
 shcp.edu
 shctpt.edu
-sheffield.edu
 sheltonstate.edu
 shenandoah.edu
 shepherd.edu
@@ -6342,20 +6336,9 @@ tsu.edu
 tsulaw.edu
 tsuniv.edu
 tsus.edu
-ttcc.edu
 ttcharriman.edu
 ttchohenwald.edu
-ttcjackson.edu
-ttcknoxville.edu
-ttclivingston.edu
 ttcmckenzie.edu
-ttcmemphis.edu
-ttcmurfreesboro.edu
-ttcnashville.edu
-ttcnewbern.edu
-ttconeida.edu
-ttcparis.edu
-ttcripley.edu
 ttcwhiteville.edu
 ttic.edu
 ttu.edu
