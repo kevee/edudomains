@@ -285,6 +285,7 @@ americantradeschool.edu
 americanwinds.edu
 americareschoolofnursing.edu
 ameritech.edu
+amg.edu
 amherst.edu
 ami.edu
 amity.edu
@@ -6942,6 +6943,7 @@ vcmc.edu
 vcom.edu
 vconline.edu
 vcsu.edu
+vct.edu
 vcu.edu
 veda.edu
 venango.edu
