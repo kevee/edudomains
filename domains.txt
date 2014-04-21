@@ -892,6 +892,7 @@ bse.edu
 bshp.edu
 bsmcon.edu
 bsom.edu
+bsp.edu
 bsstlearn.edu
 bsu.edu
 bths.edu
@@ -1099,6 +1100,7 @@ cccnj.edu
 cccoes.edu
 cccollege.edu
 cccs.edu
+ccctc.edu
 cccti.edu
 cccua.edu
 ccd.edu
@@ -5847,6 +5849,7 @@ staugustine.edu
 staugustinecollege.edu
 stbernards.edu
 stc.edu
+stcacademy.edu
 stcc.edu
 stcecilia.edu
 stchas.edu
@@ -6339,7 +6342,6 @@ tsuniv.edu
 tsus.edu
 ttcharriman.edu
 ttchohenwald.edu
-ttcmckenzie.edu
 ttcwhiteville.edu
 ttic.edu
 ttu.edu
