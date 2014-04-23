@@ -5488,7 +5488,6 @@ sduis.edu
 se-pr.edu
 se.edu
 sea.edu
-seabury.edu
 seacoastcareerschools.edu
 searcybeautycollege.edu
 seark.edu
@@ -6228,6 +6227,7 @@ tidewatertechtrades.edu
 tiffin.edu
 tiffinacademy.edu
 tilburguniversity.edu
+tillamookbaycc.edu
 timi.edu
 tisoh.edu
 tiss.edu
