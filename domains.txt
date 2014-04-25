@@ -745,6 +745,7 @@ birzeit.edu
 bishop.edu
 bishopbrady.edu
 bismarckstate.edu
+bit.edu
 bjsbeautyandbarbercollege.edu
 bju.edu
 bklyn.edu
@@ -4373,7 +4374,6 @@ newhorizonindia.edu
 newman.edu
 newmanu.edu
 newpaltz.edu
-newportonline.edu
 newriver.edu
 newschool.edu
 newschoolarch.edu
@@ -5507,6 +5507,7 @@ sejong.edu
 sek.edu
 sel.edu
 selmauniversity.edu
+selnate.edu
 selu.edu
 seminary.edu
 seminolestate.edu
@@ -7273,6 +7274,7 @@ wpms.edu
 wpunj.edu
 wright.edu
 wrightcc.edu
+wrightgrad.edu
 wrs.edu
 ws.edu
 wsac.edu
