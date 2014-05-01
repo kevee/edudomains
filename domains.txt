@@ -299,6 +299,7 @@ amrita.edu
 amsamoa.edu
 amsu.edu
 amt.edu
+amu.edu
 an.edu
 anaheim.edu
 anamarc.edu
@@ -357,7 +358,6 @@ apollo.edu
 apollocollege.edu
 apollogrp.edu
 apollos.edu
-apollosuniversity.edu
 apostolic.edu
 appa.edu
 appstate.edu
@@ -458,7 +458,6 @@ aticareertraining.edu
 aticollege.edu
 atienterprises.edu
 atis.edu
-atlantainstituteofmusic.edu
 atlantaschoolofmassage.edu
 atlantatech.edu
 atlantic.edu
@@ -921,7 +920,6 @@ busm.edu
 butc.edu
 butler.edu
 butlercc.edu
-butlertech.edu
 butte.edu
 bvb.edu
 bvinst.edu
@@ -955,6 +953,7 @@ calcoastuniv.edu
 caldwell.edu
 calhoun.edu
 california.edu
+californiacareercollege.edu
 californiacareerschool.edu
 californiacolleges.edu
 californiawestern.edu
@@ -4223,7 +4222,6 @@ myunion.edu
 na.edu
 naa.edu
 naba.edu
-nac.edu
 nacc.edu
 nadc.edu
 nae.edu
@@ -5496,7 +5494,6 @@ seattlecentral.edu
 seattlecolleges.edu
 seattleu.edu
 sebc.edu
-sebs.edu
 sebts.edu
 sec.edu
 secon.edu
@@ -6240,6 +6237,7 @@ tjsl.edu
 tju.edu
 tkc.edu
 tku.edu
+tlc-corp.edu
 tlc.edu
 tls.edu
 tlsohio.edu
