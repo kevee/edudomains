@@ -5494,6 +5494,7 @@ seattlecentral.edu
 seattlecolleges.edu
 seattleu.edu
 sebc.edu
+sebs.edu
 sebts.edu
 sec.edu
 secon.edu
