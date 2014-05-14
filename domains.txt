@@ -626,6 +626,8 @@ bcs.edu
 bcsbc.edu
 bcva.edu
 bcw.edu
+bd.edu
+bds.edu
 beaconcollege.edu
 bealcollege.edu
 beaufortccc.edu
@@ -823,7 +825,6 @@ bremen.edu
 brenau.edu
 brescia.edu
 brevard.edu
-brevardcc.edu
 brewster.edu
 briarcliff.edu
 briarcliffe.edu
@@ -1441,6 +1442,7 @@ colin.edu
 colleenoharasbeautyacademy.edu
 collegeamerica.edu
 collegeforcreativestudies.edu
+collegeofhairdesign.edu
 collegeofidaho.edu
 collegeofsaintbenedict.edu
 collegeofsanmateo.edu
@@ -2083,6 +2085,7 @@ escem.edu
 escoffier.edu
 escondidobiblecollege.edu
 escueladenegociosncg.edu
+escuelahotelera.edu
 ese.edu
 esec.edu
 eseune.edu
@@ -3218,6 +3221,7 @@ kaist.edu
 kanisius.edu
 kansas.edu
 kaplan.edu
+kaplancareerinstitute.edu
 kaplanu.edu
 kaplanuniversity.edu
 karishma.edu
@@ -3538,6 +3542,7 @@ lintonhall.edu
 linux.edu
 lion.edu
 lipscomb.edu
+lisma.edu
 lit.edu
 litexas.edu
 littlehoop.edu
@@ -3560,7 +3565,6 @@ lmunet.edu
 loc.edu
 logan.edu
 loganlib.edu
-logisticseducation.edu
 logos-seminary.edu
 logos.edu
 london.edu
@@ -3735,7 +3739,6 @@ maryland.edu
 marylhurst.edu
 marymount.edu
 marymountcalifornia.edu
-marymountpv.edu
 maryville.edu
 maryvillecollege.edu
 marywood.edu
@@ -4015,7 +4018,6 @@ mlatc.edu
 mlaw.edu
 mlb.edu
 mlc-wels.edu
-mlc.edu
 mli.edu
 mliesl.edu
 mm.edu
@@ -4089,6 +4091,7 @@ morris.edu
 morrisbrown.edu
 morrisontech.edu
 morrisville.edu
+morthland.edu
 morton.edu
 mosis.edu
 motech.edu
@@ -4369,6 +4372,7 @@ newgate.edu
 newhaven.edu
 newhope.edu
 newhorizonindia.edu
+newhorizons.edu
 newman.edu
 newmanu.edu
 newpaltz.edu
@@ -4781,6 +4785,7 @@ parisjc.edu
 park.edu
 parker.edu
 parkland.edu
+parkplacebarberschool.edu
 parks.edu
 parkwest.edu
 parnasse-deuxalice.edu
@@ -6807,7 +6812,6 @@ uso.edu
 usou.edu
 usouthal.edu
 usp.edu
-usps.edu
 usra.edu
 ussa.edu
 ust.edu
