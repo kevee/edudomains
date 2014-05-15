@@ -417,7 +417,6 @@ ashland.edu
 ashmead.edu
 ashworthcollege.edu
 asi.edu
-asianinstitute.edu
 asiapacific.edu
 asl.edu
 asn.edu
@@ -2937,6 +2936,7 @@ iiswbm.edu
 iit.edu
 iitb.edu
 iitr.edu
+ila.edu
 ilc.edu
 ili.edu
 iliff.edu
@@ -5721,7 +5721,6 @@ solex.edu
 solvay.edu
 soma.edu
 somaiya.edu
-somerset.edu
 sonia.edu
 sonoma.edu
 sotc.edu
