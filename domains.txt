@@ -1906,6 +1906,7 @@ duq.edu
 durhambeautyacademy.edu
 durhamtech.edu
 dvc.edu
+dvcla.edu
 dville.edu
 dwc-legazpi.edu
 dwc.edu
@@ -3115,6 +3116,7 @@ iutoic-dhaka.edu
 ivc.edu
 ivcc.edu
 ivs.edu
+ivy.edu
 ivytech.edu
 iwc.edu
 iwcc.edu
@@ -3849,6 +3851,7 @@ medcentral.edu
 mediainstitute.edu
 mediatech.edu
 medical.edu
+medicalallied.edu
 medicina.edu
 medixschool.edu
 medixschooltowson.edu
@@ -5024,6 +5027,7 @@ psba.edu
 psc.edu
 psgtech.edu
 psi.edu
+psjs.edu
 psm.edu
 psmt.edu
 psow.edu
@@ -5417,7 +5421,6 @@ scccwp.edu
 scciowa.edu
 sccky.edu
 sccnc.edu
-scco.edu
 sccollege.edu
 sccsc.edu
 sce.edu
@@ -5648,6 +5651,7 @@ sjcsf.edu
 sjctni.edu
 sjeccd.edu
 sjfc.edu
+sjhcon.edu
 sjrstate.edu
 sjs.edu
 sjson.edu
@@ -6523,6 +6527,7 @@ uh.edu
 uhc.edu
 uhcl.edu
 uhd.edu
+uhsystem.edu
 uhv.edu
 ui.edu
 uib.edu
