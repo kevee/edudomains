@@ -720,6 +720,7 @@ bhslr.edu
 bhsu.edu
 bhu.edu
 bi.edu
+bia.edu
 bible.edu
 bibleschool.edu
 biblia.edu
