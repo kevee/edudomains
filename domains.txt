@@ -6339,6 +6339,7 @@ tsec.edu
 tsinghua.edu
 tsm.edu
 tsmu.edu
+tsob.edu
 tsot.edu
 tst.edu
 tstc.edu
