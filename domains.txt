@@ -1030,6 +1030,7 @@ carnegie-institute.edu
 carnegiemellon.edu
 carnegiescience.edu
 carolina.edu
+carolinacollege.edu
 carolinagrad.edu
 carolinascollege.edu
 carouselbeauty.edu
@@ -4387,6 +4388,7 @@ newton.edu
 newzealand.edu
 nfcc.edu
 nfo.edu
+ngi.edu
 ngs.edu
 ngu.edu
 nhc.edu
@@ -4629,6 +4631,7 @@ ocu.edu
 oda.edu
 odessa.edu
 odu.edu
+oei.edu
 oes.edu
 oftc.edu
 ogeecheetech.edu
@@ -6231,6 +6234,8 @@ ticas.edu
 ticifl.edu
 ticino.edu
 tidewatertechtrades.edu
+tiep.edu
+tiepatlamar.edu
 tiffin.edu
 tiffinacademy.edu
 tilburguniversity.edu
