@@ -297,6 +297,7 @@ ampi.edu
 amridgeuniversity.edu
 amrita.edu
 amsamoa.edu
+amsc.edu
 amsu.edu
 amt.edu
 amu.edu
@@ -942,6 +943,7 @@ cahsu.edu
 cairn.edu
 caj.edu
 cala.edu
+calamerica.edu
 calamuniv.edu
 calarts.edu
 calbaptist.edu
@@ -1006,6 +1008,7 @@ capricollege.edu
 caprinow.edu
 capstone.edu
 capstonecollege.edu
+captechu.edu
 car.edu
 cardenal-newman.edu
 career-college.edu
@@ -1017,6 +1020,7 @@ careercolleges.edu
 careerdevelopmentinstitute.edu
 careerinstitute.edu
 careerpointcollege.edu
+careerquest.edu
 careers.edu
 careerta.edu
 careertc.edu
@@ -2175,7 +2179,6 @@ faraston.edu
 farmingdale.edu
 farmington.edu
 fas.edu
-fasttrain.edu
 fatih.edu
 fatihun.edu
 fau.edu
@@ -2861,6 +2864,7 @@ ibcelpaso.edu
 ibcfortwayne.edu
 ibcindianapolis.edu
 ibcs.edu
+ibhe.edu
 ibmc.edu
 ibrahimieh.edu
 ibw.edu
@@ -3226,6 +3230,7 @@ kanisius.edu
 kansas.edu
 kaplan.edu
 kaplancareerinstitute.edu
+kaplancollege.edu
 kaplanu.edu
 kaplanuniversity.edu
 karishma.edu
@@ -3511,6 +3516,7 @@ libi.edu
 libs.edu
 liceo.edu
 liclisma.edu
+licm.edu
 life-east.edu
 life.edu
 lifepacific.edu
@@ -6207,6 +6213,7 @@ thegateway.edu
 thehairacademy.edu
 thekings.edu
 themadeleine.edu
+thenewschool.edu
 thenicc.edu
 theology.edu
 theoxford.edu
@@ -6281,6 +6288,7 @@ toledo.edu
 toniguy-erie.edu
 toniguy.edu
 torah.edu
+torahvodaath.edu
 toronto.edu
 tougaloo.edu
 toulouse.edu
