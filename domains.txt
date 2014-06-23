@@ -24,12 +24,14 @@ abbc.edu
 abc.edu
 abcadultschool.edu
 abcnash.edu
+abcotechnology.edu
 abcott.edu
 abcs.edu
 abi.edu
 abs.edu
 abscosmo.edu
 absw.edu
+abt.edu
 abtech.edu
 abtu.edu
 ac.edu
@@ -2704,7 +2706,6 @@ heritageit.edu
 herkimer.edu
 herzing.edu
 herzingonline.edu
-hesser.edu
 hesston.edu
 hevs.edu
 hfc.edu
@@ -4114,7 +4115,6 @@ mountainviewcollege.edu
 mountcarmel.edu
 mountida.edu
 mountolive.edu
-mountolivecollege.edu
 mountsaintvincent.edu
 mountunion.edu
 mountwashington.edu
@@ -4660,6 +4660,7 @@ ohlone.edu
 ohr.edu
 ohrhameir.edu
 ohsu.edu
+oicb.edu
 oipt.edu
 oise.edu
 oit.edu
@@ -5285,6 +5286,7 @@ rsu.edu
 rsuonline.edu
 rtc.edu
 rts.edu
+rtuvt.edu
 ru.edu
 rudolfsteinercollege.edu
 ruiacollege.edu
@@ -5413,6 +5415,7 @@ sbccd.edu
 sbci.edu
 sbctc.edu
 sbgi.edu
+sbl.edu
 sbmelville.edu
 sbmri.edu
 sbs.edu
@@ -6364,7 +6367,6 @@ tsuniv.edu
 tsus.edu
 ttcharriman.edu
 ttchohenwald.edu
-ttcwhiteville.edu
 ttic.edu
 ttu.edu
 ttuhsc.edu
@@ -7036,6 +7038,7 @@ vumc.edu
 vuu.edu
 vvc.edu
 vwc.edu
+wa.edu
 wab.edu
 waba.edu
 wabash.edu
