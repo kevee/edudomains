@@ -987,6 +987,7 @@ cameron.edu
 cameroncollege.edu
 campbell.edu
 campbellsville.edu
+camphill.edu
 campusadventiste.edu
 canadacollege.edu
 canberra.edu
@@ -2445,6 +2446,7 @@ gibbsnorwalk.edu
 gibbsny.edu
 gibbsri.edu
 gibbsva.edu
+gibs.edu
 gic.edu
 giet.edu
 gif.edu
