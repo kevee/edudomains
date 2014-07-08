@@ -3881,6 +3881,7 @@ mendocino.edu
 menlo.edu
 menninger.edu
 menominee.edu
+mentoracollege.edu
 mentorcollege.edu
 mephi.edu
 mercer.edu
@@ -5089,6 +5090,7 @@ pwscc.edu
 qc.edu
 qcc.edu
 qou.edu
+qschool.edu
 qu.edu
 queencity.edu
 queenethelburgas.edu
