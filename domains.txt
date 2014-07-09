@@ -1067,6 +1067,7 @@ catholic.edu
 catlin.edu
 catrinityuniversity.edu
 cau.edu
+cavt.edu
 caycereilly.edu
 cayuga-cc.edu
 cazenovia.edu
@@ -1759,6 +1760,7 @@ daymarinstitute.edu
 dayspringbiblecollege.edu
 daytonacollege.edu
 daytonastate.edu
+daytonbarbercollege.edu
 dbc.edu
 dbcollege.edu
 dbi.edu
@@ -2299,6 +2301,7 @@ fortscott.edu
 fosters.edu
 foundations.edu
 fountainheadcollege.edu
+fountainofyouthacademy.edu
 fourhcouncil.edu
 foxcollege.edu
 fpcc.edu
