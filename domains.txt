@@ -1511,6 +1511,7 @@ conestoga.edu
 conncoll.edu
 connectenglish.edu
 connecticutcollege.edu
+connecticutstate.edu
 connorsstate.edu
 conservative.edu
 constanta.edu
@@ -3190,6 +3191,7 @@ jmc.edu
 jmls.edu
 jmu.edu
 jmvu.edu
+jnmc.edu
 johncabot.edu
 johnjay.edu
 johnmarshall.edu
@@ -4396,6 +4398,7 @@ newmanu.edu
 newpaltz.edu
 newriver.edu
 newschool.edu
+newschoolalbany.edu
 newschoolarch.edu
 newton.edu
 newzealand.edu
@@ -5020,6 +5023,7 @@ presby.edu
 presbyterian.edu
 prescott.edu
 presentation.edu
+presidio.edu
 preston.edu
 prgs.edu
 prin.edu
@@ -6374,7 +6378,6 @@ tsulaw.edu
 tsuniv.edu
 tsus.edu
 ttcharriman.edu
-ttchohenwald.edu
 ttic.edu
 ttu.edu
 ttuhsc.edu
