@@ -1214,6 +1214,7 @@ cescollege.edu
 cesma.edu
 cet.edu
 ceu-budapest.edu
+ceu.edu
 cf.edu
 cfbisd.edu
 cfcc.edu
@@ -5747,6 +5748,7 @@ sol.edu
 solacc.edu
 solano.edu
 solex.edu
+sollers.edu
 solvay.edu
 soma.edu
 somaiya.edu
@@ -6164,6 +6166,7 @@ tcicollege.edu
 tcl.edu
 tcm-university.edu
 tcm.edu
+tcmc.edu
 tcmi.edu
 tcnj.edu
 tcsedsystem.edu
