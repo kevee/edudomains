@@ -708,7 +708,6 @@ bfcc.edu
 bfit.edu
 bfranklin.edu
 bgh.edu
-bgi.edu
 bgsm.edu
 bgsp.edu
 bgsu.edu
@@ -1015,7 +1014,6 @@ captechu.edu
 car.edu
 cardenal-newman.edu
 career-college.edu
-careeracademyny.edu
 careercalifornia.edu
 careercenters.edu
 careercollege.edu
@@ -5066,7 +5064,6 @@ psychology.edu
 psychosis.edu
 psychosynthesis.edu
 ptc.edu
-ptcc.edu
 ptec.edu
 pti.edu
 ptipr.edu
@@ -6238,7 +6235,6 @@ theoxford.edu
 theparalegalinstitute.edu
 thesalonprofessionalacademy.edu
 theseattleschool.edu
-thevisionacademy.edu
 thewoods.edu
 thiel.edu
 thomas.edu
