@@ -413,6 +413,7 @@ asburyseminary.edu
 asc.edu
 ascbs.edu
 ascc.edu
+ascenglish.edu
 ashdowncollege.edu
 asher.edu
 ashford.edu
@@ -463,6 +464,7 @@ atis.edu
 atlantaschoolofmassage.edu
 atlantatech.edu
 atlantic.edu
+atlantictechnicalcollege.edu
 atlanticu.edu
 atlanticuniv.edu
 atlanticuniversity.edu
@@ -532,6 +534,7 @@ avcs.edu
 aveda.edu
 avedafi.edu
 avedaflorida.edu
+avedainstitute.edu
 avedainstitutessouth.edu
 avedanm.edu
 avedasouth.edu
@@ -2111,6 +2114,7 @@ esne.edu
 esra.edu
 essec.edu
 essex.edu
+estelle.edu
 estrellamountain.edu
 esu.edu
 etbu.edu
@@ -4095,6 +4099,7 @@ montserrat.edu
 moody.edu
 moore.edu
 moorecareercollege.edu
+mooretech.edu
 moorparkcollege.edu
 morainepark.edu
 morainevalley.edu
@@ -5039,6 +5044,7 @@ progressivetc.edu
 prohands.edu
 prometeu.edu
 proskills.edu
+protegeacademy.edu
 providence.edu
 providencecc.edu
 provo.edu
@@ -5603,6 +5609,7 @@ shepherdscollege.edu
 shepherduniversity.edu
 sheridan.edu
 sheridaninstitute.edu
+sheridantechnicalcollege.edu
 sherman.edu
 shermankendall.edu
 shifacollege.edu
@@ -6480,6 +6487,7 @@ ucdc.edu
 ucdenver.edu
 ucdh.edu
 uceda.edu
+ucedaschool.edu
 uceou.edu
 ucerc.edu
 ucf.edu
