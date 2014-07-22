@@ -4258,7 +4258,6 @@ najah.edu
 nap.edu
 napavalley.edu
 napmed.edu
-naprapathicmedicine.edu
 naps.edu
 naropa.edu
 nas.edu
@@ -4913,7 +4912,6 @@ philau.edu
 phillips.edu
 phoenix.edu
 phoenixcollege.edu
-phoenixlaw.edu
 phoenixseminary.edu
 photography.edu
 photoshoptraining.edu
