@@ -423,6 +423,7 @@ ashworthcollege.edu
 asi.edu
 asiapacific.edu
 asl.edu
+asmbeautyworldacademy.edu
 asn.edu
 asnuntuck.edu
 aspen.edu
@@ -1564,6 +1565,7 @@ cpa.edu
 cpc.edu
 cpcc.edu
 cpi.edu
+cpp.edu
 cps.edu
 cptc.edu
 cpu.edu
@@ -5443,6 +5445,7 @@ sc.edu
 sc4.edu
 scad.edu
 scanlanhs.edu
+scbc.edu
 scbu.edu
 scc.edu
 sccc.edu
@@ -6320,6 +6323,7 @@ tourouniversity.edu
 towson.edu
 tpc.edu
 trainace.edu
+tramybeautyschool.edu
 transy.edu
 transylvania.edu
 tras.edu
