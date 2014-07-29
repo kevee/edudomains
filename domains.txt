@@ -1610,6 +1610,7 @@ csca.edu
 cscc.edu
 cscu.edu
 cse.edu
+csftw.edu
 cshl.edu
 cshs.edu
 csi.edu
@@ -2276,6 +2277,7 @@ floridatech.edu
 floridavediccollege.edu
 flsouthern.edu
 fmarion.edu
+fmc.edu
 fmcc.edu
 fmlh.edu
 fms.edu
@@ -3269,8 +3271,6 @@ kckcc.edu
 kctcs.edu
 kcu.edu
 kcumb.edu
-kdcollege.edu
-kdu.edu
 kean.edu
 kee.edu
 keene.edu
@@ -6596,6 +6596,7 @@ ulster.edu
 ulsystem.edu
 ultimatemedical.edu
 ultrasound.edu
+ultrasoundmedicalinstitute.edu
 ulv.edu
 um.edu
 uma.edu
