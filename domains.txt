@@ -947,7 +947,6 @@ cafe.edu
 cahe.edu
 cahsu.edu
 cairn.edu
-caj.edu
 cala.edu
 calamerica.edu
 calamuniv.edu
@@ -1073,7 +1072,6 @@ cau.edu
 cavt.edu
 caycereilly.edu
 cayuga-cc.edu
-cazenovia.edu
 cba.edu
 cbc.edu
 cbcag.edu
@@ -1669,7 +1667,6 @@ ctschicago.edu
 ctsem.edu
 ctsfw.edu
 ctsnet.edu
-ctstateu.edu
 cttc.edu
 ctu.edu
 ctuonline.edu
@@ -5625,6 +5622,7 @@ shoreline.edu
 shorter.edu
 shortercollege.edu
 showaboston.edu
+shsst.edu
 shst.edu
 shsu.edu
 shu.edu
@@ -5935,6 +5933,7 @@ stkate.edu
 stlawrence.edu
 stlawu.edu
 stlcc.edu
+stlchristian.edu
 stlcop.edu
 stleo.edu
 stlouiscollege.edu
@@ -6964,6 +6963,7 @@ valenciacollege.edu
 vallauri.edu
 valley.edu
 valleycollege.edu
+valleyforge.edu
 valparaiso.edu
 valpo.edu
 valverde.edu
