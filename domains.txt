@@ -1072,6 +1072,7 @@ cau.edu
 cavt.edu
 caycereilly.edu
 cayuga-cc.edu
+cazenovia.edu
 cba.edu
 cbc.edu
 cbcag.edu
@@ -4979,6 +4980,7 @@ pmionline.edu
 pmtc.edu
 pmthelab.edu
 pmthetemple.edu
+pmtscolumbus.edu
 pmtsgb.edu
 pmu.edu
 pnc.edu
@@ -6271,6 +6273,7 @@ tiffinacademy.edu
 tilburguniversity.edu
 tillamookbaycc.edu
 timi.edu
+tisc.edu
 tisoh.edu
 tiss.edu
 tiu.edu
