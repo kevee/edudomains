@@ -711,12 +711,6 @@ bfa.edu
 bfcc.edu
 bfit.edu
 bfranklin.edu
-bgh.edu
-bgi.edu
-bgsm.edu
-bgsp.edu
-bgsu.edu
-bgu.edu
 bharatividyapeeth.edu
 bhc.edu
 bhcarroll.edu
