@@ -711,6 +711,12 @@ bfa.edu
 bfcc.edu
 bfit.edu
 bfranklin.edu
+bgh.edu
+bgi.edu
+bgsm.edu
+bgsp.edu
+bgsu.edu
+bgu.edu
 bharatividyapeeth.edu
 bhc.edu
 bhcarroll.edu
@@ -3682,7 +3688,6 @@ macedonia.edu
 machias.edu
 mackenzie.edu
 macomb.edu
-maconstate.edu
 macquarie.edu
 macu.edu
 macuniversity.edu
@@ -4974,6 +4979,7 @@ pmionline.edu
 pmtc.edu
 pmthelab.edu
 pmthetemple.edu
+pmtscleveland.edu
 pmtscolumbus.edu
 pmtsgb.edu
 pmu.edu
