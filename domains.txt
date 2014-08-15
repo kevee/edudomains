@@ -3495,6 +3495,7 @@ lee-university.edu
 lee.edu
 leecollege.edu
 leeds.edu
+leeproinstitute.edu
 leeu.edu
 leeuniversity.edu
 lehigh.edu
@@ -3831,6 +3832,7 @@ mchp.edu
 mchs.edu
 mci.edu
 mcidenver.edu
+mcinj.edu
 mcintoshcollege.edu
 mcjvs.edu
 mckendree.edu
@@ -4160,6 +4162,7 @@ msm.edu
 msmary.edu
 msmc.edu
 msmnyc.edu
+msmu.edu
 msoe.edu
 mspp.edu
 msqa.edu
@@ -4275,6 +4278,7 @@ nationalcollege.edu
 nationalinstituteoftechnology.edu
 nationalnotaryassociation.edu
 nationalparalegal.edu
+nationalpti.edu
 nationaltax.edu
 nationaltrainingschools.edu
 natlcollege.edu
@@ -6303,6 +6307,7 @@ tnstate.edu
 tntech.edu
 tntemple.edu
 tnu.edu
+tnwesleyan.edu
 toa.edu
 tocani.edu
 tocc.edu
@@ -6750,6 +6755,7 @@ unwsp.edu
 uoa.edu
 uoc.edu
 uofa.edu
+uofac.edu
 uofillinois.edu
 uofk.edu
 uofl.edu
@@ -7174,6 +7180,7 @@ west.edu
 westal.edu
 westbrooku.edu
 westchestercollege.edu
+westcliff.edu
 westcoastbaptist.edu
 westcoastuniversity.edu
 westconn.edu
