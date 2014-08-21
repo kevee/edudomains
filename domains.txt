@@ -3826,6 +3826,7 @@ mccsc.edu
 mcdaniel.edu
 mcdonough.edu
 mcdowelltech.edu
+mcfattertechnicalcollege.edu
 mcgeorge.edu
 mcgill.edu
 mcgregor.edu
@@ -5014,6 +5015,7 @@ potomacstatecollege.edu
 potsdam.edu
 poynter.edu
 ppcc.edu
+ppgtech.edu
 ppu.edu
 pqc.edu
 practisinglaw.edu
