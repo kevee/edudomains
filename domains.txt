@@ -4783,6 +4783,7 @@ pacificbaptist.edu
 pacificcollege.edu
 pacificlife.edu
 pacificoaks.edu
+pacifictech.edu
 pacificu.edu
 packer.edu
 pacollege.edu
@@ -4945,6 +4946,7 @@ pims.edu
 pinchot.edu
 pine.edu
 pinecrest.edu
+pinellastechnicalcollege.edu
 pinetech.edu
 pinewood.edu
 pinnacle.edu
@@ -7027,7 +7029,6 @@ victory.edu
 victorytradeschool.edu
 vidyanikethan.edu
 view.edu
-vif.edu
 vill.edu
 villa.edu
 villanova.edu
