@@ -707,7 +707,6 @@ bethrivkah.edu
 beulah.edu
 bexley.edu
 bexleyseabury.edu
-bfa.edu
 bfcc.edu
 bfit.edu
 bfranklin.edu
@@ -1253,6 +1252,7 @@ charlesofitaly.edu
 charlestonlaw.edu
 charlestonsouthern.edu
 charliesacademy.edu
+charlottechristian.edu
 charlottelaw.edu
 chartercollege.edu
 charteroak.edu
