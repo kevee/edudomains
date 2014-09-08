@@ -1208,6 +1208,7 @@ centuracollegeonline.edu
 centurainstitute.edu
 century.edu
 centurycollege.edu
+centurylanguage.edu
 centuryuniversity.edu
 cernet.edu
 cerritos.edu
@@ -4449,6 +4450,7 @@ njcu.edu
 njit.edu
 nku.edu
 nl.edu
+nlbi.edu
 nlc.edu
 nlpbc.edu
 nlts.edu
