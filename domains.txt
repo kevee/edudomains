@@ -542,6 +542,7 @@ avedanm.edu
 avedasouth.edu
 avemaria.edu
 avemarialaw.edu
+aventis.edu
 averett.edu
 aviation.edu
 aviationinstitute.edu
@@ -1960,6 +1961,7 @@ eastwest.edu
 eastwestcollege.edu
 eastwick.edu
 eastwickcollege.edu
+eastwickcollegenutley.edu
 ebaf.edu
 ebcministry.edu
 ebs.edu
