@@ -796,6 +796,7 @@ bodwell.edu
 boheckercollege.edu
 boisebible.edu
 boisestate.edu
+boldbeautyacademy.edu
 bonaventure.edu
 bonn.edu
 boricuacollege.edu
@@ -1403,7 +1404,6 @@ cme.edu
 cmh.edu
 cmi.edu
 cmich.edu
-cmmccollege.edu
 cmpr.edu
 cmps.edu
 cms.edu
@@ -3035,6 +3035,7 @@ interfajardo.edu
 interlink.edu
 intermetro.edu
 international.edu
+internationalesthetics.edu
 internationaluniversity.edu
 internet2.edu
 internexus.edu
@@ -4415,6 +4416,7 @@ newschoolarch.edu
 newton.edu
 newzealand.edu
 nfcc.edu
+nfi.edu
 nfo.edu
 ngi.edu
 ngs.edu
