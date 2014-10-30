@@ -1142,6 +1142,7 @@ ccsu.edu
 cctc.edu
 cctech.edu
 ccu.edu
+ccucollege.edu
 ccuniversity.edu
 ccv.edu
 ccvc.edu
@@ -6522,6 +6523,7 @@ udallas.edu
 udayton.edu
 udc.edu
 udel.edu
+udelistmo.edu
 udem.edu
 udf.edu
 udg.edu
@@ -7269,7 +7271,6 @@ wmich.edu
 wmitchell.edu
 wmpenn.edu
 wmrc.edu
-wmrs.edu
 wms.edu
 wmu.edu
 wnc.edu
