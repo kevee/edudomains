@@ -3700,6 +3700,7 @@ mancol.edu
 mancosre6.edu
 mandl.edu
 manhattan.edu
+manhattaninstitute.edu
 manhattanschool.edu
 manhattantech.edu
 manhattanville.edu
@@ -3708,6 +3709,7 @@ mannes.edu
 manor.edu
 mansfield.edu
 mansfieldbeautyschools.edu
+manthano.edu
 manu.edu
 maranatha.edu
 mariacollege.edu
@@ -5070,6 +5072,7 @@ pucpr.edu
 pueblocc.edu
 pugetsound.edu
 pulaskitech.edu
+pulseacademy.edu
 punahou.edu
 pupr.edu
 purchase.edu
