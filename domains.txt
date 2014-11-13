@@ -5973,6 +5973,7 @@ stuy.edu
 stvincent.edu
 stvincentscollege.edu
 stvt.edu
+stvti.edu
 su.edu
 suagm.edu
 subr.edu
@@ -7003,6 +7004,7 @@ vhcc.edu
 vic.edu
 vici.edu
 victoriacollege.edu
+victory.edu
 victorytradeschool.edu
 vidyanikethan.edu
 view.edu
@@ -7251,7 +7253,6 @@ wiregrass.edu
 wis.edu
 wisc.edu
 wisconsin.edu
-wishard.edu
 wisr.edu
 wit.edu
 witc.edu
