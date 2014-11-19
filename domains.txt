@@ -152,6 +152,7 @@ aicusa.edu
 aid.edu
 aids.edu
 aidt.edu
+aie.edu
 aifl.edu
 aiht.edu
 aii.edu
@@ -3544,7 +3545,6 @@ lindsey.edu
 lineman.edu
 linfield.edu
 linnbenton.edu
-linnstate.edu
 lintonhall.edu
 linux.edu
 lion.edu
@@ -5798,6 +5798,7 @@ spalding.edu
 spartan.edu
 spatech.edu
 spb.edu
+spc.edu
 spcc.edu
 spce.edu
 spcollege.edu
