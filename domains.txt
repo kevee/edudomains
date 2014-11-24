@@ -1979,7 +1979,6 @@ edgewood.edu
 edhec.edu
 ediccollege.edu
 edinboro.edu
-edison.edu
 edisonohio.edu
 edmc.edu
 edpschool.edu
@@ -3773,7 +3772,6 @@ mayland.edu
 mayo.edu
 mayvillestate.edu
 mba.edu
-mbbc.edu
 mbc.edu
 mbcs.edu
 mbhs.edu
