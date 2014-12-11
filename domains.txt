@@ -19,6 +19,7 @@ aauni.edu
 aaureg.edu
 ab.edu
 abac.edu
+abalanguage.edu
 abatoliba.edu
 abbc.edu
 abc.edu
@@ -46,7 +47,6 @@ academyofcosmetology.edu
 academyofcoutureart.edu
 academyofnailskinandhair.edu
 academyofpalmbeach.edu
-acadiana.edu
 acaom.edu
 acb.edu
 acbhd.edu
@@ -186,6 +186,8 @@ ajrca.edu
 aju.edu
 akbible.edu
 aku.edu
+ala-ca.edu
+ala-lmu.edu
 ala.edu
 alamancecc.edu
 alamedabeautycollege.edu
@@ -330,7 +332,6 @@ anrcollege.edu
 anselm.edu
 anthem.edu
 anthemcollege.edu
-antheminstitute.edu
 antillespr.edu
 antioch-college.edu
 antioch.edu
@@ -1813,6 +1814,7 @@ denverschoolofnursing.edu
 denverseminary.edu
 depaul.edu
 depauw.edu
+dermalogica.edu
 desales.edu
 desertinstitute.edu
 designsschool.edu
@@ -2576,6 +2578,7 @@ gwtp.edu
 gwu.edu
 gwumc.edu
 ha2.edu
+hac.edu
 hacc.edu
 hadley.edu
 hagerstownbusinesscol.edu
@@ -2615,7 +2618,6 @@ harding.edu
 harford.edu
 hargrave.edu
 harid.edu
-harmonsbeautyschool.edu
 haroldwashingtoncollege.edu
 harpercollege.edu
 harrington.edu
@@ -3639,6 +3641,7 @@ luc.edu
 luiss.edu
 lumc.edu
 lumcon.edu
+lumos.edu
 luna.edu
 lunet.edu
 luresext.edu
@@ -4166,6 +4169,7 @@ mtholyoke.edu
 mtic.edu
 mticollege.edu
 mtiweb.edu
+mtj.edu
 mtmary.edu
 mtmc.edu
 mtmercy.edu
@@ -4423,6 +4427,7 @@ nist.edu
 nitie.edu
 nitt.edu
 niu.edu
+nizhoniinstitute.edu
 njc.edu
 njcu.edu
 njit.edu
@@ -4459,7 +4464,6 @@ nols.edu
 norcocollege.edu
 normandale.edu
 north-westcollege.edu
-northamerican.edu
 northampton.edu
 northark.edu
 northcarolina.edu
@@ -5023,7 +5027,6 @@ principiacollege.edu
 prismcareerinstitute.edu
 professionalcosmetologyeducation.edu
 professorpc.edu
-progressivetc.edu
 prohands.edu
 prometeu.edu
 proskills.edu
@@ -5309,6 +5312,7 @@ rwmfiberoptics.edu
 rwu.edu
 rwuonline.edu
 ryokan.edu
+sa.edu
 saa.edu
 saaot.edu
 saba.edu
@@ -5408,7 +5412,6 @@ sautech.edu
 savannahstate.edu
 savannahtech.edu
 sawyercollege.edu
-saxion.edu
 sbac.edu
 sbbcollege.edu
 sbc.edu
@@ -7128,6 +7131,7 @@ wcjc.edu
 wcmo.edu
 wcr.edu
 wcs.edu
+wcscc.edu
 wcslc.edu
 wcsu.edu
 wctc.edu
@@ -7200,7 +7204,6 @@ wfu.edu
 wfubmc.edu
 wfusm.edu
 wgtc.edu
-wgu-rhp.edu
 wgu.edu
 wharton.edu
 whatcom.edu
