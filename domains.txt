@@ -409,6 +409,7 @@ artistic.edu
 as.edu
 asa.edu
 asaom.edu
+asb.edu
 asbury.edu
 asburyseminary.edu
 asc.edu
@@ -1482,6 +1483,7 @@ columbus.edu
 columbusstate.edu
 columbustech.edu
 com.edu
+comillas.edu
 commnet.edu
 commonwealth.edu
 commtech.edu
@@ -1866,6 +1868,7 @@ dominican.edu
 dominuniv.edu
 dongguk.edu
 donnelly.edu
+donrobertsschoolofhairdesign.edu
 dorcas.edu
 dordt.edu
 dorsey.edu
@@ -2091,6 +2094,7 @@ escc.edu
 escem.edu
 escoffier.edu
 escondidobiblecollege.edu
+escueladenegociosafundacion.edu
 escueladenegociosncg.edu
 escuelahotelera.edu
 ese.edu
@@ -4471,6 +4475,7 @@ northcentral.edu
 northcentralcollege.edu
 northcoast.edu
 northeast.edu
+northeastcatholic.edu
 northeastern.edu
 northeaststate.edu
 northern.edu
@@ -6995,6 +7000,7 @@ venturacollege.edu
 venusbeautyacademy.edu
 vermontlaw.edu
 vernoncollege.edu
+ves.edu
 vesalius.edu
 vesit.edu
 vettechinstitute.edu
@@ -7233,6 +7239,7 @@ wileyc.edu
 wilkes.edu
 wilkescc.edu
 willamette.edu
+williamjames.edu
 williams.edu
 williamson.edu
 williamsoncc.edu
