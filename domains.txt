@@ -307,7 +307,6 @@ amt.edu
 amu.edu
 an.edu
 anaheim.edu
-anamarc.edu
 anc.edu
 ancilla.edu
 ancollege.edu
@@ -341,7 +340,6 @@ antiochsb.edu
 antiochschool.edu
 antiochsea.edu
 antiochseattle.edu
-antonacademy.edu
 antonelli.edu
 antonellicollege.edu
 ants.edu
@@ -1192,6 +1190,7 @@ centralfloridacollege.edu
 centralgatech.edu
 centralia.edu
 centralmethodist.edu
+centralpacificcollege.edu
 centralpenn.edu
 centralseminary.edu
 centralstate.edu
@@ -2883,6 +2882,7 @@ iccs.edu
 icdccollege.edu
 ice.edu
 iceland.edu
+ich.edu
 iche.edu
 ichp.edu
 ici.edu
@@ -4128,6 +4128,7 @@ mpi.edu
 mpm.edu
 mpow.edu
 mrc.edu
+ms.edu
 msae.edu
 msb.edu
 msbbcs.edu
@@ -4874,6 +4875,7 @@ pennfoster.edu
 pennfostercollege.edu
 pennhighlands.edu
 pennwell-net.edu
+penrose.edu
 penroseacademy.edu
 pensacolastate.edu
 peoplescollegeoflaw.edu
@@ -6255,6 +6257,7 @@ threerivers.edu
 ths.edu
 thsu.edu
 thunderbird.edu
+tia.edu
 tias.edu
 tiasnimbas.edu
 ticas.edu
@@ -6868,6 +6871,7 @@ ut.edu
 uta.edu
 utah.edu
 utahsbr.edu
+utam.edu
 utampa.edu
 utb.edu
 utc.edu
