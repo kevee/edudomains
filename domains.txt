@@ -115,6 +115,7 @@ afa.edu
 afaa.edu
 afi.edu
 afit.edu
+afna.edu
 afoc.edu
 africainternational.edu
 africau.edu
@@ -423,6 +424,7 @@ ashworthcollege.edu
 asi.edu
 asiapacific.edu
 asl.edu
+asm.edu
 asmbeautyworldacademy.edu
 asn.edu
 asnuntuck.edu
@@ -1592,6 +1594,7 @@ crossroadscollege.edu
 crowder.edu
 crown.edu
 crts.edu
+cryrop.edu
 cs.edu
 csati.edu
 csb.edu
@@ -2344,6 +2347,7 @@ fsw.edu
 ftc.edu
 ftccollege.edu
 fti.edu
+ftium.edu
 ftu.edu
 fu.edu
 fub.edu
@@ -2595,6 +2599,7 @@ hairpros.edu
 halifaxcc.edu
 hallmark.edu
 hallmarkcollege.edu
+hallmarkuniversity.edu
 hallym.edu
 hamdard.edu
 hamilton.edu
@@ -4395,6 +4400,7 @@ newschool.edu
 newschoolalbany.edu
 newschoolarch.edu
 newton.edu
+newtylerbarbercollege.edu
 newyork-english.edu
 newzealand.edu
 nfcc.edu
@@ -5667,6 +5673,7 @@ siuc.edu
 siue.edu
 siuh.edu
 siumed.edu
+siusystem.edu
 sjasc.edu
 sjc.edu
 sjca.edu
@@ -6120,6 +6127,7 @@ tamuct.edu
 tamug.edu
 tamuk.edu
 tamus.edu
+tamusa.edu
 tamut.edu
 taofnj.edu
 tarleton.edu
