@@ -212,6 +212,7 @@ albion.edu
 albizu.edu
 albright.edu
 alc.edu
+alccamericanlanguage.edu
 alcorn.edu
 alexanderpaul.edu
 alextech.edu
@@ -1740,6 +1741,7 @@ dallasseminary.edu
 daltonstate.edu
 damien-hs.edu
 damien.edu
+danvillecc.edu
 daoisttraditions.edu
 darden.edu
 dartmouth.edu
@@ -1852,7 +1854,6 @@ diversinstitute.edu
 dixie.edu
 dlielc.edu
 dliflc.edu
-dlila.edu
 dlu.edu
 dmac.edu
 dmacc.edu
@@ -2456,6 +2457,7 @@ gibs.edu
 gic.edu
 giet.edu
 gif.edu
+gilltechacademy.edu
 gilman.edu
 girardcollege.edu
 git.edu
@@ -2480,6 +2482,7 @@ gltc.edu
 gluck.edu
 gm.edu
 gma.edu
+gmc.edu
 gmconline.edu
 gmercyu.edu
 gmh.edu
@@ -2796,7 +2799,6 @@ hostos.edu
 hotrod.edu
 houghton.edu
 housatonic.edu
-houseoftutors.edu
 houston.edu
 howard.edu
 howardcc.edu
@@ -3366,6 +3368,7 @@ kysu.edu
 kyunghee.edu
 kzoo.edu
 la.edu
+laafa.edu
 laba.edu
 labarononline.edu
 labellebeauty.edu
@@ -4106,6 +4109,7 @@ moreheadstate.edu
 morehouse.edu
 morgan.edu
 morgancc.edu
+morgantownbeautycollege.edu
 morningside.edu
 morris.edu
 morrisbrown.edu
