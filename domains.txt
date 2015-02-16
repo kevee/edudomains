@@ -548,7 +548,6 @@ aviation.edu
 aviationinstitute.edu
 aviationmaintenance.edu
 aviator.edu
-avicareertraining.edu
 avila.edu
 avtec.edu
 awbs.edu
@@ -1474,6 +1473,7 @@ colum.edu
 columbia.edu
 columbiabasin.edu
 columbiabc.edu
+columbiacentral.edu
 columbiaco.edu
 columbiacollege.edu
 columbiasc.edu
@@ -1977,6 +1977,7 @@ ecotechnics.edu
 ecpi.edu
 ecs.edu
 ecsu.edu
+ectc.edu
 ecu.edu
 ecua.edu
 edcc.edu
@@ -2029,6 +2030,7 @@ eli.edu
 elim.edu
 elitecosmetologyschool.edu
 elizabethgrady.edu
+ellis.edu
 elmhurst.edu
 elmira.edu
 elmirabusinessinstitute.edu
@@ -3017,7 +3019,6 @@ intellitec.edu
 intelliteccollege.edu
 intellitecmedical.edu
 inter.edu
-interbayamon.edu
 interboro.edu
 intercoast.edu
 intercol.edu
@@ -4135,7 +4136,6 @@ mpcc.edu
 mpgu.edu
 mpi.edu
 mpm.edu
-mpow.edu
 mrc.edu
 ms.edu
 msae.edu
@@ -4574,6 +4574,7 @@ nunez.edu
 nuol.edu
 nur.edu
 nus.edu
+nuvani.edu
 nv.edu
 nvcc.edu
 nw.edu
@@ -4600,6 +4601,7 @@ nwosu.edu
 nws.edu
 nwsc.edu
 nwscc.edu
+nwswb.edu
 nwtc.edu
 nwtech.edu
 nwti.edu
@@ -5788,6 +5790,7 @@ southeastmn.edu
 southeasttech.edu
 southern.edu
 southernchristian.edu
+southerncrescent.edu
 southernct.edu
 southernillinois.edu
 southerntech.edu
@@ -6226,7 +6229,6 @@ texascollege.edu
 texascountytech.edu
 texastcm.edu
 texastech.edu
-texshare.edu
 tfa.edu
 tfc.edu
 tghairacademy.edu
