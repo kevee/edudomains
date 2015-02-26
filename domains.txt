@@ -306,6 +306,7 @@ amsamoa.edu
 amsc.edu
 amsu.edu
 amt.edu
+amtec.edu
 amu.edu
 an.edu
 anaheim.edu
@@ -337,6 +338,7 @@ antillespr.edu
 antioch-college.edu
 antioch.edu
 antiochla.edu
+antiochmidwest.edu
 antiochne.edu
 antiochsb.edu
 antiochschool.edu
@@ -1004,7 +1006,6 @@ capellauniversity.edu
 capital.edu
 capitalcc.edu
 capitol-college.edu
-capitol.edu
 capri.edu
 capribeautyschool.edu
 capricollege.edu
@@ -1210,6 +1211,7 @@ cernet.edu
 cerritos.edu
 cerrocoso.edu
 ces.edu
+cesarritzcolleges.edu
 cescollege.edu
 cesma.edu
 cet.edu
@@ -2707,6 +2709,7 @@ henderson.edu
 hendrix.edu
 henley-putnam.edu
 hennepintech.edu
+herguanuniversity.edu
 heriotwatt.edu
 heritage-education.edu
 heritage-theo.edu
@@ -3528,7 +3531,6 @@ liberty.edu
 libi.edu
 libs.edu
 liceo.edu
-liclisma.edu
 licm.edu
 life-east.edu
 life.edu
@@ -4929,7 +4931,6 @@ piaschools.edu
 pib.edu
 pic.edu
 piccollege.edu
-picktwc.edu
 pict.edu
 pie.edu
 piedmont.edu
@@ -4948,7 +4949,6 @@ pinchot.edu
 pine.edu
 pinecrest.edu
 pinellastechnicalcollege.edu
-pinetech.edu
 pinewood.edu
 pinnacle.edu
 pinnaclecollege.edu
@@ -5384,6 +5384,7 @@ salinatech.edu
 salisbury.edu
 salk.edu
 salleurl.edu
+saloninstitute.edu
 salonproacademy.edu
 sals.edu
 salt.edu
@@ -5431,7 +5432,6 @@ saurashtrauniversity.edu
 sautech.edu
 savannahstate.edu
 savannahtech.edu
-sawyercollege.edu
 sbac.edu
 sbbcollege.edu
 sbc.edu
@@ -5857,7 +5857,6 @@ srel.edu
 srmc.edu
 srmcps.edu
 srmscet.edu
-srtc.edu
 srttu.edu
 sru.edu
 ss.edu
@@ -6251,7 +6250,6 @@ thecoo.edu
 thegateway.edu
 thehairacademy.edu
 themadeleine.edu
-thenewschool.edu
 thenicc.edu
 theology.edu
 theoxford.edu
