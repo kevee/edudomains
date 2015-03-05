@@ -362,7 +362,6 @@ apj.edu
 apmi.edu
 apollo.edu
 apollocollege.edu
-apollogrp.edu
 apollos.edu
 apostolic.edu
 appa.edu
@@ -1380,7 +1379,6 @@ clic.edu
 cliffsidepark.edu
 clinton.edu
 clintoncollege.edu
-clintonjuniorcollege.edu
 cloud.edu
 clovis.edu
 clpccd.edu
@@ -2939,6 +2937,7 @@ iga.edu
 iglobal.edu
 ignatius.edu
 igw.edu
+ihcp.edu
 ihe.edu
 ihmctan.edu
 ihp.edu
@@ -3070,7 +3069,6 @@ isb.edu
 isce.edu
 iscm.edu
 isec.edu
-ishbt.edu
 ishc.edu
 isi.edu
 islam.edu
@@ -5032,6 +5030,7 @@ prbc.edu
 prbi.edu
 prcc.edu
 premierecollege.edu
+preparingpeoplebsc.edu
 presby.edu
 presbyterian.edu
 prescott.edu
@@ -5109,7 +5108,6 @@ pwscc.edu
 qc.edu
 qcc.edu
 qou.edu
-qschool.edu
 qu.edu
 queencity.edu
 queenethelburgas.edu
@@ -5791,9 +5789,9 @@ southeastmn.edu
 southeasttech.edu
 southern.edu
 southernchristian.edu
-southerncrescent.edu
 southernct.edu
 southernillinois.edu
+southernregional.edu
 southerntech.edu
 southernwv.edu
 southflorida.edu
@@ -6014,6 +6012,7 @@ summitcollege.edu
 summitoic.edu
 summitpacific.edu
 summitsalonacademy.edu
+summitu.edu
 sumnercollege.edu
 sunbridge.edu
 suncoast.edu
@@ -6272,7 +6271,6 @@ thsu.edu
 thunderbird.edu
 tia.edu
 tias.edu
-tiasnimbas.edu
 ticas.edu
 ticifl.edu
 ticino.edu
