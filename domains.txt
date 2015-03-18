@@ -899,6 +899,7 @@ bsom.edu
 bsp.edu
 bsstlearn.edu
 bsu.edu
+btc.edu
 bths.edu
 bti.edu
 bts.edu
@@ -1691,6 +1692,7 @@ culinaryacademy.edu
 culinaryarts.edu
 culinarycenter.edu
 culinaryinstitute.edu
+culinarytechcenter.edu
 culver.edu
 cumberland.edu
 cumt.edu
@@ -5778,6 +5780,7 @@ southcoastcollege.edu
 southcollege.edu
 southcollegenc.edu
 southcollegetn.edu
+southdadetech.edu
 southeast.edu
 southeastculinary.edu
 southeastern.edu
