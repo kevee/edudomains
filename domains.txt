@@ -251,7 +251,6 @@ alpenacc.edu
 alphagroup.edu
 alquds.edu
 alsde.edu
-altamahatech.edu
 alts.edu
 alu.edu
 aluniversity.edu
@@ -920,7 +919,6 @@ burlington.edu
 burlingtoncollege.edu
 burnett.edu
 bush.edu
-businessinformatics.edu
 busm.edu
 butc.edu
 butler.edu
@@ -1413,6 +1411,7 @@ cnicollege.edu
 cnm.edu
 cnr.edu
 cnri.edu
+cns.edu
 cnsu.edu
 cnu.edu
 cnuas.edu
@@ -1977,6 +1976,7 @@ ecoles.edu
 ecollege.edu
 ecology.edu
 ecotechnics.edu
+ecp.edu
 ecpi.edu
 ecs.edu
 ecsu.edu
@@ -2706,6 +2706,7 @@ heights.edu
 helenefuld.edu
 helloworld.edu
 helms.edu
+helmscareerinstitute.edu
 henderson.edu
 hendrix.edu
 henley-putnam.edu
@@ -3004,6 +3005,7 @@ indoamericano.edu
 indstate.edu
 indwes.edu
 indycc.edu
+infinitycollege.edu
 infoteam.edu
 infotech.edu
 inha.edu
@@ -3162,6 +3164,7 @@ janusuniversity.edu
 jarvis.edu
 javier.edu
 jazz.edu
+jba.edu
 jbims.edu
 jbs.edu
 jbu.edu
@@ -3664,6 +3667,7 @@ lunet.edu
 luresext.edu
 luther.edu
 luthercollege.edu
+lutherrice.edu
 luthersem.edu
 luzerne.edu
 lv.edu
@@ -3878,6 +3882,7 @@ mediainstitute.edu
 mediatech.edu
 medical.edu
 medicalallied.edu
+medicalcareerandtechnicalcollege.edu
 medicina.edu
 medixschool.edu
 medixschooltowson.edu
@@ -3981,6 +3986,7 @@ midlandu.edu
 midmich.edu
 midpac.edu
 midsouthcc.edu
+midsouthchristian.edu
 midstate.edu
 midway.edu
 midwest.edu
@@ -4386,6 +4392,7 @@ nevada.edu
 new-zealand.edu
 new.edu
 newagetraining.edu
+newamericacollege.edu
 newarka.edu
 newberry.edu
 newbold.edu
@@ -4726,6 +4733,7 @@ oneonta.edu
 onu.edu
 open.edu
 openuniversity.edu
+opmi.edu
 opsu.edu
 oralroberts.edu
 orangecoastcollege.edu
@@ -6352,6 +6360,7 @@ trevecca.edu
 tri-c.edu
 tri-state.edu
 triangle-tech.edu
+tribecaflashpoint.edu
 tricociuniversity.edu
 tricountyallied.edu
 tricountycc.edu
@@ -7077,6 +7086,7 @@ vtu.edu
 vu.edu
 vul.edu
 vumc.edu
+vuom.edu
 vuu.edu
 vvc.edu
 vwc.edu
@@ -7427,6 +7437,7 @@ yust.edu
 yvcc.edu
 zamorano.edu
 zanestate.edu
+zaytuna.edu
 zg-ort.edu
 zion.edu
 zmi.edu
