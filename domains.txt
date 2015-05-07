@@ -68,7 +68,6 @@ achs.edu
 aci.edu
 acm.edu
 acmc.edu
-acot.edu
 acp.edu
 acpe.edu
 acphs.edu
@@ -110,6 +109,7 @@ aerobics.edu
 aesa.edu
 aesd.edu
 aestheticscienceinstitute.edu
+aeu.edu
 af.edu
 afa.edu
 afaa.edu
@@ -351,6 +351,7 @@ aoma.edu
 aotearoa.edu
 aou.edu
 aparicio-levy.edu
+apb.edu
 apc.edu
 apeejay.edu
 apexsot.edu
@@ -550,7 +551,6 @@ aviationmaintenance.edu
 aviator.edu
 avila.edu
 avtec.edu
-awbs.edu
 awc.edu
 awi.edu
 ayers.edu
@@ -736,7 +736,6 @@ bilkent.edu
 bim.edu
 binghamton.edu
 binus.edu
-biohealthcollege.edu
 biola.edu
 biop.edu
 bios.edu
@@ -1148,7 +1147,6 @@ ccu.edu
 ccucollege.edu
 ccuniversity.edu
 ccv.edu
-ccvc.edu
 cda.edu
 cdc.edu
 cde.edu
@@ -1301,6 +1299,7 @@ chungang.edu
 chw.edu
 cia.edu
 ciachef.edu
+ciam.edu
 cias.edu
 cibt.edu
 cibu.edu
@@ -1387,6 +1386,7 @@ clu.edu
 clunet.edu
 cluniv.edu
 cm.edu
+cma.edu
 cmc.edu
 cmcc.edu
 cmccd.edu
@@ -1873,6 +1873,7 @@ dominican.edu
 dominuniv.edu
 dongguk.edu
 donnelly.edu
+donrobertsbeautyschool.edu
 donrobertsschoolofhairdesign.edu
 dorcas.edu
 dordt.edu
@@ -1964,6 +1965,7 @@ ecam.edu
 ecat.edu
 ecc.edu
 eccc.edu
+eccu.edu
 ecii.edu
 eckerd.edu
 ecla.edu
@@ -2347,6 +2349,7 @@ frontrange.edu
 frostburg.edu
 fruitland.edu
 fscj.edu
+fsm.edu
 fst.edu
 fsu.edu
 fsw.edu
@@ -2564,6 +2567,7 @@ gskinbeautyinstitute.edu
 gsmc.edu
 gsot.edu
 gspp.edu
+gssti.edu
 gsu.edu
 gsw.edu
 gtc.edu
@@ -3086,6 +3090,7 @@ iss.edu
 issa.edu
 issaco.edu
 issaonline.edu
+issnschool.edu
 issweb.edu
 ist.edu
 istc.edu
@@ -3322,6 +3327,7 @@ kingsborough.edu
 kingscollegecharlotte.edu
 kingston.edu
 kingstonu.edu
+kingstonuniversity.edu
 kingsuniversity.edu
 kingsway.edu
 kingswood.edu
@@ -3708,6 +3714,7 @@ magellan.edu
 magnet.edu
 maharishi.edu
 mahidol.edu
+maia.edu
 maimonides.edu
 maine.edu
 mainemaritime.edu
@@ -3782,7 +3789,6 @@ massbay.edu
 massey.edu
 masters.edu
 matc.edu
-matcmadison.edu
 matech.edu
 math.edu
 mattiacollege.edu
@@ -3842,6 +3848,7 @@ mci.edu
 mcidenver.edu
 mcinj.edu
 mcintoshcollege.edu
+mciot.edu
 mcjvs.edu
 mckendree.edu
 mckenzie.edu
@@ -3933,6 +3940,7 @@ messengercollege.edu
 messiah.edu
 met.edu
 metacenter.edu
+metc.edu
 meteo.edu
 methodist.edu
 methodistcol.edu
@@ -4188,7 +4196,6 @@ mtaloy.edu
 mtangel.edu
 mtc.edu
 mtech.edu
-mtecwv.edu
 mtholyoke.edu
 mtic.edu
 mticollege.edu
@@ -4302,7 +4309,6 @@ nayanova.edu
 naz.edu
 nazarene.edu
 nazareth.edu
-nba.edu
 nbc.edu
 nbi.edu
 nbs.edu
@@ -4463,7 +4469,6 @@ nlbi.edu
 nlc.edu
 nlpbc.edu
 nls.edu
-nlts.edu
 nlu.edu
 nmc.edu
 nmcc.edu
@@ -4480,6 +4485,7 @@ nmu.edu
 nnmc.edu
 nnu.edu
 noao.edu
+nobeluniversity.edu
 nobles.edu
 nobts.edu
 noc.edu
@@ -4534,6 +4540,7 @@ notredamedenamuruniversity.edu
 nova.edu
 novominsk.edu
 novus.edu
+np.edu
 npaci.edu
 npc.edu
 npcc.edu
@@ -4921,7 +4928,6 @@ pgups.edu
 ph.edu
 phagans.edu
 phc.edu
-phcc.edu
 philadelphiauniversity.edu
 philander.edu
 philau.edu
@@ -4938,6 +4944,7 @@ phystech.edu
 pia.edu
 piaschools.edu
 pib.edu
+piberry.edu
 pic.edu
 piccollege.edu
 pict.edu
@@ -5003,6 +5010,7 @@ pnc.edu
 pnca.edu
 pns.edu
 pnu.edu
+pnw.edu
 pnwu.edu
 point.edu
 pointloma.edu
@@ -5055,7 +5063,6 @@ princeton.edu
 principia.edu
 principiacollege.edu
 prismcareerinstitute.edu
-professionalcosmetologyeducation.edu
 professorpc.edu
 prohands.edu
 prometeu.edu
@@ -5087,9 +5094,7 @@ psychology.edu
 psychosis.edu
 psychosynthesis.edu
 ptc.edu
-ptec.edu
 pti.edu
-ptipr.edu
 ptitraining.edu
 ptmcaz.edu
 pts.edu
@@ -5110,6 +5115,7 @@ pupr.edu
 purchase.edu
 purdue.edu
 purduecal.edu
+purduenw.edu
 pureaesthetics.edu
 pvamu.edu
 pvbi.edu
@@ -5550,7 +5556,6 @@ seattlecentral.edu
 seattlecolleges.edu
 seattleu.edu
 sebc.edu
-sebs.edu
 sebts.edu
 sec.edu
 secon.edu
@@ -5901,7 +5906,6 @@ starcareer.edu
 starkstate.edu
 startingpoints.edu
 statecareercollege.edu
-statecollegeofbeauty.edu
 statementstheacademy.edu
 statetechmo.edu
 staugustine.edu
@@ -6036,7 +6040,6 @@ sunyacc.edu
 sunybroome.edu
 sunycentral.edu
 sunycgcc.edu
-sunyct.edu
 sunydutchess.edu
 sunyerie.edu
 sunyit.edu
