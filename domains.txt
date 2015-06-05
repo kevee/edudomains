@@ -45,9 +45,9 @@ academyart.edu
 academycollege.edu
 academyofcosmetology.edu
 academyofcoutureart.edu
-academyofnailskinandhair.edu
 academyofpalmbeach.edu
 acaom.edu
+acaydia.edu
 acb.edu
 acbhd.edu
 acbrdu.edu
@@ -57,6 +57,7 @@ access.edu
 accesscareers.edu
 acchs.edu
 acck.edu
+accs.edu
 acdireland.edu
 ace.edu
 acecareer.edu
@@ -64,6 +65,7 @@ acenet.edu
 aces.edu
 acg.edu
 ach.edu
+ache.edu
 achs.edu
 aci.edu
 acm.edu
@@ -97,6 +99,7 @@ adrians.edu
 adschool.edu
 adu.edu
 adultedventura.edu
+aduonline.edu
 advanced.edu
 advancedcollege.edu
 advancedcomputinginstitute.edu
@@ -569,7 +572,6 @@ babel.edu
 babson.edu
 bac.edu
 bacone.edu
-bae.edu
 bai.edu
 bainbridge.edu
 baker.edu
@@ -630,6 +632,7 @@ bcl.edu
 bcm.edu
 bcs.edu
 bcsbc.edu
+bcsmn.edu
 bcva.edu
 bcw.edu
 beaconcollege.edu
@@ -708,7 +711,6 @@ bfcc.edu
 bfit.edu
 bfranklin.edu
 bgh.edu
-bgi.edu
 bgsm.edu
 bgsp.edu
 bgsu.edu
@@ -833,7 +835,6 @@ briarcliffe.edu
 briarwood.edu
 bricoh.edu
 bridge.edu
-bridgemont.edu
 bridgeport.edu
 bridges.edu
 bridgevalley.edu
@@ -1467,7 +1468,6 @@ coloradomesa.edu
 coloradomtn.edu
 coloradoschoolofenglish.edu
 coloradotech.edu
-colostate-pueblo.edu
 colostate.edu
 colsouth.edu
 colum.edu
@@ -2262,6 +2262,7 @@ fivetowns.edu
 fivetownscollege.edu
 fje.edu
 fkcc.edu
+fkmtc.edu
 fknbih.edu
 fl.edu
 flagler.edu
@@ -2357,6 +2358,7 @@ ftc.edu
 ftccollege.edu
 fti.edu
 ftium.edu
+fts.edu
 ftu.edu
 fu.edu
 fub.edu
@@ -2778,7 +2780,6 @@ hodson.edu
 hofstra.edu
 hoft.edu
 hohokus.edu
-hohokusrets.edu
 hol.edu
 hollins.edu
 hollywoodcollege.edu
@@ -2860,6 +2861,7 @@ hws.edu
 hyde.edu
 hylesanderson.edu
 hypnosis.edu
+iadc.edu
 iadt.edu
 iadtchicago.edu
 iadtpitt.edu
@@ -3545,6 +3547,7 @@ licm.edu
 life-east.edu
 life.edu
 lifepacific.edu
+lifetimeacademy.edu
 lifewest.edu
 lighthouse.edu
 lij.edu
@@ -3982,6 +3985,7 @@ michlalah.edu
 micro.edu
 mid-america.edu
 midamerica.edu
+midcitycollege.edu
 midcontinent.edu
 middlebury.edu
 middlegatech.edu
@@ -4309,6 +4313,7 @@ nayanova.edu
 naz.edu
 nazarene.edu
 nazareth.edu
+nba.edu
 nbc.edu
 nbi.edu
 nbs.edu
@@ -4346,6 +4351,7 @@ ncsu.edu
 nctc.edu
 ncti.edu
 ncu.edu
+ncuindia.edu
 ncura.edu
 ncwc.edu
 nd.edu
@@ -4435,6 +4441,7 @@ nhcc.edu
 nhed.edu
 nhi.edu
 nhia.edu
+nhsc.edu
 nhti.edu
 nhu.edu
 ni-u.edu
@@ -5095,6 +5102,7 @@ psychosis.edu
 psychosynthesis.edu
 ptc.edu
 pti.edu
+ptipr.edu
 ptitraining.edu
 ptmcaz.edu
 pts.edu
@@ -5520,7 +5528,6 @@ sctcc.edu
 sctd.edu
 sctech.edu
 sctechsystem.edu
-scti.edu
 sctoday.edu
 sctrain.edu
 scu.edu
@@ -6287,7 +6294,6 @@ thunderbird.edu
 tia.edu
 tias.edu
 ticas.edu
-ticifl.edu
 ticino.edu
 tidewatertechtrades.edu
 tiep.edu
@@ -6456,6 +6462,7 @@ ua.edu
 uaa.edu
 uab.edu
 uabmc.edu
+uac.edu
 uaccb.edu
 uacch.edu
 uaccm.edu
@@ -6571,7 +6578,6 @@ udelistmo.edu
 udem.edu
 udf.edu
 udg.edu
-udi.edu
 udlap.edu
 udmercy.edu
 udo.edu
@@ -6798,7 +6804,6 @@ upal.edu
 upb.edu
 upc.edu
 upcea.edu
-upcomillas.edu
 upenn.edu
 upf.edu
 uph.edu
@@ -7177,6 +7182,7 @@ wcu.edu
 wcui.edu
 wcupa.edu
 wdt.edu
+weacademy.edu
 webb.edu
 webber.edu
 webc.edu
