@@ -58,6 +58,7 @@ accesscareers.edu
 acchs.edu
 acck.edu
 accs.edu
+acct.edu
 acdireland.edu
 ace.edu
 acecareer.edu
@@ -122,6 +123,7 @@ afna.edu
 afoc.edu
 africainternational.edu
 africau.edu
+afundacion.edu
 agape.edu
 agbu.edu
 agnes.edu
@@ -572,6 +574,7 @@ babel.edu
 babson.edu
 bac.edu
 bacone.edu
+bae.edu
 bai.edu
 bainbridge.edu
 baker.edu
@@ -719,6 +722,7 @@ bharatividyapeeth.edu
 bhc.edu
 bhcarroll.edu
 bhcc.edu
+bhclr.edu
 bhi.edu
 bhs.edu
 bhslr.edu
@@ -764,7 +768,6 @@ blair.edu
 blakeaustincollege.edu
 blanquerna.edu
 blc.edu
-blessedjohnxxiii.edu
 blinn.edu
 bloomfield.edu
 bloomu.edu
@@ -893,6 +896,7 @@ bsc.edu
 bscc.edu
 bse.edu
 bshp.edu
+bsk.edu
 bsmcon.edu
 bsom.edu
 bsp.edu
@@ -1213,7 +1217,6 @@ cesarritzcolleges.edu
 cescollege.edu
 cesma.edu
 cet.edu
-ceu-budapest.edu
 ceu.edu
 cf.edu
 cfbisd.edu
@@ -1495,6 +1498,7 @@ communitycarecollege.edu
 compass.edu
 compta.edu
 compton.edu
+compumed.edu
 computek.edu
 computer.edu
 computerman.edu
@@ -1566,7 +1570,6 @@ cpp.edu
 cps.edu
 cptc.edu
 cpu.edu
-cqlc.edu
 craftonhills.edu
 cranbrook.edu
 cranbrookart.edu
@@ -1644,7 +1647,6 @@ csumentor.edu
 csun.edu
 csuniv.edu
 csuohio.edu
-csupomona.edu
 csupueblo.edu
 csus.edu
 csusb.edu
@@ -2105,7 +2107,6 @@ escem.edu
 escoffier.edu
 escondidobiblecollege.edu
 escueladenegociosafundacion.edu
-escueladenegociosncg.edu
 escuelahotelera.edu
 ese.edu
 esec.edu
@@ -2144,13 +2145,13 @@ eurasia.edu
 eurecom.edu
 eureka.edu
 euruni.edu
-eustatiusmed.edu
 evangel.edu
 evangelia.edu
 evangelical.edu
 evangelicaltheologicalseminary.edu
 evansville.edu
 evc.edu
+evcc.edu
 everblue.edu
 everest.edu
 everestcollege.edu
@@ -2225,6 +2226,7 @@ felbrycollege.edu
 felician.edu
 fergusson.edu
 fernbank.edu
+ferrarasbeautyschool.edu
 ferris.edu
 ferrum.edu
 fetc.edu
@@ -2387,6 +2389,7 @@ gadjahmada.edu
 gadsdenstate.edu
 gaeliccollege.edu
 gaia.edu
+galaxymedicalcollege.edu
 galencollege.edu
 galgotiacollege.edu
 galileo.edu
@@ -2493,6 +2496,7 @@ gluck.edu
 gm.edu
 gma.edu
 gmc.edu
+gmca.edu
 gmconline.edu
 gmercyu.edu
 gmh.edu
@@ -2558,6 +2562,7 @@ greensboro.edu
 greenville.edu
 greenwayschool.edu
 greenwich.edu
+grifolsacademy.edu
 griggs.edu
 grin.edu
 grinnell.edu
@@ -3126,7 +3131,6 @@ itttech.edu
 itttechonline.edu
 itu.edu
 iu.edu
-iuav.edu
 iub.edu
 iubat.edu
 iucis.edu
@@ -3151,6 +3155,7 @@ ivcc.edu
 ivs.edu
 ivy.edu
 ivytech.edu
+iw.edu
 iwc.edu
 iwcc.edu
 iwp.edu
@@ -3257,6 +3262,7 @@ jztrendacademy.edu
 kaist.edu
 kanisius.edu
 kansas.edu
+kansaschristian.edu
 kaplan.edu
 kaplancareerinstitute.edu
 kaplancollege.edu
@@ -4274,6 +4280,7 @@ nae.edu
 naic.edu
 naicu.edu
 najah.edu
+nam.edu
 nap.edu
 napavalley.edu
 napmed.edu
@@ -4528,7 +4535,6 @@ northshorecollege.edu
 northshorelij.edu
 northsouth.edu
 northwestcareercollege.edu
-northwestcollege.edu
 northwestern.edu
 northwesterncollege.edu
 northwesterntech.edu
@@ -5173,6 +5179,7 @@ rbc.edu
 rc.edu
 rca.edu
 rcad.edu
+rcbc.edu
 rcbh.edu
 rcc.edu
 rccc.edu
@@ -5467,6 +5474,7 @@ sbgi.edu
 sbl.edu
 sbmelville.edu
 sbmri.edu
+sbp.edu
 sbs.edu
 sbts.edu
 sbu.edu
@@ -5607,6 +5615,7 @@ sfls.edu
 sfmccon.edu
 sfs.edu
 sfseminary.edu
+sfsm.edu
 sfsu.edu
 sft.edu
 sfts.edu
@@ -5813,6 +5822,7 @@ southeastmn.edu
 southeasttech.edu
 southern.edu
 southernchristian.edu
+southerncrescent.edu
 southernct.edu
 southernillinois.edu
 southernregional.edu
@@ -5842,6 +5852,7 @@ spacecoast.edu
 spalding.edu
 spartan.edu
 spatech.edu
+spatrainingacademy.edu
 spb.edu
 spc.edu
 spcc.edu
@@ -5855,13 +5866,11 @@ spenta.edu
 spertus.edu
 spfldcol.edu
 sph.edu
-spjc.edu
 spokane.edu
 spokanefalls.edu
 sportssciences.edu
 sportstherapy.edu
 spring.edu
-springfield.edu
 springfieldcollege.edu
 springhouse.edu
 sps.edu
@@ -6035,6 +6044,7 @@ summitcollege.edu
 summitoic.edu
 summitpacific.edu
 summitsalonacademy.edu
+summitsalonacademyperrysburg.edu
 summitu.edu
 sumnercollege.edu
 sunbridge.edu
@@ -6755,7 +6765,6 @@ universityofdundee.edu
 universityofsantamonica.edu
 univintegratedstudies.edu
 univnorthco.edu
-univor.edu
 unix.edu
 unk.edu
 unl.edu
@@ -7102,7 +7111,6 @@ wa.edu
 wab.edu
 waba.edu
 wabash.edu
-wacad.edu
 wadecollege.edu
 wadhams.edu
 wagner.edu
@@ -7447,6 +7455,5 @@ yvcc.edu
 zamorano.edu
 zanestate.edu
 zaytuna.edu
-zg-ort.edu
 zion.edu
 zmi.edu
