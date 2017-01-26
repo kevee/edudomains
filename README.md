@@ -8,6 +8,5 @@ What can you do with this?
 
 Anything where you really need data on what folks in higher-ed are doing online, here's a few ideas I'm still working on:
 
-* Ranking campus homepage accessibility using QUAIL http://github.com/kevee/quail
 * Ranking campuses by the insanity of their Sharepoint HTML.
 * Seeing the popularity of various CMSes in the .edu space.
