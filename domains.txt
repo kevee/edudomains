@@ -505,6 +505,7 @@ augustana.edu
 augustatech.edu
 auh.edu
 auhs.edu
+auhtc.edu
 aui.edu
 auis.edu
 aul.edu
@@ -884,7 +885,6 @@ brynmawr.edu
 bsa.edu
 bsc.edu
 bscc.edu
-bse.edu
 bshp.edu
 bsk.edu
 bsmcon.edu
@@ -1205,7 +1205,6 @@ centuracollegeonline.edu
 centurainstitute.edu
 century.edu
 centurycollege.edu
-centurylanguage.edu
 centuryuniversity.edu
 cernet.edu
 cerritos.edu
@@ -1423,6 +1422,7 @@ co-op.edu
 coa.edu
 coahomacc.edu
 coastal.edu
+coastalalabama.edu
 coastalbend.edu
 coastalcarolina.edu
 coastalpines.edu
@@ -1528,7 +1528,6 @@ contractor.edu
 conval.edu
 conversa.edu
 converse.edu
-conway.edu
 cookman.edu
 cooley.edu
 cooleylaw.edu
@@ -1658,7 +1657,6 @@ csustan.edu
 csusystem.edu
 ct.edu
 cta.edu
-ctae.edu
 ctc.edu
 ctcd.edu
 ctclc.edu
@@ -2007,6 +2005,7 @@ educause.edu
 educom.edu
 educorp.edu
 edutec.edu
+eei.edu
 eeii.edu
 een.edu
 eepis-its.edu
@@ -2038,7 +2037,6 @@ elgin.edu
 eli.edu
 elim.edu
 elinc.edu
-elitecosmetologyschool.edu
 eliteschools.edu
 elizabethgrady.edu
 ellis.edu
@@ -2274,6 +2272,7 @@ fletcher.edu
 florida-academy.edu
 florida.edu
 floridabarberacademy.edu
+floridacareercollege.edu
 floridacareerinstitute.edu
 floridachristianuniversity.edu
 floridacollege.edu
@@ -2451,7 +2450,6 @@ germanna.edu
 getty.edu
 gettysburg.edu
 gfcmsu.edu
-ggbts.edu
 ggc.edu
 ggu.edu
 ghc.edu
@@ -2501,7 +2499,6 @@ gnomon.edu
 gntc.edu
 gobbc.edu
 gocolumbia.edu
-gocvcc.edu
 goddard.edu
 gogebic.edu
 going-public.edu
@@ -2945,7 +2942,6 @@ ietlucknow.edu
 iewu.edu
 ifam.edu
 iga.edu
-iglobal.edu
 ignatius.edu
 igu.edu
 igw.edu
@@ -3747,7 +3743,6 @@ marionmilitary.edu
 mariontc.edu
 marist.edu
 maritime.edu
-maritimeinstitute.edu
 marlboro.edu
 marquette.edu
 marshall.edu
@@ -3806,7 +3801,6 @@ mc3.edu
 mca.edu
 mcad.edu
 mcb-seattle.edu
-mcbc.edu
 mcbi.edu
 mcc.edu
 mccann.edu
@@ -4870,7 +4864,6 @@ pcihealth.edu
 pcim.edu
 pcitraining.edu
 pcj.edu
-pcn.edu
 pcom.edu
 pcprofessor.edu
 pct.edu
@@ -4938,7 +4931,6 @@ piaschools.edu
 pib.edu
 piberry.edu
 pic.edu
-piccollege.edu
 picollege.edu
 pict.edu
 pie.edu
@@ -5241,7 +5233,6 @@ riverside.edu
 rivervalley.edu
 rivier.edu
 rjj.edu
-rjti.edu
 rkc.edu
 rknec.edu
 rlc.edu
@@ -5322,10 +5313,12 @@ rtc.edu
 rts.edu
 rtuvt.edu
 ru.edu
+rubysacademy.edu
 rudaes.edu
 rudolfsteinercollege.edu
 ruiacollege.edu
 runet.edu
+runiv.edu
 ruparel.edu
 rush.edu
 rushmore.edu
@@ -6024,7 +6017,6 @@ summitpacific.edu
 summitsalonacademy.edu
 summitsalonacademypdx.edu
 summitsalonacademyperrysburg.edu
-summitu.edu
 sumnercollege.edu
 sunbridge.edu
 suncoast.edu
@@ -7040,6 +7032,7 @@ vfmac.edu
 vfs.edu
 vgcc.edu
 vgi.edu
+vhacademy.edu
 vhcc.edu
 vibebarbercollege.edu
 vic.edu
@@ -7313,7 +7306,6 @@ wmcarey.edu
 wmcc.edu
 wmi.edu
 wmich.edu
-wmitchell.edu
 wmpenn.edu
 wmrc.edu
 wms.edu
