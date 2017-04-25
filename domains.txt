@@ -26,6 +26,7 @@ abbc.edu
 abc.edu
 abcadultschool.edu
 abcnash.edu
+abcollege.edu
 abcotechnology.edu
 abcott.edu
 abcs.edu
@@ -45,7 +46,6 @@ academy.edu
 academyart.edu
 academycollege.edu
 academyofcosmetology.edu
-academyofcoutureart.edu
 acaom.edu
 acaydia.edu
 acb.edu
@@ -296,6 +296,7 @@ amherst.edu
 ami.edu
 amity.edu
 amiu.edu
+amlotus.edu
 amnc.edu
 amnh.edu
 ampi.edu
@@ -334,7 +335,6 @@ anselm.edu
 anthem.edu
 anthemcollege.edu
 antillespr.edu
-antioch-college.edu
 antioch.edu
 antiochcollege.edu
 antiochla.edu
@@ -380,6 +380,7 @@ aquinascollege.edu
 arabicstudies.edu
 arapahoe.edu
 arbor.edu
+arbs.edu
 arcadia.edu
 archimede.edu
 architect.edu
@@ -410,6 +411,7 @@ artinstitutes.edu
 artinstructionschools.edu
 artisancollege.edu
 artistic.edu
+aru.edu
 as.edu
 asa.edu
 asaom.edu
@@ -427,6 +429,8 @@ ashmead.edu
 ashworthcollege.edu
 asi.edu
 asiapacific.edu
+asicollege.edu
+asismassage.edu
 asl.edu
 asm.edu
 asn.edu
@@ -598,6 +602,7 @@ bastyr.edu
 bastyruniversity.edu
 batc.edu
 bates.edu
+batestech.edu
 bath.edu
 bauder.edu
 baxterinstitute.edu
@@ -843,6 +848,7 @@ bristolcc.edu
 bristoluniversity.edu
 britanico-aragon.edu
 brite.edu
+brittanyacademy.edu
 broadviewuniversity.edu
 brockport.edu
 broked.edu
@@ -960,6 +966,7 @@ californiacolleges.edu
 californialanguageschool.edu
 californiamedicalcollege.edu
 californiawestern.edu
+calimt.edu
 calinstitute.edu
 callutheran.edu
 calmu.edu
@@ -1122,6 +1129,7 @@ ccis.edu
 ccitraining.edu
 cclemoyne.edu
 ccls.edu
+cclsmiami.edu
 ccm.edu
 ccmcc.edu
 ccms.edu
@@ -1193,6 +1201,7 @@ centralfloridacollege.edu
 centralgatech.edu
 centralia.edu
 centralmethodist.edu
+centraloc.edu
 centralpenn.edu
 centralseminary.edu
 centralstate.edu
@@ -1384,6 +1393,7 @@ clovis.edu
 cloviscollege.edu
 clpccd.edu
 cltcc.edu
+clu.edu
 clunet.edu
 cluniv.edu
 cm.edu
@@ -1398,7 +1408,6 @@ cmh.edu
 cmi.edu
 cmich.edu
 cmn.edu
-cmnok.edu
 cmpr.edu
 cmps.edu
 cms.edu
@@ -1448,7 +1457,6 @@ colburnschool.edu
 colby-sawyer.edu
 colby.edu
 colbycc.edu
-coleholland.edu
 coleman.edu
 colgate.edu
 colin.edu
@@ -1502,6 +1510,7 @@ compumed.edu
 computek.edu
 computer.edu
 computerman.edu
+computertutorbti.edu
 conception.edu
 concord.edu
 concorde-online.edu
@@ -1591,7 +1600,6 @@ crestmem.edu
 crestmont.edu
 crhsnet.edu
 cri.edu
-cril.edu
 crimea.edu
 crimsontech.edu
 criswell.edu
@@ -1734,7 +1742,6 @@ cypresscollege.edu
 cyttl.edu
 dacc.edu
 dadc.edu
-dademedical.edu
 daemen.edu
 dakotacollege.edu
 dalecarnegie.edu
@@ -1761,6 +1768,7 @@ davidsonccc.edu
 davis.edu
 daviscollege.edu
 davisny.edu
+davistech.edu
 dawncareerinstitute.edu
 dawson.edu
 dayanandasagar.edu
@@ -1943,6 +1951,7 @@ eac.edu
 eacc.edu
 eada.edu
 eaglegatecollege.edu
+eaglerockcollege.edu
 eagles.edu
 eap.edu
 earlham.edu
@@ -2001,6 +2010,7 @@ edpuniversity.edu
 eds.edu
 edu.edu
 education.edu
+educatore.edu
 educause.edu
 educom.edu
 educorp.edu
@@ -2030,6 +2040,7 @@ elc.edu
 elcamino.edu
 elcentrocollege.edu
 elci.edu
+elcok.edu
 elearning.edu
 electricaltrainingcenter.edu
 electroniclearning.edu
@@ -2173,7 +2184,6 @@ ewit.edu
 ewu.edu
 ewubd.edu
 example.edu
-excel.edu
 excelsior.edu
 excelsiorcollege.edu
 exeter.edu
@@ -2192,7 +2202,6 @@ faith.edu
 faithseminary.edu
 falcon.edu
 familyoffaith.edu
-familyoffaithcollege.edu
 famu.edu
 fandm.edu
 farmingdale.edu
@@ -2265,6 +2274,7 @@ fje.edu
 fkcc.edu
 fkmtc.edu
 fl.edu
+flacademyofbeauty.edu
 flagler.edu
 flbog.edu
 flcc.edu
@@ -2473,6 +2483,7 @@ glcc.edu
 glendale.edu
 glendalelaw.edu
 glenoaks.edu
+glenoakscollege.edu
 glenville.edu
 gli.edu
 glion.edu
@@ -2680,7 +2691,6 @@ hccs.edu
 hchc.edu
 hchs.edu
 hci.edu
-hcl.edu
 hcu.edu
 hdmc.edu
 hdu.edu
@@ -2691,6 +2701,7 @@ healduniversity.edu
 healingmountain.edu
 healingoasis.edu
 healthandstyle.edu
+healthcarecareercollege.edu
 healthcareprep.edu
 healthworks.edu
 heartland.edu
@@ -2938,6 +2949,7 @@ iei.edu
 ies.edu
 iesa.edu
 iese.edu
+ieside.edu
 ietlucknow.edu
 iewu.edu
 ifam.edu
@@ -2978,6 +2990,7 @@ ilslaw.edu
 ilstu.edu
 ilternet.edu
 ilu.edu
+imbc.edu
 imc.edu
 imcassociation.edu
 imdr.edu
@@ -3062,7 +3075,6 @@ ipm.edu
 ipr.edu
 ips.edu
 ipsb.edu
-ipsciences.edu
 iqe.edu
 iqs.edu
 irenes.edu
@@ -3087,7 +3099,6 @@ iss.edu
 issa.edu
 issaco.edu
 issaonline.edu
-issnschool.edu
 issweb.edu
 ist.edu
 istc.edu
@@ -3307,6 +3318,7 @@ kgi.edu
 kgmcindia.edu
 khai.edu
 kharkiv.edu
+khs.edu
 khu.edu
 kids.edu
 kiet.edu
@@ -4141,7 +4153,6 @@ mpgu.edu
 mpi.edu
 mpm.edu
 mrc.edu
-mru.edu
 ms.edu
 msae.edu
 msb.edu
@@ -4236,7 +4247,6 @@ mybrcc.edu
 mycenae.edu
 mycomputercareer.edu
 myconcorde.edu
-myita.edu
 mylincoln.edu
 mymiu.edu
 myotherapy.edu
@@ -4297,7 +4307,6 @@ nbi.edu
 nbs.edu
 nbss.edu
 nbts.edu
-nbusd.edu
 nc.edu
 ncad.edu
 ncat.edu
@@ -4318,7 +4327,6 @@ ncktc.edu
 ncmc.edu
 ncmich.edu
 ncmissouri.edu
-ncnm.edu
 ncpcollegeofnursing.edu
 ncpe.edu
 ncsa.edu
@@ -4690,7 +4698,6 @@ oit.edu
 ojc.edu
 okbu.edu
 okcu.edu
-okefenokeetech.edu
 okstate.edu
 okwu.edu
 okwustudents.edu
@@ -4846,7 +4853,6 @@ pbacademy.edu
 pbc.edu
 pbcny.edu
 pbcts.edu
-pbisn.edu
 pbrc.edu
 pc.edu
 pcad.edu
@@ -4906,7 +4912,6 @@ pfeiffer.edu
 pfm.edu
 pgc.edu
 pgcc.edu
-pgi.edu
 pgu.edu
 pgups.edu
 ph.edu
@@ -5155,6 +5160,7 @@ rcc.edu
 rccc.edu
 rccd.edu
 rcgc.edu
+rci.edu
 rcit.edu
 rcpsc.edu
 rcs.edu
@@ -5233,6 +5239,7 @@ riverside.edu
 rivervalley.edu
 rivier.edu
 rjj.edu
+rjti.edu
 rkc.edu
 rknec.edu
 rlc.edu
@@ -5409,7 +5416,6 @@ sandiegoculinary.edu
 sanford-brown.edu
 sanfordbrown.edu
 sanfranciscoart.edu
-sanignaciocollege.edu
 sanignaciouniversity.edu
 sanjac.edu
 sanjuan.edu
@@ -5596,6 +5602,7 @@ sfusd.edu
 sfvlaw.edu
 sfwbc.edu
 sgc.edu
+sggs.edu
 sgsc.edu
 sgu.edu
 shaarhatorah.edu
@@ -5907,12 +5914,12 @@ stclaire.edu
 stclements.edu
 stcloudstate.edu
 stealth.edu
+stech.edu
 stedwards.edu
 stefan-university.edu
 steiner.edu
 steinercollege.edu
 stenotech.edu
-stenotype.edu
 stephens.edu
 sterling.edu
 sterlingcollege.edu
@@ -5997,6 +6004,7 @@ stvincent.edu
 stvincentscollege.edu
 stvt.edu
 stvti.edu
+stylemasters.edu
 su.edu
 suagm.edu
 subr.edu
@@ -6465,6 +6473,8 @@ uanet.edu
 uap-bd.edu
 uapar.edu
 uapb.edu
+uaptc.edu
+uarichmountain.edu
 uark.edu
 uarts.edu
 uas.edu
@@ -6480,7 +6490,9 @@ ubalt.edu
 ubatc.edu
 ubc.edu
 ubi.edu
+uboces.edu
 ubonline.edu
+ubtech.edu
 uc.edu
 uc3m.edu
 uca.edu
@@ -6549,7 +6561,6 @@ ucsc-extension.edu
 ucsc.edu
 ucsd.edu
 ucsf.edu
-ucsgh.edu
 uctm.edu
 ucumberlands.edu
 ucwv.edu
@@ -6611,6 +6622,7 @@ uky.edu
 ula.edu
 ull.edu
 ulm.edu
+uls.edu
 ulster.edu
 ulsystem.edu
 ultimatemedical.edu
@@ -6723,6 +6735,7 @@ unitec.edu
 unitech.edu
 unitecpr.edu
 united.edu
+unitedlutheranseminary.edu
 unitedmedicalinstitute.edu
 unitedseminary.edu
 unitekcollege.edu
